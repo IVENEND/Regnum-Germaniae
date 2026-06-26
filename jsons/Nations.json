@@ -1079,6 +1079,63 @@
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
         "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
     },
+	{
+		"name": "Swabia",
+		"leaderName": "Frederick Barbarossa",
+		"adjective": ["Swabian"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Otto von Bismarck",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [255, 204, 0],
+		"innerColor": [30, 30, 30],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Ulm","Stuttgart","Baden-Baden","Augsburg","Kempten","Memmingen","Nördlingen","Ravensburg","Teck","Staufen",
+			"Waldburg","Salem","Roggenburg","Ochsenhausen","Fürstenberg","Mindelheim","Lindau","Klettgau","Heilbronn","Gundelfingen",
+			"Constance","Bonndorf","Bopfingen","Aalen","Hohenzollern"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+	{
+		"name": "Bavaria",
+		"leaderName": "Elector Maximilian I",
+		"adjective": ["Bavarian"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Otto von Bismarck",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [0, 152, 212],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Munich","Landshut","Ingolstadt","Straubing","Passau","Landsberg","Dachau","Freising","Rosenheim","Starnberg",
+			"Regen","Deggendorf","Pfaffenhofen","Ebersberg","Erding"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
 
 
 	// City-States sorted by cityStateType, name
