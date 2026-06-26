@@ -1,33 +1,2028 @@
 
 game.png
-size: 1024, 256
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Adelle Corp
   rotate: false
-  xy: 628, 104
+  xy: 4, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The New Movement
   rotate: false
-  xy: 420, 4
+  xy: 212, 808
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/African Forest Elephant
+  rotate: false
+  xy: 212, 735
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Aircraft Gun
+  rotate: false
+  xy: 420, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Aircraft Gun-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Tank Gun-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Archer-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Atomic era-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Caravel-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-Modern era-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant-Modern era-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Prophet-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Scientist-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great War Infantry-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Helicopter Gunship-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horseman-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Infantry-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Inquisitor-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ironclad-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Landship-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Longswordsman-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Machine Gun-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marine-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mechanized Infantry-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missile Cruiser-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missionary-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mobile SAM-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Modern Armor-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Musketman-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Paratrooper-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Privateer-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rocket Artillery-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-Modern era-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spearman-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tank-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trebuchet-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trireme-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Warrior-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Modern era-1
+  rotate: false
+  xy: 4, 428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Aircraft Gun-2
+  rotate: false
+  xy: 112, 536
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Tank Gun
+  rotate: false
+  xy: 212, 671
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anti-Tank Gun-2
+  rotate: false
+  xy: 284, 744
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Archer
+  rotate: false
+  xy: 420, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Archer-2
+  rotate: false
+  xy: 492, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery
+  rotate: false
+  xy: 4, 364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-2
+  rotate: false
+  xy: 212, 607
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Atomic era
+  rotate: false
+  xy: 284, 680
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Atomic era-2
+  rotate: false
+  xy: 420, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Atlatlist
+  rotate: false
+  xy: 492, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ballista
+  rotate: false
+  xy: 564, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battering Ram
+  rotate: false
+  xy: 4, 300
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battleship
+  rotate: false
+  xy: 284, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battleship-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cannon-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier-Information era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Catapult-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot Archer-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Destroyer-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Modern era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Renaissance era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Frigate-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Galleass-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Giant Death Robot-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist-Modern era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer-Modern era-1
+  rotate: false
+  xy: 4, 227
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battleship-2
+  rotate: false
+  xy: 492, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Berserker
+  rotate: false
+  xy: 564, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bowman
+  rotate: false
+  xy: 636, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Brute
+  rotate: false
+  xy: 4, 163
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camel Archer
+  rotate: false
+  xy: 4, 85
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cannon
+  rotate: false
+  xy: 564, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cannon-2
+  rotate: false
+  xy: 636, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Caravel
+  rotate: false
+  xy: 708, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Caravel-2
+  rotate: false
+  xy: 4, 21
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carolean
+  rotate: false
+  xy: 636, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier
+  rotate: false
+  xy: 708, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier-2
+  rotate: false
+  xy: 780, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier-Information era
+  rotate: false
+  xy: 708, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Carrier-Information era-2
+  rotate: false
+  xy: 780, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cataphract
+  rotate: false
+  xy: 852, 944
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Catapult
+  rotate: false
+  xy: 780, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Catapult-2
+  rotate: false
+  xy: 924, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cavalry
+  rotate: false
+  xy: 356, 735
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cavalry-1
+  rotate: false
+  xy: 996, 943
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cavalry-2
+  rotate: false
+  xy: 1068, 943
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot Archer
+  rotate: false
+  xy: 1140, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot Archer-2
+  rotate: false
+  xy: 1212, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chu-Ko-Nu
+  rotate: false
+  xy: 1284, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/CivilianLandUnit
+  rotate: false
+  xy: 1356, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Companion Cavalry
+  rotate: false
+  xy: 1428, 941
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Composite Bowman
+  rotate: false
+  xy: 1500, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Composite Bowman-1
+  rotate: false
+  xy: 1572, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Composite Bowman-2
+  rotate: false
+  xy: 1644, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Conquistador
+  rotate: false
+  xy: 1716, 941
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cossack
+  rotate: false
+  xy: 1788, 943
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Crossbowman
+  rotate: false
+  xy: 1860, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Crossbowman-1
+  rotate: false
+  xy: 1932, 952
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Crossbowman-2
+  rotate: false
+  xy: 428, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Destroye-2
+  rotate: false
+  xy: 500, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Destroyer
+  rotate: false
+  xy: 572, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dromon
+  rotate: false
+  xy: 644, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian
+  rotate: false
+  xy: 716, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-2
+  rotate: false
+  xy: 788, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era
+  rotate: false
+  xy: 112, 472
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Modern era-2
+  rotate: false
+  xy: 76, 408
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era
+  rotate: false
+  xy: 76, 344
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Civilian-Renaissance era-2
+  rotate: false
+  xy: 76, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military
+  rotate: false
+  xy: 76, 216
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-2
+  rotate: false
+  xy: 76, 152
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era
+  rotate: false
+  xy: 76, 88
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Modern era-2
+  rotate: false
+  xy: 76, 24
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era
+  rotate: false
+  xy: 148, 408
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Military-Renaissance era-2
+  rotate: false
+  xy: 148, 344
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler
+  rotate: false
+  xy: 148, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-2
+  rotate: false
+  xy: 148, 216
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Modern era
+  rotate: false
+  xy: 148, 144
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Modern era-2
+  rotate: false
+  xy: 148, 72
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Renaissance era
+  rotate: false
+  xy: 148, 8
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/EmbarkedUnit-Settler-Renaissance era-2
+  rotate: false
+  xy: 428, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Foreign Legion
+  rotate: false
+  xy: 500, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Frigate
+  rotate: false
+  xy: 572, 688
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Frigate-2
+  rotate: false
+  xy: 644, 688
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Galleass
+  rotate: false
+  xy: 716, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Galleass-2
+  rotate: false
+  xy: 788, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Galley
+  rotate: false
+  xy: 184, 536
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gatling Gun
+  rotate: false
+  xy: 184, 472
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gatling Gun-1
+  rotate: false
+  xy: 220, 408
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gatling Gun-2
+  rotate: false
+  xy: 220, 344
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Giant Death Robot
+  rotate: false
+  xy: 220, 272
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Giant Death Robot-2
+  rotate: false
+  xy: 220, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist
+  rotate: false
+  xy: 220, 136
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist-2
+  rotate: false
+  xy: 220, 72
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist-Modern era
+  rotate: false
+  xy: 220, 8
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Artist-Modern era-2
+  rotate: false
+  xy: 924, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer
+  rotate: false
+  xy: 996, 879
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer-2
+  rotate: false
+  xy: 1068, 879
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer-Modern era
+  rotate: false
+  xy: 1140, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Engineer-Modern era-2
+  rotate: false
+  xy: 1212, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General
+  rotate: false
+  xy: 1284, 879
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-2
+  rotate: false
+  xy: 1356, 879
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-Modern era
+  rotate: false
+  xy: 1428, 868
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-Modern era-2
+  rotate: false
+  xy: 1500, 879
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant
+  rotate: false
+  xy: 1572, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant-2
+  rotate: false
+  xy: 1644, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant-Modern era
+  rotate: false
+  xy: 1716, 877
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Merchant-Modern era-2
+  rotate: false
+  xy: 1788, 879
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Prophet
+  rotate: false
+  xy: 1860, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Prophet-2
+  rotate: false
+  xy: 1932, 888
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Scientist
+  rotate: false
+  xy: 256, 543
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Scientist-2
+  rotate: false
+  xy: 256, 479
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Scientist-Modern era
+  rotate: false
+  xy: 292, 415
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great Scientist-Modern era-1
+  rotate: false
+  xy: 292, 351
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great War Infantry
+  rotate: false
+  xy: 292, 287
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great War Infantry-2
+  rotate: false
+  xy: 292, 223
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hakkapeliitta
+  rotate: false
+  xy: 292, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Helicopter Gunship
+  rotate: false
+  xy: 292, 87
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Helicopter Gunship-2
+  rotate: false
+  xy: 292, 23
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hoplite
+  rotate: false
+  xy: 1500, 815
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horse Archer
+  rotate: false
+  xy: 1572, 817
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horseman
+  rotate: false
+  xy: 1644, 817
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horseman-2
+  rotate: false
+  xy: 1716, 806
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hussar
+  rotate: false
+  xy: 328, 543
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Hwach'a
+  rotate: false
+  xy: 328, 479
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Infantry
+  rotate: false
+  xy: 364, 415
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Infantry-2
+  rotate: false
+  xy: 364, 351
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Inquisitor
+  rotate: false
+  xy: 364, 287
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Inquisitor-2
+  rotate: false
+  xy: 364, 223
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ironclad
+  rotate: false
+  xy: 364, 159
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ironclad-2
+  rotate: false
+  xy: 364, 95
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jaguar
+  rotate: false
+  xy: 364, 31
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Janissary
+  rotate: false
+  xy: 1140, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Keshik
+  rotate: false
+  xy: 1212, 815
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Khan
+  rotate: false
+  xy: 1284, 805
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Khan-Modern era
+  rotate: false
+  xy: 1356, 806
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Knight
+  rotate: false
+  xy: 1428, 794
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Knight-1
+  rotate: false
+  xy: 1500, 741
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Knight-2
+  rotate: false
+  xy: 1572, 743
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lancer
+  rotate: false
+  xy: 1644, 744
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lancer-1
+  rotate: false
+  xy: 1716, 733
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lancer-2
+  rotate: false
+  xy: 1644, 671
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/LandUnit
+  rotate: false
+  xy: 1572, 679
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Landship
+  rotate: false
+  xy: 1716, 669
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Landship-2
+  rotate: false
+  xy: 716, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Landsknecht
+  rotate: false
+  xy: 788, 628
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Legion
+  rotate: false
+  xy: 852, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Longbowman
+  rotate: false
+  xy: 924, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Longswordsman
+  rotate: false
+  xy: 860, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Longswordsman-2
+  rotate: false
+  xy: 860, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Machine Gun
+  rotate: false
+  xy: 860, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Machine Gun-2
+  rotate: false
+  xy: 932, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mandekalu Cavalry
+  rotate: false
+  xy: 932, 689
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Maori Warrior
+  rotate: false
+  xy: 1004, 815
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marauder
+  rotate: false
+  xy: 1004, 751
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marine
+  rotate: false
+  xy: 860, 568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Marine-2
+  rotate: false
+  xy: 1932, 824
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mechanized Infantry
+  rotate: false
+  xy: 428, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mechanized Infantry-2
+  rotate: false
+  xy: 500, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mehal Sefari
+  rotate: false
+  xy: 572, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Minuteman
+  rotate: false
+  xy: 644, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missile Cruiser
+  rotate: false
+  xy: 716, 568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missile Cruiser-2
+  rotate: false
+  xy: 788, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missionary
+  rotate: false
+  xy: 860, 504
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Missionary-2
+  rotate: false
+  xy: 1076, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mobile SAM
+  rotate: false
+  xy: 1076, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mobile SAM-2
+  rotate: false
+  xy: 1004, 677
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Modern Armo-2
+  rotate: false
+  xy: 1076, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Modern Armor
+  rotate: false
+  xy: 932, 615
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mohawk Warrior
+  rotate: false
+  xy: 1004, 613
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Musketeer
+  rotate: false
+  xy: 932, 551
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Musketman
+  rotate: false
+  xy: 1004, 549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Musketman-2
+  rotate: false
+  xy: 1076, 568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Naresuan's Elephant
+  rotate: false
+  xy: 932, 478
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Norwegian Ski Infantry
+  rotate: false
+  xy: 1004, 485
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Nuclear Submarine
+  rotate: false
+  xy: 1004, 421
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Panzer
+  rotate: false
+  xy: 1788, 760
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Paratrooper
+  rotate: false
+  xy: 1788, 696
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Paratrooper-2
+  rotate: false
+  xy: 1788, 632
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Persian Immortal
+  rotate: false
+  xy: 400, 552
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pictish Warrior
+  rotate: false
+  xy: 400, 488
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman
+  rotate: false
+  xy: 436, 412
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-1
+  rotate: false
+  xy: 436, 336
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-2
+  rotate: false
+  xy: 436, 260
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Privateer
+  rotate: false
+  xy: 436, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Privateer-2
+  rotate: false
+  xy: 436, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Quinquereme
+  rotate: false
+  xy: 436, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rifleman
+  rotate: false
+  xy: 436, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rifleman-1
+  rotate: false
+  xy: 1148, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rifleman-2
+  rotate: false
+  xy: 1148, 677
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rocket Artillery
+  rotate: false
+  xy: 1148, 613
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rocket Artillery -2
+  rotate: false
+  xy: 1148, 549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rocket Artillery-2
+  rotate: false
+  xy: 1148, 549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/SS Booster
+  rotate: false
+  xy: 1220, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/SS Cockpit
+  rotate: false
+  xy: 1220, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/SS Engine
+  rotate: false
+  xy: 1220, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/SS Stasis Chamber
+  rotate: false
+  xy: 1220, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Samurai
+  rotate: false
+  xy: 1220, 675
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout
+  rotate: false
+  xy: 1292, 741
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout-2
+  rotate: false
+  xy: 1292, 677
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sea Beggar
+  rotate: false
+  xy: 1292, 613
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler
+  rotate: false
+  xy: 1220, 607
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-2
+  rotate: false
+  xy: 1220, 543
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-Modern era
+  rotate: false
+  xy: 1292, 549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-Modern era-2
+  rotate: false
+  xy: 1364, 730
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ship of the Line
+  rotate: false
+  xy: 1364, 658
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sipahi
+  rotate: false
+  xy: 1364, 583
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Skirmisher
+  rotate: false
+  xy: 1436, 677
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Slinger
+  rotate: false
+  xy: 1436, 613
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spearman
+  rotate: false
+  xy: 1436, 549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spearman-2
+  rotate: false
+  xy: 1508, 615
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Submarine
+  rotate: false
+  xy: 1508, 551
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Swordsman
+  rotate: false
+  xy: 1508, 487
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Swordsman-1
+  rotate: false
+  xy: 1436, 485
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Swordsman-2
+  rotate: false
+  xy: 1508, 423
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tank
+  rotate: false
+  xy: 1580, 607
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tank-2
+  rotate: false
+  xy: 1652, 605
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tercio
+  rotate: false
+  xy: 1652, 541
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trebuchet
+  rotate: false
+  xy: 1724, 568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trebuchet-2
+  rotate: false
+  xy: 1796, 568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trireme
+  rotate: false
+  xy: 1652, 477
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Trireme-2
+  rotate: false
+  xy: 1796, 504
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Turtle Ship
+  rotate: false
+  xy: 1724, 477
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/War Chariot
+  rotate: false
+  xy: 1796, 436
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/War Elephant
+  rotate: false
+  xy: 1652, 407
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Warrior
+  rotate: false
+  xy: 1724, 413
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Warrior-2
+  rotate: false
+  xy: 1796, 372
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Work Boats
+  rotate: false
+  xy: 1724, 349
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Work Boats-Modern era
+  rotate: false
+  xy: 1796, 308
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker
+  rotate: false
+  xy: 1724, 285
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-2
+  rotate: false
+  xy: 1796, 244
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Modern era
+  rotate: false
+  xy: 1724, 221
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Modern era-2
+  rotate: false
+  xy: 1796, 180
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Infantry
   rotate: false
-  xy: 4, 4
+  xy: 4, 808
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Settler
   rotate: false
-  xy: 212, 4
+  xy: 4, 600
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
