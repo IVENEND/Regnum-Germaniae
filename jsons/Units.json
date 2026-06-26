@@ -736,7 +736,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
@@ -750,7 +750,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
@@ -766,7 +766,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Metal Casting",
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious"],
@@ -806,6 +806,18 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Two-handed Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 23,
+		"cost": 140,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Musketman",
 		"unitType": "Gunpowder",
 		"range": 1,
@@ -814,8 +826,8 @@
 		"rangedStrength": 22,
 		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
 		"attackSound": "shot"
 	},
 	{
