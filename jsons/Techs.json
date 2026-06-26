@@ -314,6 +314,13 @@
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{
+				"name": "Heavy Cold Weapons",
+				"row": 9,
+				"prerequisites": ["Steel"],
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
 				"name": "Gunpowder",
 				"row": 10,
 				"prerequisites": ["Physics","Steel"],
@@ -351,14 +358,14 @@
 			{
 				"name": "Metallurgy",
 				"row": 8,
-				"prerequisites": ["Printing Press","Gunpowder"],
+				"prerequisites": ["Printing Press","Gunpowder","Heavy Cold Weapons"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},
 			{
 				"name": "Pike and Shot Tactic",
 				"row": 9,
-				"prerequisites": ["Gunpowder"],
+				"prerequisites": ["Gunpowder","Heavy Cold Weapons"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'Placeholder.' - Placeholder"
 			},

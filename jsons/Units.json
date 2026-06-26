@@ -667,7 +667,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Musketman",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Dynamite",
 		"attackSound": "crossbow"
 	},
 	{
@@ -681,7 +681,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Dynamite",
 		"promotions": ["[Chu-Ko-Nu] ability"],
 		"attackSound": "crossbow"
 	},
@@ -697,7 +697,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Dynamite",
 		"promotions": ["Extended Range"],
 		"attackSound": "arrow"
 	},
@@ -737,7 +737,7 @@
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Two-handed Swordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Heavy Cold Weapons",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -751,7 +751,7 @@
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Two-handed Swordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Heavy Cold Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
 		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
@@ -767,7 +767,7 @@
 		"cost": 120,
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Two-handed Swordsman",
-		"obsoleteTech": "Metallurgy",
+		"obsoleteTech": "Heavy Cold Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious"],
 		"hurryCostModifier": 20,
@@ -811,7 +811,7 @@
 		"movement": 2,
 		"strength": 23,
 		"cost": 140,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Heavy Cold Weapons",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
@@ -839,7 +839,7 @@
 		"cost": 130,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
+		"obsoleteTech": "Dynamite",
 		"attackSound": "shot"
 	},
 	{
@@ -1023,7 +1023,7 @@
 		"strength": 30,
 		"rangedStrength": 30,
 		"cost": 225,
-		"requiredTech": "Industrialization",
+		"requiredTech": "Dynamite",
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
