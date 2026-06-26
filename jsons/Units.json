@@ -666,7 +666,7 @@
 		"rangedStrength": 18,
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
+		"upgradesTo": "Musketman",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
 	},
@@ -808,12 +808,14 @@
 	{
 		"name": "Musketman",
 		"unitType": "Gunpowder",
+		"range": 1,
 		"movement": 2,
-		"strength": 24,
-		"cost": 150,
+		"strength": 22,
+		"rangedStrength": 22,
+		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
 		"attackSound": "shot"
 	},
 	{
