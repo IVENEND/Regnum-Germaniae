@@ -531,7 +531,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Pike and Shot",
-		"obsoleteTech": "Metallurgy",
+		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
 	},
 	{
@@ -545,7 +545,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
-		"obsoleteTech": "Metallurgy",
+		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
 	},
@@ -823,7 +823,7 @@
 		"movement": 2,
 		"strength": 26,
 		"cost": 160,
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Pike and Shot Tactic",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
