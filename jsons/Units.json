@@ -530,7 +530,7 @@
 		"cost": 90,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"upgradesTo": "Lancer",
+		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	},
@@ -544,7 +544,7 @@
 		"cost": 45,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
-		"upgradesTo": "Lancer",
+		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
@@ -815,6 +815,18 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Pike and Shot",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 26,
+		"cost": 160,
+		"requiredTech": "Metallurgy",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
 	{
