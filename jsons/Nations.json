@@ -1191,8 +1191,8 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>"],
-		"cities": ["Munich","Landshut","Ingolstadt","Straubing","Passau","Landsberg","Dachau","Freising","Rosenheim","Starnberg",
-			"Regen","Deggendorf","Pfaffenhofen","Ebersberg","Erding"],
+		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","	Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
+			"Forchheim","Zirndorf","Kulmbach","Meiningen"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
