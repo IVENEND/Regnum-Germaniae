@@ -1098,7 +1098,7 @@
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-		"outerColor": [255, 204, 0],
+		"outerColor": [239, 180, 0],
 		"innerColor": [30, 30, 30],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Furor Teutonicus",
@@ -1276,6 +1276,35 @@
 		"cities": ["Bern","Zürich","Geneva","Basel","Lucerne","St. Gallen","Lausanne","Winterthur","Lugano","Bienne","Thun",
 			"Schaffhausen","La Chaux de Fonds","Fribourg","Chur","Chur","Neuhatel","Vernier","Uster","Sion","Emmen","Portein","Corippo","Mulegns","Bister","Martisberg","Goumoens le Jux","Largario","Clugin","Cauco"],
         "spyNames": ["Hanz", "Erich", "Fritz", "Urs", "René", "Guido", "Ruedi", "Ueli", "Heidi", "Gerda"]
+    },
+	{
+		"name": "Saxony",
+		"leaderName": "Frederick Augustus I",
+		"adjective": ["Saxon"],
+        "startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Isabella",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [29, 75, 6],
+		"innerColor": [191, 187, 152],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
+			"Forchheim","Zirndorf","Kulmbach","Meiningen"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
 
