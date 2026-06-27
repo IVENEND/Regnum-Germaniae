@@ -535,17 +535,17 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Landsknecht",
+		"name": "Reisläufer",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
-		"uniqueTo": "Germany",
+		"uniqueTo": "Switzerland",
 		"movement": 2,
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
-		"upgradesTo": "Pike and Shot",
-		"obsoleteTech": "Pike and Shot Tactic",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
 	},
