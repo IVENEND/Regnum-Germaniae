@@ -1199,7 +1199,7 @@
 		"leaderName": "Elector Frederick V",
 		"adjective": ["Palatine"],
         "startBias": ["Forest","Avoid [Coast]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 		"personality": "Otto von Bismarck",
 
         "startIntroPart1": "placeholder.",
@@ -1219,8 +1219,37 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>"],
-		"cities": ["Heidelberg","Düsseldorf","Mannheim","Speyer","Koblenz","Worms","Kaiserslautern","Neuwied","Zweibrücken","Pirmasens","	Andernach",
+		"cities": ["Heidelberg","Düsseldorf","Mannheim","Speyer","Koblenz","Worms","Kaiserslautern","Neuwied","Zweibrücken","Pirmasens","Andernach",
 			"Bad Kreuznach","Landau in der Pfalz","Ingelheim am Rhein","Germersheim"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+	{
+		"name": "Hesse",
+		"leaderName": "Philip I the Magnanimous",
+		"adjective": ["Hessen"],
+        "startBias": ["Forest","Avoid [Coast]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Otto von Bismarck",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [0, 82, 159],
+		"innerColor": [255, 0, 0],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Kassel","Darmstadt","Wiesbaden","Marburg","Offenbach am Main","Hanau","Giessen","Fulda","Wetzlar","Rodgau","Dreieich",
+			"Bensheim","Maintal","Langen","Limburg an der Lahn"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
