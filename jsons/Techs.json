@@ -318,7 +318,7 @@
 				"row": 9,
 				"prerequisites": ["Steel"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
-				"quote": "'Placeholder.' - Placeholder"
+				"quote": "'Suddenly, as the the Italian pikemen began to approach, about 300 picked young men who are called the forlorn hope issued forth from each flank of the infantry body and with their great swords which they wielded with both hands began to chop up those enormous pikes with such boldness that nearly all those pikemen.' - Paolo Giovio"
 			},
 			{
 				"name": "Gunpowder",
@@ -367,7 +367,7 @@
 				"row": 9,
 				"prerequisites": ["Gunpowder","Heavy Cold Weapons"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
-				"quote": "'Placeholder.' - Placeholder"
+				"quote": "'That upon seeing you armed of fulminant rays, Alas Jupiter, your valorous right hand, think I that the giants have returned to this land..' - Francisco de Quevedo. To Phillipe III"
 			},
 			{
 				"name": "Chemistry",
