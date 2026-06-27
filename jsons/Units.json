@@ -973,6 +973,23 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Free Imperial Knight",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Franconia",
+		"range": 1,
+		"movement": 4,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Sipahi",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
@@ -985,8 +1002,8 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability","Formation I"],
-		"upgradesTo": "Anti-Tank Gun",
-		"obsoleteTech": "Combined Arms",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
 	},
 	{
@@ -1001,8 +1018,8 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Hakkapeliitta] ability","Formation I"],
-		"upgradesTo": "Anti-Tank Gun",
-		"obsoleteTech": "Combined Arms",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
 	},
 	{
