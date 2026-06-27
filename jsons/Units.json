@@ -862,10 +862,10 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Minuteman",
+		"name": "Gebirgsschützen",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Musketman",
-		"uniqueTo": "America",
+		"uniqueTo": "Bavaria",
 		"range": 1,
 		"movement": 2,
 		"strength": 22,
