@@ -1191,7 +1191,7 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>"],
-		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","	Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
+		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
 			"Forchheim","Zirndorf","Kulmbach","Meiningen"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
@@ -1220,8 +1220,8 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>"],
-		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","	Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
-			"Forchheim","Zirndorf","Kulmbach","Meiningen"],
+		"cities": ["Heidelberg","Düsseldorf","Mannheim","Speyer","Koblenz","Worms","Kaiserslautern","Neuwied","Zweibrücken","Pirmasens","	Andernach",
+			"Bad Kreuznach","Landau in der Pfalz","Ingelheim am Rhein","Germersheim"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
