@@ -1227,8 +1227,8 @@
 
 	// City-States sorted by cityStateType, name
 	{
-		"name": "Brussels",
-		"adjective": ["Bruxellois"],
+		"name": "Aachen",
+		"adjective": ["Aachen"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1236,7 +1236,7 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [127, 177, 236],
-		"cities": ["Brussels"]
+		"cities": ["Aachen"]
 	},
 	{
 		"name": "Bucharest",
@@ -1263,8 +1263,8 @@
 		"cities": ["Florence"]
 	},
 	{
-		"name": "Kabul",
-		"adjective": ["Kabuli"],
+		"name": "Regensburg",
+		"adjective": ["Regensburg"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1272,11 +1272,11 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [121, 226, 0],
-		"cities": ["Kabul"]
+		"cities": ["Regensburg"]
 	},
 	{
-		"name": "Kathmandu",
-		"adjective": ["Kathmanduites"],
+		"name": "Frankfurt",
+		"adjective": ["Frankfurt"],
 		"cityStateType": "Cultured", // Changed from Cultured to Religious in BNW
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1284,11 +1284,11 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
-		"cities": ["Kathmandu"]
+		"cities": ["Frankfurt"]
 	},
 	{
-		"name": "Kuala Lumpur",
-		"adjective": ["KLite"],
+		"name": "Dortmund",
+		"adjective": ["Dortmund"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1296,7 +1296,7 @@
 		"defeated": "Today, the Malay people obey you, but do not think this is over...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 237, 59],
-		"cities": ["Kuala Lumpur"]
+		"cities": ["Dortmund"]
 	},
 	{
 		"name": "Milan",
@@ -1311,8 +1311,8 @@
 		"cities": ["Milan"]
 	},
 	{
-		"name": "Monaco",
-		"adjective": ["Monegasque"],
+		"name": "Friedberg",
+		"adjective": ["Pfullendorf"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1320,11 +1320,11 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [193, 84, 255],
-		"cities": ["Monaco"]
+		"cities": ["Friedberg"]
 	},
 	{
-		"name": "Prague",
-		"adjective": ["Praguer", "Pragueite"],
+		"name": "Pfullendorf",
+		"adjective": ["Pfullendorf"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1332,11 +1332,11 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": ["Prague"]
+		"cities": ["Pfullendorf"]
 	},
 	{
-		"name": "Yerevan",
-		"adjective": ["Yerevantsi"],
+		"name": "Dinkelsbühl",
+		"adjective": ["Dinkelsbühl"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1344,12 +1344,12 @@
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [225, 194, 129],
-		"cities": ["Yerevan"]
+		"cities": ["Dinkelsbühl"]
 	},
 
 	{
-		"name": "Cape Town",
-		"adjective": ["Capetonian"],
+		"name": "Wismar",
+		"adjective": ["Wismar"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1357,7 +1357,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [217, 158, 78],
-		"cities": ["Cape Town"]
+		"cities": ["Wismar"]
 	},
 	{
 		"name": "Helsinki", // In GK, Helsinki becomes a Swedish city.
@@ -1373,8 +1373,8 @@
         "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Manila",
-		"adjective": ["Manilan"],
+		"name": "Lübeck",
+		"adjective": ["Lübeck"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1382,7 +1382,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [113, 227, 114],
-		"cities": ["Manila"]
+		"cities": ["Lübeck"]
 	},
 	{
 		"name": "Mogadishu", // Introduced in BNW
@@ -1398,8 +1398,8 @@
         "uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Mombasa",
-		"adjective": ["Mombasaan"],
+		"name": "Hamburg",
+		"adjective": ["Hamburg"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1407,11 +1407,11 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [121, 226, 0],
-		"cities": ["Mombasa"]
+		"cities": ["Hamburg"]
 	},
 	{
-		"name": "Quebec City",
-		"adjective": ["Québécois"],
+		"name": "Bremen",
+		"adjective": ["Bremen"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1419,7 +1419,7 @@
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": ["Quebec City"]
+		"cities": ["Bremen"]
 	},
 	{
 		"name": "Ragusa",
@@ -1435,29 +1435,16 @@
 		"cities": ["Ragusa"]
 	},
 	{
-		"name": "Rio de Janeiro",
-		"adjective": ["Carioca"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
-
-		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
-		"attacked": "You can see how fruitless this will be for you... right?",
-		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [211, 220, 103],
-		"cities": ["Rio de Janeiro"]
-	},
-	{
-		"name": "Sydney",
-		"adjective": ["Sydneysider"],
+		"name": "Visby",
+		"adjective": ["Visby"],
 		"cityStateType": "Maritime",
 
-		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
-		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
-		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": ["Sydney"]
+		"cities": ["Visby"]
 	},
 	{
 		"name": "Ur", // Introduced in BNW
@@ -1514,8 +1501,8 @@
 		"cities": ["Antwerp"]
 	},
 	{
-		"name": "Cahokia",
-		"adjective": ["Cahokian"],
+		"name": "Pisa",
+		"adjective": ["Pisa"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -1523,11 +1510,11 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
-		"cities": ["Cahokia"]
+		"cities": ["Pisa"]
 	},
 	{
-		"name": "Colombo",
-		"adjective": ["Colomboan"],
+		"name": "Siena",
+		"adjective": ["Siena"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -1535,7 +1522,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [167, 162, 216],
-		"cities": ["Colombo"]
+		"cities": ["Siena"]
 	},
 	{
 		"name": "Genoa",
@@ -1551,8 +1538,8 @@
 		"cities": ["Genoa"]
 	},
 	{
-		"name": "Hong Kong",
-		"adjective": ["Hongkonger", "Hongkongese"],
+		"name": "Lucca",
+		"adjective": ["Lucca"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1560,11 +1547,11 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [52, 97, 242],
-		"cities": ["Hong Kong"]
+		"cities": ["Lucca"]
 	},
 	{
-		"name": "Singapore",
-		"adjective": ["Singaporean"],
+		"name": "Mantua",
+		"adjective": ["Mantua"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1572,11 +1559,11 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [246, 253, 160],
-		"cities": ["Singapore"]
+		"cities": ["Mantua"]
 	},
 	{
-		"name": "Tyre",
-		"adjective": ["Tyrian"],
+		"name": "Cospaia",
+		"adjective": ["Cospaian"],
 		"cityStateType": "Mercantile", // Changed from Militaristic to Mercantile in GK
 		"startBias": ["Coast"],
 
@@ -1585,11 +1572,11 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [121, 226, 0],
-		"cities": ["Tyre"]
+		"cities": ["Cospaia"]
 	},
 	{
-		"name": "Zanzibar",
-		"adjective": ["Zanzibari"],
+		"name": "Bologna",
+		"adjective": ["Bologna"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1597,11 +1584,11 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [127, 177, 236],
-		"cities": ["Zanzibar"]
+		"cities": ["Bologna"]
 	},
 	{
-		"name": "Zurich",
-		"adjective": ["Zuricher"],
+		"name": "Ferrara",
+		"adjective": ["Ferrara"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1609,12 +1596,12 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [172, 172, 172],
-		"cities": ["Zurich"]
+		"cities": ["Ferrara"]
 	},
 
 	{
-		"name": "Almaty",
-		"adjective": ["Almatinian"],
+		"name": "Zagreb",
+		"adjective": ["Zagreb"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1622,7 +1609,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [217, 158, 78],
-		"cities": ["Almaty"]
+		"cities": ["Zagreb"]
 	},
 	{
 		"name": "Belgrade",
@@ -1675,8 +1662,8 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Hanoi",
-		"adjective": ["Hanoian"],
+		"name": "Savoy",
+		"adjective": ["Savoy"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1684,7 +1671,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [167, 162, 216],
-		"cities": ["Hanoi"]
+		"cities": ["Savoy"]
 	},
 	{
 		"name": "M'Banza-Kongo", // Introduced in BNW
@@ -1700,8 +1687,8 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Sidon",
-		"adjective": ["Sidonian"],
+		"name": "Metz",
+		"adjective": ["Metz"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1709,11 +1696,11 @@
 		"defeated": "What a fine battle! Sidon is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
-		"cities": ["Sidon"]
+		"cities": ["Metz"]
 	},
 	{
-		"name": "Valletta",
-		"adjective": ["Beltin"],
+		"name": "Bruges",
+		"adjective": ["Bruges"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
 
@@ -1722,7 +1709,7 @@
 		"defeated": "This ship may sink, but our spirits will linger.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 237, 59],
-		"cities": ["Valletta"]
+		"cities": ["Bruges"]
 	},
 
 	{
@@ -1738,8 +1725,8 @@
 		"cities": ["Bratislava"]
 	},
 	{
-		"name": "Geneva",
-		"adjective": ["Genevan", "Genevese"],
+		"name": "Mainz",
+		"adjective": ["Mainz"],
 		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1747,7 +1734,7 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 97, 242],
-		"cities": ["Geneva"]
+		"cities": ["Mainz"]
 	},
 	{
 		"name": "Jerusalem",
@@ -1762,8 +1749,8 @@
 		"cities": ["Jerusalem"]
 	},
 	{
-		"name": "La Venta",
-		"adjective": ["La Venta"],
+		"name": "Cologne",
+		"adjective": ["Cologne"],
 		"cityStateType": "Religious",
 
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
@@ -1771,11 +1758,11 @@
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [18, 188, 221],
-		"cities": ["La Venta"]
+		"cities": ["Cologne"]
 	},
 	{
-		"name": "Lhasa",
-		"adjective": ["Tibetano"],
+		"name": "Trier",
+		"adjective": ["Trier"],
 		"cityStateType": "Religious", // Changed from Cultured to Religious in GK
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1783,7 +1770,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [113, 227, 114],
-		"cities": ["Lhasa"]
+		"cities": ["Trier"]
 	},
 	{
 		"name": "Vatican City",
@@ -1798,8 +1785,8 @@
 		"cities": ["Vatican City"]
 	},
 	{
-		"name": "Wittenberg",
-		"adjective": ["Wittenberger"],
+		"name": "Magdeburg",
+		"adjective": ["Magdeburg"],
 		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1807,7 +1794,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [167, 162, 216],
-		"cities": ["Wittenberg"]
+		"cities": ["Magdeburg"]
 	},
 
 
