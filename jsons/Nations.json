@@ -1159,9 +1159,8 @@
         "outerColor": [1,90,141],
         "innerColor": [30,30,30],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Furor Teutonicus",
-		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"[-25]% maintenance costs <for [Land] units>"],
+		"uniqueName": "An Army with a State",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "[Great Admiral] is earned [+50]% faster"],
 		"cities": ["Berlin","Konigsberg","Potsdam","Danzig","Breslau","Stettin","Brandenburg","Frankfurt (Oder)","Ostenburg","Passenheim",
 			"Dirschau","Berent","Marienwerder","Willenberg","Rastenburg"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
