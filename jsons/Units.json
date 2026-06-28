@@ -544,7 +544,7 @@
 		"cost": 45,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
@@ -1214,7 +1214,7 @@
 		"cost": 320,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Pharmaceuticals",
 		"attackSound": "shot"
 	},
 	{
@@ -1227,7 +1227,7 @@
 		"cost": 320,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Pharmaceuticals",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
@@ -1260,17 +1260,6 @@
 		"upgradesTo": "Bomber",
 		"obsoleteTech": "Radar",
 		"attackSound": "bombing"
-	},
-	{
-		"name": "Infantry",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-		"attackSound": "shot"
 	},
 	{
 		"name": "Carrier",
@@ -1350,6 +1339,17 @@
 
 	// Atomic Era
 
+	{
+		"name": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Pharmaceuticals",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 	{
 		"name": "Marine",
 		"unitType": "Gunpowder",
