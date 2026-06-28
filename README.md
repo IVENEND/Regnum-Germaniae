@@ -72,3 +72,4 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 # Credits:
 * GeneralWadaling, author of HexaRealm-Tileset, for bases of unit arts.
 * Tomatekh, author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
+* FeldMarschalBlinzurg, Austria icon
