@@ -13,22 +13,39 @@ Reskin generic units to fit in the theme of the mod.
 ## Planned Civilizations (WIP):
 
 -Bavaria
+
 -Swabia
+
 -Saxony
+
 -Hesse
+
 -Franconia
+
 -Austria
+
 -Switzerland
+
 -Hanover
+
 -Bohemia
+
 -Netherland
+
 -Brandenburg-Prussia
+
 -Rhineland
+
 -Westphalia
+
 -Hanseatic League
+
 -Teutonic Order 
+
 -Terra Mariana
+
 -Lorraine
+
 -Burgundy
 
 Currently there is no detailed design (leader, colour, icon, UA, UU, UB, etc.) for these civilizations yet. Any idea or suggestion is highly welcomed!
@@ -55,9 +72,3 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 # Credits:
 * GeneralWadaling, author of HexaRealm-Tileset, for bases of unit arts.
 * Tomatekh, author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
-
-
-
-Minimal base ruleset for Unciv, so people can start somewhere and gradually expand
-
-Based on https://github.com/AdelleStuuu/Adelle-Corp
