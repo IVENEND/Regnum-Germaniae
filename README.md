@@ -39,7 +39,9 @@ Currently there is no detailed design (leader, colour, icon, UA, UU, UB, etc.) f
 ## Revised Techtree and Unit Upgrade Tree (WIP, Renaissance Era done):
 
 Regnum Germaniae will revise the techtree and unit upgrade tree, in ordee to make techs and units more historcially accurate and fit in the theme of history of Germany. The revision will be partly base on the following Civ 5 mods:
+
 **Renaissance Era Revised**: https://steamcommunity.com/sharedfiles/filedetails/?id=603182475
+
 **Enlightenment Era**: https://steamcommunity.com/sharedfiles/filedetails/?id=544452801
 
 The techtree will probably end in Industrial era or modern era. I will also make submods that stop the techtree earlier.
