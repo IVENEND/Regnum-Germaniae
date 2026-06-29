@@ -812,8 +812,8 @@
 		"strength": 23,
 		"cost": 140,
 		"requiredTech": "Heavy Edged Weapons",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
@@ -886,8 +886,8 @@
 		"cost": 160,
 		"requiredTech": "Pike and Shot Tactic",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
 		"attackSound": "metalhit"
 	},
 	{
@@ -901,8 +901,8 @@
 		"requiredTech": "Pike and Shot Tactic",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+33]% Strength <when defending>"],
 		"promotions": ["Shock I"],
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
 		"attackSound": "metalhit"
 	},
 	{
@@ -1035,6 +1035,20 @@
 		"obsoleteTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
+	},
+
+	// Enlightenment Era
+
+	{
+		"name": "Line Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 185,
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	},
 
 	// Industrial Era
