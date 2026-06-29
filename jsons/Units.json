@@ -667,7 +667,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Musketman",
-		"obsoleteTech": "Dynamite",
+		"obsoleteTech": "Flintlock",
 		"attackSound": "crossbow"
 	},
 	{
@@ -680,8 +680,8 @@
 		"replaces": "Crossbowman",
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"promotions": ["[Chu-Ko-Nu] ability"],
 		"attackSound": "crossbow"
 	},
@@ -696,8 +696,8 @@
 		"uniqueTo": "England",
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"promotions": ["Extended Range"],
 		"attackSound": "arrow"
 	},
@@ -826,8 +826,8 @@
 		"rangedStrength": 22,
 		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"attackSound": "shot"
 	},
 	{
@@ -841,8 +841,8 @@
 		"rangedStrength": 26,
 		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"attackSound": "shot"
 	},
 	{
@@ -856,8 +856,8 @@
 		"rangedStrength": 22,
 		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"promotions": ["[Janissary] ability"],
 		"attackSound": "shot"
 	},
@@ -872,8 +872,8 @@
 		"rangedStrength": 22,
 		"cost": 130,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
 		"uniques": ["Ignores terrain cost"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
@@ -1048,6 +1048,19 @@
 		"requiredTech": "Flintlock",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Skirmisher",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 185,
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Dynamite",
 		"attackSound": "shot"
 	},
 
