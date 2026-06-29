@@ -74,6 +74,23 @@
         "iconRGB": [104, 58, 183]
     },
     {
+        "name": "Enlightenment era",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Pikeman",
+        "startingGold": 75,
+        "startingCulture": 350,
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Shrine","Monument","Granary","Lighthouse"],
+        "baseUnitBuyCost": 350,
+        "embarkDefense": 9,
+        "startPercent": 37,
+        "citySound": "cityRenaissance",
+        "iconRGB": [84, 70, 183]
+    },
+    {
         "name": "Industrial era",
         "researchAgreementCost": 300,
         "startingSettlerCount": 3,
