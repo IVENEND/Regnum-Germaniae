@@ -891,15 +891,16 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Tercio",
+		"name": "Imperial Tercio",
 		"unitType": "Gunpowder",
 		"replaces": "Pike and Shot",
-		"uniqueTo": "Spain",
+		"uniqueTo": "Austria",
 		"movement": 2,
 		"strength": 26,
 		"cost": 160,
 		"requiredTech": "Pike and Shot Tactic",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+33]% Strength <when defending>"],
+		"promotions": ["Shock I"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
@@ -1147,10 +1148,10 @@
 		"attackSound": "cavalry"
 	},
 	{
-		"name": "Hussar",
+		"name": "Chevaulegers",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
-		"uniqueTo": "Austria",
+		"uniqueTo": "Saxony",
 		"movement": 5,
 		"strength": 34,
 		"cost": 225,
