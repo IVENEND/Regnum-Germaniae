@@ -784,8 +784,8 @@
 		"strength": 20,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"upgradesTo": "Ironclad",
-		"obsoleteTech": "Combustion",
+		"upgradesTo": "Ship of the Line",
+		"obsoleteTech": "Navigation",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -799,8 +799,8 @@
 		"strength": 36,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"upgradesTo": "Ironclad",
-		"obsoleteTech": "Combustion",
+		"upgradesTo": "Ship of the Line",
+		"obsoleteTech": "Navigation",
 		"uniques": ["Cannot enter ocean tiles"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -944,23 +944,6 @@
 		"attackSound": "shipCannonVolley"
 	},
 	{
-		"name": "Ship of the Line",
-		"unitType": "Ranged Water",
-		"replaces": "Frigate",
-		"uniqueTo": "England",
-		"movement": 5,
-		"strength": 30,
-		"rangedStrength": 35,
-		"cost": 185,
-		"requiredResource": "Iron",
-		"uniques": ["[+1] Sight"],
-		"requiredTech": "Navigation",
-		"obsoleteTech": "Electronics",
-		"upgradesTo": "Battleship",
-		"hurryCostModifier": 20,
-		"attackSound": "shipCannonVolley"
-	},
-	{
 		"name": "Reiter",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1089,6 +1072,20 @@
 		"obsoleteTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Ship of the Line",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 37,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"uniques": ["[+1] Sight"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Steam Power",
+		"upgradesTo": "Ironclad",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
 	},
 
 	// Industrial Era
