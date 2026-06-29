@@ -545,7 +545,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
 	},
@@ -969,8 +969,8 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Imperialism",
+		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
 	{
@@ -986,8 +986,8 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Imperialism",
+		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
 	{
@@ -1003,8 +1003,8 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability","Formation I"],
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Imperialism",
+		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
 	{
@@ -1019,8 +1019,8 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Hakkapeliitta] ability","Formation I"],
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Imperialism",
+		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
 	{
@@ -1062,6 +1062,19 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Dynamite",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Cuirassier",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 28,
+		"cost": 185,
+		"requiredTech": "Imperialism",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
 	},
 
 	// Industrial Era
