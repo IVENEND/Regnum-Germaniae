@@ -74,7 +74,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["[+1 Gold] <after discovering [Imperialism]>","[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
@@ -211,7 +211,7 @@
 		"name": "Manufactory",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
+		"uniques": ["Great Improvement", "[+2 Production] <after discovering [Manufacturing]>", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
             "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
