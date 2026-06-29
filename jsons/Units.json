@@ -570,7 +570,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Lancer",
+		"upgradesTo": "Reiter",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
@@ -961,7 +961,7 @@
 		"attackSound": "shipCannonVolley"
 	},
 	{
-		"name": "Lancer",
+		"name": "Reiter",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
@@ -976,7 +976,7 @@
 	{
 		"name": "Free Imperial Knight",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
+		"replaces": "Reiter",
 		"uniqueTo": "Franconia",
 		"range": 1,
 		"movement": 4,
@@ -993,7 +993,7 @@
 	{
 		"name": "Sipahi",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
+		"replaces": "Reiter",
 		"uniqueTo": "The Ottomans",
 		"movement": 5,
 		"strength": 25,
@@ -1010,7 +1010,7 @@
 	{
 		"name": "Hakkapeliitta",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
+		"replaces": "Reiter",
 		"uniqueTo": "Sweden",
 		"movement": 4,
 		"strength": 25,
