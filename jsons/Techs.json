@@ -337,7 +337,8 @@
 		"wonderCost": 625,
 		"techs": [
 			{
-				"name": "Navigation",
+				"name": "Exploration",
+				"cost": 895,
 				"row": 2,
 				"prerequisites": ["Astronomy"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
@@ -349,11 +350,12 @@
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
-				"name": "Economics",
+				"name": "Sovereignty",
+				"cost": 895,
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
-				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
+				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Metallurgy",
@@ -380,56 +382,148 @@
 	},
 	{
 		"columnNumber": 9,
-		"era": "Industrial era",
-		"techCost": 1600,
-		"buildingCost": 300,
-		"wonderCost": 750,
+		"era": "Enlightenment era",
+		"techCost": 1200,
+		"buildingCost": 250,
+		"wonderCost": 625,
 		"techs": [
 			{
-				"name": "Archaeology",
-				"row": 2,
-				"prerequisites": ["Navigation","Architecture"],
+				"name": "Navigation",
+				"row": 1,
+				"prerequisites": ["Exploration"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Imperialism",
+				"cost": 1150,
+				"row": 3,
+				"prerequisites": ["Exploration","Architecture"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Humanism",
+				"cost": 1150,
+				"row": 4,
+				"prerequisites": ["Architecture"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Economics",
+				"cost": 1100,
+				"row": 6,
+				"prerequisites": ["Sovereignty"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
-				"quote": "'Those who cannot remember the past are condemned to repeat it.' - George Santayana"
+				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
+			},
+			{
+				"name": "Flintlock",
+				"cost": 1150,
+				"row": 9,
+				"prerequisites": ["Metallurgy","Pike and Shot Tactic","Chemistry"],
+				"quote": "'Placeholder.' - Placeholder"
+			}
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Enlightenment era",
+		"techCost": 1450,
+		"buildingCost": 250,
+		"wonderCost": 625,
+		"techs": [
+			{
+				"name": "Warships",
+				"row": 1,
+				"prerequisites": ["Navigation","Imperialism"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Natural History",
+				"row": 3,
+				"prerequisites": ["Imperialism","Humanism"],
+				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Scientific Theory",
 				"row": 4,
-				"prerequisites": ["Architecture","Economics"],
+				"prerequisites": ["Humanism","Economics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Every great advance in science has issued from a new audacity of imagination.' - John Dewey"
 			},
 			{
-				"name": "Industrialization",
+				"name": "Manufacturing",
 				"row": 6,
 				"prerequisites": ["Economics"],
-                "uniques": ["[+50]% weight to this choice for AI decisions"],
-				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
+				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
-				"name": "Rifling",
-				"row": 7,
-				"prerequisites": ["Economics","Metallurgy","Pike and Shot Tactic"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
-				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
-			},
-			{
-				"name": "Military Science",
-				"row": 9,
-				"prerequisites": ["Chemistry","Pike and Shot Tactic"],
-				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
+				"name": "Fortification",
+				"cost": 1500,
+				"row": 8,
+				"prerequisites": ["Economics","Flintlock"],
+				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Fertilizer",
 				"row": 10,
-				"prerequisites": ["Chemistry"],
+				"prerequisites": ["Flintlock"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
 			}
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
+		"era": "Industrial era",
+		"techCost": 1600,
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [
+			{
+				"name": "Armour Plating",
+				"cost": 1800,
+				"row": 1,
+				"prerequisites": ["Warships"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Archaeology",
+				"row": 2,
+				"prerequisites": ["Natural History","Scientific Theory"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
+				"quote": "'Those who cannot remember the past are condemned to repeat it.' - George Santayana"
+			},
+			{
+				"name": "Romanticism",
+				"cost": 1800,
+				"row": 4,
+				"prerequisites": ["Scientific Theory"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
+				"name": "Industrialization",
+				"row": 5,
+				"prerequisites": ["Scientific Theory","Manufacturing"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
+				"quote": "'Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.' - Emily Greene Balch"
+			},
+			{
+				"name": "Rifling",
+				"row": 7,
+				"prerequisites": ["Manufacturing","Fortification"],
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
+			},
+			{
+				"name": "Military Science",
+				"row": 9,
+				"prerequisites": ["Fortification","Fertilizer"],
+				"quote": "'Wars may be fought with weapons, but they are won by men. It is the spirit of the men who follow and of the man who leads that gains the victory.' - George S. Patton"
+			}
+		]
+	},
+	{
+		"columnNumber": 12,
 		"era": "Industrial era",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -438,14 +532,14 @@
 			{
 				"name": "Biology",
 				"row": 2,
-				"prerequisites": ["Archaeology","Scientific Theory"],
+				"prerequisites": ["Armour Plating","Archaeology"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'If the brain were so simple we could understand it, we would be so simple we couldn't.' - Lyall Watson"
 			},
 			{
 				"name": "Electricity",
 				"row": 3,
-				"prerequisites": ["Scientific Theory"],
+				"prerequisites": ["Romanticism","Industrialization"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
@@ -453,19 +547,19 @@
 				"name": "Steam Power",
 				"row": 6,
 				"uniques": ["[+1] Movement <for [Embarked] units>"],
-				"prerequisites": ["Industrialization","Scientific Theory","Rifling"],
+				"prerequisites": ["Industrialization","Rifling"],
 				"quote": "'The nations of the West hope that by means of steam communication all the world will become as one family.' - Townsend Harris"
 			},
 			{
 				"name": "Dynamite",
 				"row": 9,
-				"prerequisites": ["Fertilizer","Military Science"],
+				"prerequisites": ["Rifling","Military Science"],
 				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
 			}
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 13,
 		"era": "Modern era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -508,7 +602,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 14,
 		"era": "Modern era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -543,7 +637,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -578,7 +672,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 16,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -612,7 +706,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -660,7 +754,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 18,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -702,7 +796,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 19,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
