@@ -557,7 +557,7 @@
 		"rangedStrength": 17,
 		"cost": 100,
 		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
+		"obsoleteTech": "Warships",
 		"upgradesTo": "Frigate",
 		"uniques": ["Cannot enter ocean tiles"],
 		"attackSound": "arrow"
@@ -937,7 +937,7 @@
 		"rangedStrength": 28,
 		"cost": 185,
 		"requiredResource": "Iron",
-		"requiredTech": "Navigation",
+		"requiredTech": "Warships",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
