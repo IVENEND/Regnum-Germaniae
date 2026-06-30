@@ -889,7 +889,7 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
-		"requiredTech": "Archaeology",
+		"requiredTech": "Natural History",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
