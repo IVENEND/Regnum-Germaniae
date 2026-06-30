@@ -338,9 +338,8 @@
 		"techs": [
 			{
 				"name": "Exploration",
-				"cost": 895,
 				"row": 2,
-				"prerequisites": ["Astronomy"],
+				"prerequisites": ["Astronomy","Acoustics"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
 			{
@@ -351,7 +350,6 @@
 			},
 			{
 				"name": "Sovereignty",
-				"cost": 895,
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
@@ -360,7 +358,7 @@
 			{
 				"name": "Metallurgy",
 				"row": 8,
-				"prerequisites": ["Printing Press","Gunpowder","Heavy Edged Weapons"],
+				"prerequisites": ["Printing Press","Heavy Edged Weapons"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},
@@ -395,21 +393,18 @@
 			},
 			{
 				"name": "Imperialism",
-				"cost": 1150,
 				"row": 3,
 				"prerequisites": ["Exploration","Architecture"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Humanism",
-				"cost": 1150,
 				"row": 4,
 				"prerequisites": ["Architecture"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Economics",
-				"cost": 1100,
 				"row": 6,
 				"prerequisites": ["Sovereignty"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
@@ -417,7 +412,6 @@
 			},
 			{
 				"name": "Flintlock",
-				"cost": 1150,
 				"row": 9,
 				"prerequisites": ["Metallurgy","Pike and Shot Tactic","Chemistry"],
 				"quote": "'Placeholder.' - Placeholder"
@@ -427,7 +421,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Enlightenment era",
-		"techCost": 1450,
+		"techCost": 1500,
 		"buildingCost": 250,
 		"wonderCost": 625,
 		"techs": [
@@ -458,7 +452,6 @@
 			},
 			{
 				"name": "Fortification",
-				"cost": 1500,
 				"row": 8,
 				"prerequisites": ["Economics","Flintlock"],
 				"quote": "'Placeholder.' - Placeholder"
