@@ -845,6 +845,39 @@
 		"requiredTech": "Metallurgy",
 		"quote": "'The Kremlin is constantly changing the rules of the game to suit its purposes. We are not playing chess, we're playing roulette.' - Garry Kasparov"
 	},
+	{
+		"name": "Manor",
+		"culture": 1,
+		"cost": 230,
+		"maintenance": 2,
+		"requiredTech": "Sovereignty",
+		"uniques": ["[+25]% Great Person generation [in this city]"]
+	},
+	
+
+
+	// Enlightenment Era
+
+	// Column 9
+
+	{
+		"name": "Salon",
+		"culture": 2,
+		"percentStatBonus": {"culture": 25},
+		"cost": 250,
+		"maintenance": 1,
+		"requiredTech": "Humanism"
+		"uniques": ["Unavailable <in cities with a [Academy]>"]
+	},	
+	{
+		"name": "Academy",
+		"science": 2,
+		"percentStatBonus": {"science": 25},
+		"cost": 250,
+		"maintenance": 1,
+		"requiredTech": "Humanism"
+		"uniques": ["Unavailable <in cities with a [Salon]>"]
+	},	
 
 	// Industrial Era
 
