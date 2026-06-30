@@ -557,7 +557,7 @@
 		"rangedStrength": 17,
 		"cost": 100,
 		"requiredTech": "Compass",
-		"obsoleteTech": "Warships",
+		"obsoleteTech": "Navigation",
 		"upgradesTo": "Frigate",
 		"uniques": ["Cannot enter ocean tiles"],
 		"attackSound": "arrow"
@@ -785,7 +785,7 @@
 		"cost": 120,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ship of the Line",
-		"obsoleteTech": "Navigation",
+		"obsoleteTech": "Warships",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -800,7 +800,7 @@
 		"cost": 120,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ship of the Line",
-		"obsoleteTech": "Navigation",
+		"obsoleteTech": "Warships",
 		"uniques": ["Cannot enter ocean tiles"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
