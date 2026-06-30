@@ -394,6 +394,7 @@
 			{
 				"name": "Imperialism",
 				"row": 3,
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"prerequisites": ["Exploration","Architecture"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
@@ -413,6 +414,7 @@
 			{
 				"name": "Flintlock",
 				"row": 9,
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"prerequisites": ["Metallurgy","Pike and Shot Tactic","Chemistry"],
 				"quote": "'Placeholder.' - Placeholder"
 			}
@@ -434,6 +436,7 @@
 			{
 				"name": "Natural History",
 				"row": 3,
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"prerequisites": ["Imperialism","Humanism"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
@@ -447,6 +450,7 @@
 			{
 				"name": "Manufacturing",
 				"row": 6,
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"prerequisites": ["Economics"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
