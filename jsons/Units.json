@@ -529,7 +529,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [{Pikeman}] units within [1] tiles <after discovering [Heavy Edged Weapons]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [Pikeman] units within [1] tiles <after discovering [Heavy Edged Weapons]>"],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
@@ -543,7 +543,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [{Reisläufer}] units within [1] tiles <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [Reisläufer] units within [1] tiles <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
