@@ -1047,6 +1047,22 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Hessian Jäger",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Skirmisher",
+		"uniqueTo": "Hesse",
+		"range": 1,
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 185,
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Cuirassier",
 		"unitType": "Mounted",
 		"movement": 4,
