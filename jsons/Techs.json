@@ -662,7 +662,7 @@
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
 			},
 			{
-				"name": "Combined Arms",
+				"name": "Armoured Warfare",
 				"row": 8,
 				"prerequisites": ["Ballistics","Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
@@ -698,7 +698,7 @@
 			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Combined Arms","Radar"],
+				"prerequisites": ["Armoured Warfare","Radar"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]
