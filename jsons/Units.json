@@ -529,7 +529,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [Pikeman] units within [1] tiles <after discovering [Heavy Edged Weapons]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+10]% Strength bonus for [Pikeman] units within [1] tiles <after discovering [Heavy Edged Weapons]>"],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
