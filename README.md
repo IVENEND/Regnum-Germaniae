@@ -74,3 +74,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Tomatekh, author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
 * Pouakai, author of Civ 5 mod "Enlightenment Era", for the design of Enlightenment Era techs and units.
 * FeldMarschalBlinzurg, Austria icon
+* Kamila Lejman, Bastion icon
+* Rahmat Sigit Prasetyo, Warships icon
+* aqqinqin, Manufacturing icon
+* Circlon Tech, Archaeology icon
