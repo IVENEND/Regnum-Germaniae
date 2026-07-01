@@ -827,12 +827,12 @@
 	},
 	{
 		"name": "Arsenal",
-		"cost": 300,
+		"cost": 360,
 		"cityStrength": 9,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "Castle",
-		"requiredTech": "Metallurgy",
+		"requiredBuilding": "Bastion",
+		"requiredTech": "Dynamite",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -879,6 +879,16 @@
 		"requiredTech": "Humanism"
 		"uniques": ["Only available <in cities without a [Salon]>"]
 	},	
+	{
+		"name": "Bastion",
+		"cost": 300,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Fortification",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 
 	// Industrial Era
 
