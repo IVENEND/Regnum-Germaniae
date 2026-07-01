@@ -413,6 +413,13 @@
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
+				"name": "Combined Arms",
+				"row": 8,
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"prerequisites": ["Metallurgy","Pike and Shot Tactic"],
+				"quote": "'Placeholder.' - Placeholder"
+			},
+			{
 				"name": "Flintlock",
 				"row": 9,
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
@@ -458,7 +465,7 @@
 			{
 				"name": "Fortification",
 				"row": 8,
-				"prerequisites": ["Economics","Flintlock"],
+				"prerequisites": ["Flintlock","Combined Arms"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
 			{

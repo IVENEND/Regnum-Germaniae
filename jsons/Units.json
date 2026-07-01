@@ -952,7 +952,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"obsoleteTech": "Imperialism",
+		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
@@ -969,7 +969,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-		"obsoleteTech": "Imperialism",
+		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
@@ -986,7 +986,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability","Formation I"],
-		"obsoleteTech": "Imperialism",
+		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
@@ -1002,7 +1002,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["[Hakkapeliitta] ability","Formation I"],
-		"obsoleteTech": "Imperialism",
+		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
 	},
@@ -1069,7 +1069,7 @@
 		"movement": 4,
 		"strength": 28,
 		"cost": 185,
-		"requiredTech": "Imperialism",
+		"requiredTech": "Combined Arms",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"obsoleteTech": "Military Science",
