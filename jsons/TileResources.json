@@ -132,7 +132,7 @@
 	{
 		"name": "Coal",
 		"resourceType": "Strategic",
-		"revealedBy": "Industrialization",
+		"revealedBy": "Manufacturing",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
 		"production": 1,
 		"improvement": "Mine",

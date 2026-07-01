@@ -535,6 +535,15 @@
 	},
 	// Column 6
 	{
+		"name": "Tavern",
+		"cost": 200,
+		"maintenance": 1,
+		"happiness": 2,
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Machinery"
+	},
+	{
 		"name": "Harbor",
 		"cost": 120,
 		"maintenance": 3,
