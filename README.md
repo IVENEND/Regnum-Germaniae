@@ -74,4 +74,4 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Tomatekh, author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
 * Pouakai, author of Civ 5 mod "Enlightenment Era", for the design of Enlightenment Era techs and units.
 * FeldMarschalBlinzurg, Austria icon
-* Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen: icons
+* Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine: icons
