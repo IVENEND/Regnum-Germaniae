@@ -463,17 +463,17 @@
 				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
-				"name": "Fortification",
-				"row": 8,
-				"prerequisites": ["Flintlock","Combined Arms"],
-				"quote": "'Placeholder.' - Placeholder"
-			},
-			{
 				"name": "Fertilizer",
-				"row": 10,
-				"prerequisites": ["Flintlock"],
+				"row": 7,
+				"prerequisites": ["Economics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
+			},
+			{
+				"name": "Fortification",
+				"row": 9,
+				"prerequisites": ["Flintlock","Combined Arms"],
+				"quote": "'Placeholder.' - Placeholder"
 			}
 		]
 	},
@@ -515,7 +515,7 @@
 			{
 				"name": "Rifling",
 				"row": 7,
-				"prerequisites": ["Manufacturing","Fortification"],
+				"prerequisites": ["Manufacturing","Fortification","Fertilizer"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
