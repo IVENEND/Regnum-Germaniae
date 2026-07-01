@@ -867,7 +867,8 @@
 		"cost": 250,
 		"maintenance": 1,
 		"requiredTech": "Humanism"
-		"uniques": ["Unavailable <in cities with a [Academy]>"]
+		"uniques": ["Only available <in cities without a [Academy]>"]
+		
 	},	
 	{
 		"name": "Academy",
@@ -876,7 +877,7 @@
 		"cost": 250,
 		"maintenance": 1,
 		"requiredTech": "Humanism"
-		"uniques": ["Unavailable <in cities with a [Salon]>"]
+		"uniques": ["Only available <in cities without a [Salon]>"]
 	},	
 
 	// Industrial Era
