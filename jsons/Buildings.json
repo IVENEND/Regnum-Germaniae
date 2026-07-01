@@ -894,6 +894,14 @@
 
 	// Column 9
 	{
+		"name": "Drydock",
+		"cost": 300,
+		"maintenance": 2,
+		"requiredBuilding": "Seaport",
+		"uniques": ["New [Water] units start with [15] XP [in this city]"],
+		"requiredTech": "Armour Plating"
+	},
+	{
 		"name": "Museum",
 		"culture": 5,
 		"specialistSlots": {"Artist": 2},

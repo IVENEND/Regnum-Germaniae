@@ -77,4 +77,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Kamila Lejman, Bastion icon
 * Rahmat Sigit Prasetyo, Warships icon
 * aqqinqin, Manufacturing icon
-* Circlon Tech, Archaeology icon
+* Circlon Tech, Archaeology icon"
+* Ar2ar, icon
+* M. Oki Orlandom, icon
+* HIMMATUL ULIYAH, icon
