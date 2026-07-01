@@ -916,6 +916,19 @@
 		"requiredTech": "Fortification",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Cloth Mill",
+		"cost": 280,
+		"maintenance": 2,
+		"hurryCostModifier": 10,
+		"production": 1,
+		"percentStatBonus": {"production": 10},
+		"requiredNearbyImprovedResources": ["Cotton","Sheep","Silk"],
+		"requiredTech": "Manufacturing"
+		"uniques": ["[+1 Gold] from [Cotton] tiles [in this city]",
+			"[+1 Gold] from [Sheep] tiles [in this city]",
+			"[+1 Gold] from [Silk] tiles [in this city]"]
+	},
 
 	// Industrial Era
 
