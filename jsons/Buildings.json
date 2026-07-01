@@ -870,6 +870,14 @@
 	// Column 9
 
 	{
+		"name": "Gunsmith",
+		"cost": 250,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"uniques": ["[+25]% Production when constructing [Gunpowder] units [in this city]"],
+		"requiredTech": "Flintlock"
+	},
+	{
 		"name": "Salon",
 		"culture": 2,
 		"percentStatBonus": {"culture": 25},
@@ -902,6 +910,15 @@
 	// Industrial Era
 
 	// Column 9
+	{
+		"name": "Menagerie",
+		"cost": 300,
+		"maintenance": 1,
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Tavern",
+		"requiredTech": "Romanticism"
+	},
 	{
 		"name": "Drydock",
 		"cost": 300,
