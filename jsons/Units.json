@@ -576,6 +576,22 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Wagenburg",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Bohemia",
+		"movement": 3,
+		"range": 1,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Reiter",
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Camel Archer",
 		"unitType": "Archery",
 		"replaces": "Knight",
