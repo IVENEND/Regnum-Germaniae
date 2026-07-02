@@ -577,7 +577,7 @@
 	},
 	{
 		"name": "Wagenburg",
-		"unitType": "Mounted",
+		"unitType": "Gunpowder",
 		"replaces": "Knight",
 		"uniqueTo": "Bohemia",
 		"movement": 3,
