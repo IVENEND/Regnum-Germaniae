@@ -835,6 +835,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Pavisier",
+		"unitType": "Sword",
+		"replaces": "Two-handed Swordsman",
+		"uniqueTo": "Bohemia",
+		"movement": 2,
+		"strength": 23,
+		"cost": 140,
+		"uniques": ["[+20]% Strength bonus for [Pikeman] units within [1] tiles","[+10]% Strength bonus for [Pike and Shot] units within [1] tiles","[+10]% Strength bonus for [Imperial Tercio] units within [1] tiles"],
+		"requiredTech": "Heavy Edged Weapons",
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Musketman",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
