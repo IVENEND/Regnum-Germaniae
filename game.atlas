@@ -2447,6 +2447,13 @@ TileSets/HexaRealm/Units/Settler-Barbarians
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Settler-Barbarians-Classical era
+  rotate: false
+  xy: 1408, 1387
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Settler-Classical era
   rotate: false
   xy: 1336, 1375
@@ -2749,6 +2756,13 @@ TileSets/HexaRealm/Units/Worker
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Barbarians
+  rotate: false
+  xy: 688, 712
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Barbarians-Classical era
   rotate: false
   xy: 688, 712
   size: 64, 56
