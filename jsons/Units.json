@@ -856,7 +856,7 @@
 		"movement": 2,
 		"strength": 23,
 		"cost": 140,
-		"uniques": ["[+20]% Strength bonus for [Pikeman] units within [1] tiles","[+10]% Strength bonus for [Pike and Shot] units within [1] tiles","[+10]% Strength bonus for [Imperial Tercio] units within [1] tiles","[+25]% Strength <when fighting in [City center] tiles>","[+25]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+20]% Strength bonus for [Pikeman] units within [1] tiles","[+10]% Strength bonus for [Pike and Shot] units within [1] tiles","[+10]% Strength bonus for [Imperial Tercio] units within [1] tiles","[+50]% Strength <when fighting in [City center] tiles>","[+25]% Strength <when fighting in [Friendly Land] tiles>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
