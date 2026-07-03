@@ -1336,6 +1336,35 @@
 			"Karlstejn","Tachov","Pisek","Jihlava","Sudomer"],
         "spyNames": ["Dobroslava", "Cymbarka", "Elizabeth", "Manka", "Mullerova", "Navrátek", "Rumcajs", "Lt. Lukás", "Baloun", "Svejk"]
     },
+	{
+		"name": "Brunswick",
+		"leaderName": "Julius",
+		"adjective": ["Brunswick"],
+        "startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Isabella",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [254, 228, 110],
+		"innerColor": [22, 98, 213],
+		"favoredReligion": "Lutheranism",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Braunschweig","Wolfenbüttel","Helmstedt","Blankenburg am Harz","Holzminden","Schöningen","Seesen","Harzburg","Oker","Stadtoldendorf","Langelsheim","Schöppenstedt",
+			"Königslutter","Bündheim","Braunlage","Gandersheim","Hasselfelde"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
 
 
 	// City-States sorted by cityStateType, name
