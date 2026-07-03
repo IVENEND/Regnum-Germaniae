@@ -535,6 +535,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Flailman",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Pike and Shot",
+		"obsoleteTech": "Pike and Shot Tactic",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Reisläufer",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
