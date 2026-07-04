@@ -840,7 +840,7 @@
 		"unitType": "Light Melee",
 		"movement": 2,
 		"strength": 21,
-		"cost": 135,
+		"cost": 130,
 		"uniques": ["[+25]% Strength <vs [Archery] units>","[+25]% Strength bonus for [Musketman] units within [1] tiles <when defending>","[+25]% Strength bonus for [Gebirgsschützen] units within [1] tiles <when defending>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Skirmisher",
