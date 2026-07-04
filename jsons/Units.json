@@ -1138,6 +1138,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Hussar",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 24,
+		"cost": 175,
+		"promotions": ["[Hussar] ability"],
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Cuirassier",
 		"unitType": "Mounted",
 		"movement": 4,
