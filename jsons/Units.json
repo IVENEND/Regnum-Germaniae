@@ -1144,8 +1144,7 @@
 		"strength": 24,
 		"cost": 165,
 		"requiredTech": "Combined Arms",
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+25]% to Flank Attack bonuses"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
