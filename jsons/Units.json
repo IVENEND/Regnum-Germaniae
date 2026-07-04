@@ -1094,6 +1094,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Black Brunswicker",
+		"unitType": "Gunpowder",
+		"replaces": "Line Infantry",
+		"uniqueTo": "Brunswick",
+		"movement": 2,
+		"strength": 30,
+		"cost": 185,
+		"promotions": ["Drill I","Home Sweet Home"],
+		"uniques": ["[+30]% Strength <vs [Mounted] units>"],
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Skirmisher",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
