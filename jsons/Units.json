@@ -837,7 +837,7 @@
 	},
 	{
 		"name": "Rondartschier",
-		"unitType": "Sword",
+		"unitType": "Light Melee",
 		"movement": 2,
 		"strength": 21,
 		"cost": 135,
@@ -883,7 +883,7 @@
 		"uniqueTo": "Bohemia",
 		"movement": 2,
 		"strength": 23,
-		"cost": 135,
+		"cost": 125,
 		"uniques": ["[+25]% Strength <vs [Mounted] units>","[+25]% Strength <vs [Archery] units>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Line Infantry",
