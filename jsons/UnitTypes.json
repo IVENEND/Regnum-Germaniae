@@ -8,11 +8,19 @@
         "movementType": "Land"
     },
     {
-        "name": "Light Melee",
+        "name": "Anti Cavalry",
+        "movementType": "Land"
+    },
+    {
+        "name": "Shield Bearer",
         "movementType": "Land"
     },
     {
         "name": "Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mixed Gunpowder",
         "movementType": "Land"
     },
     {

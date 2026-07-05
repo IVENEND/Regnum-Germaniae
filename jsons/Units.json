@@ -282,7 +282,7 @@
 	},
 	{
 		"name": "Spearman",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"movement": 2,
 		"strength": 11,
 		"cost": 56,
@@ -294,7 +294,7 @@
 	},
 	{
 		"name": "Hoplite",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"replaces": "Spearman",
 		"uniqueTo": "Greece",
 		"movement": 2,
@@ -308,7 +308,7 @@
 	},
 	{
 		"name": "Persian Immortal",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"replaces": "Spearman",
 		"uniqueTo": "Persia",
 		"movement": 2,
@@ -354,7 +354,7 @@
 	},
 	{
 		"name": "Marauder",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"replaces": "Spearman",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
@@ -524,12 +524,12 @@
 	// Medieval Era
 	{
 		"name": "Pikeman",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"movement": 2,
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+10]% Strength bonus for [Pikeman] units within [1] tiles <after discovering [Heavy Edged Weapons]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>"],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
@@ -550,14 +550,14 @@
 	},
 	{
 		"name": "Reisläufer",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"replaces": "Pikeman",
 		"uniqueTo": "Switzerland",
 		"movement": 2,
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+20]% Strength bonus for [Reisläufer] units within [1] tiles <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
@@ -837,13 +837,13 @@
 	},
 	{
 		"name": "Rondartschier",
-		"unitType": "Light Melee",
+		"unitType": "Shield Bearer",
 		"movement": 2,
 		"strength": 21,
 		"cost": 130,
-		"uniques": ["[+25]% Strength <vs [Archery] units>","[+25]% Strength bonus for [Musketman] units within [1] tiles <when defending>","[+25]% Strength bonus for [Gebirgsschützen] units within [1] tiles <when defending>"],
+		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>"],
 		"requiredTech": "Heavy Edged Weapons",
-		"upgradesTo": "Skirmisher",
+		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
@@ -854,7 +854,7 @@
 		"movement": 2,
 		"strength": 23,
 		"cost": 140,
-		"uniques": ["[+20]% Strength bonus for [Pikeman] units within [1] tiles","[+10]% Strength bonus for [Pike and Shot] units within [1] tiles","[+10]% Strength bonus for [Imperial Tercio] units within [1] tiles"],
+		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
@@ -869,7 +869,7 @@
 		"movement": 2,
 		"strength": 23,
 		"cost": 140,
-		"uniques": ["[+20]% Strength bonus for [Pikeman] units within [1] tiles","[+10]% Strength bonus for [Pike and Shot] units within [1] tiles","[+10]% Strength bonus for [Imperial Tercio] units within [1] tiles","[+50]% Strength <when fighting in [City center] tiles>","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","[+50]% Strength <when fighting in [City center] tiles>","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -953,7 +953,7 @@
 	},
 	{
 		"name": "Pike and Shot",
-		"unitType": "Gunpowder",
+		"unitType": "Mixed Gunpowder",
 		"movement": 2,
 		"strength": 26,
 		"cost": 160,
@@ -965,7 +965,7 @@
 	},
 	{
 		"name": "Imperial Tercio",
-		"unitType": "Gunpowder",
+		"unitType": "Mixed Gunpowder",
 		"replaces": "Pike and Shot",
 		"uniqueTo": "Austria",
 		"movement": 2,
