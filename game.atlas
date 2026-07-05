@@ -571,6 +571,13 @@ TileSets/HexaRealm/Units/Great General-1
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Great General-Mediterranean-Modern era-1
+  rotate: false
+  xy: 328, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Great General-Modern era-1
   rotate: false
   xy: 328, 1336
@@ -578,14 +585,7 @@ TileSets/HexaRealm/Units/Great General-Modern era-1
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Mediterranean-1
-  rotate: false
-  xy: 328, 1336
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Western-1
+TileSets/HexaRealm/Units/Great General-Western-Modern era-1
   rotate: false
   xy: 328, 1336
   size: 64, 56
@@ -1978,9 +1978,23 @@ TileSets/HexaRealm/Units/Great General-2
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great General-Modern era
+TileSets/HexaRealm/Units/Great General-Mediterranean-Modern era
   rotate: false
   xy: 688, 1356
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-Western-Modern era
+  rotate: false
+  xy: 688, 1356
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great General-Mediterranean-Modern era-2
+  rotate: false
+  xy: 616, 1283
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
@@ -1992,28 +2006,14 @@ TileSets/HexaRealm/Units/Great General-Modern era-2
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Mediterranean-2
+TileSets/HexaRealm/Units/Great General-Western-Modern era-2
   rotate: false
   xy: 616, 1283
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Western-2
-  rotate: false
-  xy: 616, 1283
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Mediterranean
-  rotate: false
-  xy: 688, 1283
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Great General-Modern era-Western
+TileSets/HexaRealm/Units/Great General-Modern era
   rotate: false
   xy: 688, 1283
   size: 64, 65
