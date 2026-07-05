@@ -535,6 +535,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Pavisier",
+		"unitType": "Anti Cavalry",
+		"replaces": "Pikeman",
+		"uniqueTo": "Bohemia",
+		"movement": 2,
+		"strength": 17,
+		"cost": 90,
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>","[+50]% Strength <vs [Archery] units>"],
+		"requiredTech": "Civil Service",
+		"upgradesTo": "Pike and Shot",
+		"obsoleteTech": "Pike and Shot Tactic",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Flailman",
 		"unitType": "Sword",
 		"uniqueTo": "Barbarians",
@@ -874,20 +888,6 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Pavisier",
-		"unitType": "Sword",
-		"replaces": "Two-handed Swordsman",
-		"uniqueTo": "Bohemia",
-		"movement": 2,
-		"strength": 23,
-		"cost": 125,
-		"uniques": ["[+25]% Strength <vs [Mounted] units>","[+25]% Strength <vs [Archery] units>"],
-		"requiredTech": "Heavy Edged Weapons",
-		"upgradesTo": "Line Infantry",
-		"obsoleteTech": "Flintlock",
 		"attackSound": "metalhit"
 	},
 	{

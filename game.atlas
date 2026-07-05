@@ -2923,6 +2923,13 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-Mediterranean-1
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-Western-1
+  rotate: false
+  xy: 688, 714
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Western
   rotate: false
   xy: 688, 646
@@ -2930,128 +2937,121 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-Western
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Western-1
-  rotate: false
-  xy: 688, 578
-  size: 64, 60
-  orig: 64, 60
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Wagenburg
   rotate: false
-  xy: 688, 512
+  xy: 688, 580
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Chariot
   rotate: false
-  xy: 688, 444
+  xy: 688, 512
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Elephant
   rotate: false
-  xy: 688, 374
+  xy: 688, 442
   size: 64, 62
   orig: 64, 62
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior
   rotate: false
-  xy: 688, 310
+  xy: 688, 378
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-2
   rotate: false
-  xy: 688, 246
+  xy: 688, 314
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats
   rotate: false
-  xy: 688, 182
+  xy: 688, 250
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Modern era
   rotate: false
-  xy: 688, 118
+  xy: 688, 186
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker
   rotate: false
-  xy: 688, 54
+  xy: 688, 122
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Barbarians
   rotate: false
-  xy: 1372, 1232
+  xy: 688, 58
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Barbarians-Classical era
   rotate: false
-  xy: 1372, 1232
+  xy: 688, 58
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era
   rotate: false
-  xy: 1444, 1232
+  xy: 1372, 1232
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-1
   rotate: false
-  xy: 1516, 1185
+  xy: 1444, 1232
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-2
   rotate: false
-  xy: 1588, 1185
+  xy: 1516, 1185
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era
   rotate: false
-  xy: 1660, 1182
+  xy: 1588, 1185
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era-2
   rotate: false
-  xy: 1732, 1141
+  xy: 1660, 1182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era
   rotate: false
-  xy: 1804, 1111
+  xy: 1732, 1141
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era-2
   rotate: false
-  xy: 1876, 1103
+  xy: 1804, 1111
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

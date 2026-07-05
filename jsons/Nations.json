@@ -1319,6 +1319,7 @@
     },
 	{
 		"name": "Bohemia",
+		"style": "Western",
 		"leaderName": "Vaclav II",
 		"adjective": ["Bohemian"],
         "startBias": ["Avoid [Coast]"],
