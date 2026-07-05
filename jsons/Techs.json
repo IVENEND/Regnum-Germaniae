@@ -215,6 +215,14 @@
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
+				"name": "Machinery",
+				"row": 8,
+				"cost": 485,
+				"prerequisites": ["Engineering"],
+				"uniques": ["Improves movement speed on roads"],
+				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+			},
+			{
 				"name": "Metal Casting",
 				"row": 9,
 				"prerequisites": ["Engineering","Iron Working"],
@@ -257,16 +265,9 @@
                 "quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
 			},
 			{
-				"name": "Machinery",
-				"row": 8,
-				"prerequisites": ["Guilds","Engineering"],
-				"uniques": ["Improves movement speed on roads"],
-				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
-			},
-			{
 				"name": "Physics",
 				"row": 9,
-				"prerequisites": ["Metal Casting"],
+				"prerequisites": ["Metal Casting","Machinery"],
 				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
 			},
 			{
