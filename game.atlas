@@ -522,20 +522,6 @@ TileSets/HexaRealm/Units/Artillery-Atomic era-1
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Mediterranean-1
-  rotate: false
-  xy: 328, 1336
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Western-1
-  rotate: false
-  xy: 328, 1336
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Artillery-Mediterranean-1
   rotate: false
   xy: 328, 1336
@@ -543,7 +529,21 @@ TileSets/HexaRealm/Units/Artillery-Mediterranean-1
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Artillery-Mediterranean-Atomic era-1
+  rotate: false
+  xy: 328, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Artillery-Western-1
+  rotate: false
+  xy: 328, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Western-Atomic era-1
   rotate: false
   xy: 328, 1336
   size: 64, 56
@@ -1047,42 +1047,42 @@ TileSets/HexaRealm/Units/Artillery-Atomic era-2
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Mediterranean-2
+TileSets/HexaRealm/Units/Artillery-Mediterranean-Atomic era-2
   rotate: false
   xy: 328, 1080
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Western-2
+TileSets/HexaRealm/Units/Artillery-Western-Atomic era-2
   rotate: false
   xy: 328, 1080
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Mediterranean
-  rotate: false
-  xy: 1012, 1768
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Artillery-Atomic era-Western
-  rotate: false
-  xy: 1012, 1768
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Artillery-Mediterranean
   rotate: false
-  xy: 328, 1016
+  xy: 1012, 1768
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Artillery-Western
+  rotate: false
+  xy: 1012, 1768
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Mediterranean-Atomic era
+  rotate: false
+  xy: 328, 1016
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Artillery-Western-Atomic era
   rotate: false
   xy: 328, 1016
   size: 64, 56
