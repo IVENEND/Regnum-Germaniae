@@ -3,7 +3,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 0,
@@ -88,7 +88,7 @@
 	{
 		"name": "Shock I",
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 4,
         "row": 1
 	},
@@ -96,7 +96,7 @@
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 4,
         "row": 2
 	},
@@ -104,7 +104,7 @@
 		"name": "Shock III",
 		"prerequisites": ["Shock II"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 4,
         "row": 3
 	},
@@ -112,7 +112,7 @@
 	{
 		"name": "Drill I",
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 5,
         "row": 1
 	},
@@ -120,7 +120,7 @@
 		"name": "Drill II",
 		"prerequisites": ["Drill I"],
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 5,
         "row": 2
 	},
@@ -128,7 +128,7 @@
 		"name": "Drill III",
 		"prerequisites": ["Drill II"],
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 5,
         "row": 3
 	},
@@ -136,7 +136,7 @@
 		"name": "Charge",
 		"prerequisites": ["Shock II","Drill II"],
 		"uniques": ["[+33]% Strength <vs [Wounded] units>", "[+200]% weight to this choice for AI decisions"],
-		"unitTypes": ["Mounted","Armored"],
+		"unitTypes": ["Mounted","Light Mounted","Armored"],
         "column": 6,
         "row": 2
 	},
@@ -152,7 +152,7 @@
 		"name": "Formation I",
 		"prerequisites": ["Shock II","Drill II"], // G&K also has Accuracy II & Barrage II as possible prerequisites for this, but I couldn't find a source for the unittypes
 		"uniques": ["[+33]% Strength <vs [Mounted] units>", "[-50]% weight to this choice for AI decisions"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted"],
         "column": 7,
         "row": 2
 	},
@@ -160,7 +160,7 @@
 		"name": "Formation II",
 		"prerequisites": ["Formation I"],
 		"uniques": ["[+33]% Strength <vs [Mounted] units>"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted"],
         "column": 7,
         "row": 3
 	},
@@ -169,7 +169,7 @@
 		"name": "Blitz",
 		"prerequisites": ["Shock III","Drill III"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Armored"],
         "column": 6,
         "row": 4
 	},
@@ -193,7 +193,7 @@
 		"name": "Medic",
 		"prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"],
 		"uniques": ["All adjacent units heal [+5] HP when healing", "[-50]% weight to this choice for AI decisions"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Scout"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Scout"],
         "column": 10, // after scout base
         "row": 1
 	},
@@ -201,7 +201,7 @@
 		"name": "Medic II",
 		"prerequisites": ["Medic"],
 		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Scout"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Scout"],
         "column": 10,
         "row": 2
 	},
@@ -595,7 +595,7 @@
 		"name": "March",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted","Light Mounted"],
         "column": 10,
         "row": 3
 	},
@@ -604,7 +604,7 @@
 		"prerequisites": ["Shock II","Drill II","Targeting I",
 			"Bombardment I","Boarding Party I", "Coastal Raider I", "Wolfpack I"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Mounted","Melee Water","Ranged Water","Armored","Submarine"],
+		"unitTypes": ["Mounted","Light Mounted","Melee Water","Ranged Water","Armored","Submarine"],
         "column": 24,
         "row": 3
 	},
@@ -612,7 +612,7 @@
 		"name": "Sentry",
 		"prerequisites": ["Accuracy I","Barrage I","Shock II","Drill II","Bombardment I","Targeting I","Boarding Party I","Coastal Raider I"],
 		"uniques": ["[+1] Sight"],
-		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Ranged Water","Armored","Melee Water"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Mounted","Light Mounted","Ranged Water","Armored","Melee Water"],
         "column": 24,
         "row": 4
 	},

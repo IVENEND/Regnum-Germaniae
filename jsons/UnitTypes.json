@@ -40,6 +40,11 @@
         "movementType": "Land"
     },
     {
+        "name": "Light Mounted",
+	    "uniques": ["Mounted"],
+        "movementType": "Land"
+    },
+    {
         "name": "Armored",
         "movementType": "Land"
     },

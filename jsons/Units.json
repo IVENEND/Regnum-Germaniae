@@ -1016,6 +1016,19 @@
 		"attackSound": "shipCannonVolley"
 	},
 	{
+		"name": "Reiter",
+		"unitType": "Light Mounted",
+		"movement": 5,
+		"strength": 20,
+		"cost": 165,
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Hussar",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -1152,11 +1165,12 @@
 	},
 	{
 		"name": "Hussar",
-		"unitType": "Mounted",
+		"unitType": "Light Mounted",
 		"movement": 5,
 		"strength": 24,
 		"cost": 165,
 		"requiredTech": "Combined Arms",
+		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
