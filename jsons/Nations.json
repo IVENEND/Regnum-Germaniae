@@ -1393,6 +1393,7 @@
 	},
 	{
 		"name": "Bucharest",
+		"style": "Western",
 		"adjective": ["Bucuresti"],
 		"cityStateType": "Cultured",
 
@@ -1405,6 +1406,7 @@
 	},
 	{
 		"name": "Florence",
+		"style": "Mediterranean",
 		"adjective": ["Florentine"],
 		"cityStateType": "Cultured",
 
@@ -1453,6 +1455,7 @@
 	},
 	{
 		"name": "Milan",
+		"style": "Mediterranean",
 		"adjective": ["Milanese"],
 		"cityStateType": "Cultured",
 
@@ -1476,16 +1479,16 @@
 		"cities": ["Friedberg"]
 	},
 	{
-		"name": "Pfullendorf",
-		"adjective": ["Pfullendorf"],
+		"name": "Brussels",
+		"adjective": ["Bruxellois"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "You fiend! History shall remember this!",
+		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [51, 97, 242],
-		"cities": ["Pfullendorf"]
+		"innerColor": [127, 177, 236],
+		"cities": ["Brussels"]
 	},
 	{
 		"name": "Dinkelsbühl",
@@ -1514,6 +1517,7 @@
 	},
 	{
 		"name": "Helsinki", // In GK, Helsinki becomes a Swedish city.
+		"style": "Western",
 		"adjective": ["Helsinkian"],
 		"cityStateType": "Maritime",
 
@@ -1576,6 +1580,7 @@
 	},
 	{
 		"name": "Ragusa",
+		"style": "Mediterranean",
 		"adjective": ["Ragusan"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
@@ -1589,6 +1594,7 @@
 	},
 	{
 		"name": "Visby",
+		"style": "Western",
 		"adjective": ["Visby"],
 		"cityStateType": "Maritime",
 
@@ -1628,6 +1634,7 @@
 	},
 	{
 		"name": "Venice",
+		"style": "Mediterranean",
 		"adjective": ["Venetian"],
 		"cityStateType": "Maritime",
 		"startBias": ["Coast"],
@@ -1655,6 +1662,7 @@
 	},
 	{
 		"name": "Pisa",
+		"style": "Mediterranean",
 		"adjective": ["Pisa"],
 		"cityStateType": "Mercantile",
 
@@ -1667,6 +1675,7 @@
 	},
 	{
 		"name": "Siena",
+		"style": "Mediterranean",
 		"adjective": ["Siena"],
 		"cityStateType": "Mercantile",
 
@@ -1679,6 +1688,7 @@
 	},
 	{
 		"name": "Genoa",
+		"style": "Mediterranean",
 		"adjective": ["Genoese"],
 		"cityStateType": "Mercantile", // Changed from Maritime to Mercantile in GK
 		"startBias": ["Coast"],
@@ -1692,6 +1702,7 @@
 	},
 	{
 		"name": "Lucca",
+		"style": "Mediterranean",
 		"adjective": ["Lucca"],
 		"cityStateType": "Mercantile",
 
@@ -1704,6 +1715,7 @@
 	},
 	{
 		"name": "Mantua",
+		"style": "Mediterranean",
 		"adjective": ["Mantua"],
 		"cityStateType": "Mercantile",
 
@@ -1716,6 +1728,7 @@
 	},
 	{
 		"name": "Cospaia",
+		"style": "Mediterranean",
 		"adjective": ["Cospaian"],
 		"cityStateType": "Mercantile", // Changed from Militaristic to Mercantile in GK
 		"startBias": ["Coast"],
@@ -1729,6 +1742,7 @@
 	},
 	{
 		"name": "Bologna",
+		"style": "Mediterranean",
 		"adjective": ["Bologna"],
 		"cityStateType": "Mercantile",
 
@@ -1741,6 +1755,7 @@
 	},
 	{
 		"name": "Ferrara",
+		"style": "Mediterranean",
 		"adjective": ["Ferrara"],
 		"cityStateType": "Mercantile",
 
@@ -1754,6 +1769,7 @@
 
 	{
 		"name": "Zagreb",
+		"style": "Western",
 		"adjective": ["Zagreb"],
 		"cityStateType": "Militaristic",
 
@@ -1766,6 +1782,7 @@
 	},
 	{
 		"name": "Belgrade",
+		"style": "Western",
 		"adjective": ["Belgradian"],
 		"cityStateType": "Militaristic",
 
@@ -1778,6 +1795,7 @@
 	},
 	{
 		"name": "Budapest",
+		"style": "Western",
 		"adjective": ["Budapester", "Budapesti"],
 		"cityStateType": "Militaristic",
 
@@ -1790,6 +1808,7 @@
 	},
 	{
 		"name": "Dublin",
+		"style": "Western",
 		"adjective": ["Dubliner"],
 		"cityStateType": "Militaristic",
 
@@ -1803,6 +1822,7 @@
 	},
 	{
 		"name": "Edinburgh",
+		"style": "Western",
 		"adjective": ["Edinburghensian"],
 		"cityStateType": "Militaristic",
 
@@ -1816,6 +1836,7 @@
 	},
 	{
 		"name": "Savoy",
+		"style": "Mediterranean",
 		"adjective": ["Savoy"],
 		"cityStateType": "Militaristic",
 
@@ -1841,6 +1862,7 @@
 	},
 	{
 		"name": "Metz",
+		"style": "Western",
 		"adjective": ["Metz"],
 		"cityStateType": "Militaristic",
 
@@ -1867,6 +1889,7 @@
 
 	{
 		"name": "Bratislava",
+		"style": "Western",
 		"adjective": ["Bratislavan"],
 		"cityStateType": "Religious",
 
@@ -1891,6 +1914,7 @@
 	},
 	{
 		"name": "Jerusalem",
+		"style": "Western",
 		"adjective": ["Jerusalemite"],
 		"cityStateType": "Religious",
 
@@ -1927,6 +1951,7 @@
 	},
 	{
 		"name": "Vatican City",
+		"style": "Mediterranean",
 		"adjective": ["Vaticano"],
 		"cityStateType": "Religious",
 
