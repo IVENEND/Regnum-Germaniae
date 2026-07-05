@@ -42,6 +42,7 @@
 	},
     {
 		"name": "Greece",
+		"style": "Mediterranean",
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],
 		"startBias": ["Coast"],
@@ -140,6 +141,7 @@
     },
 	{
 		"name": "England",
+		"style": "Western",
 		"leaderName": "Elizabeth",
 		"adjective": ["English"],
 		"startBias": ["Coast"],
@@ -170,6 +172,7 @@
     },
 	{
 		"name": "France",
+		"style": "Western",
 		"leaderName": "Napoleon",
 		"adjective": ["French"],
 		"preferredVictoryType": "Cultural",
@@ -200,6 +203,7 @@
     },
 	{
 		"name": "Russia",
+		"style": "Western",
 		"leaderName": "Catherine",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
@@ -232,6 +236,7 @@
     },
 	{
 		"name": "Rome",
+		"style": "Mediterranean",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
@@ -293,6 +298,7 @@
     },
 	{
 		"name": "America",
+		"style": "Western",
 		"leaderName": "George Washington",
 		"adjective": ["American"],
 		"preferredVictoryType": "Scientific",
@@ -608,6 +614,7 @@
     },
 	{
 		"name": "Spain",
+		"style": "Mediterranean",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
 		"startBias": ["Coast"],
@@ -766,6 +773,7 @@
     },
 	{
 		"name": "Denmark",
+		"style": "Western",
 		"leaderName": "Harald Bluetooth",
 		"adjective": ["Danish"],
 		"startBias": ["Coast"],
@@ -856,6 +864,7 @@
 
 	{
 	    "name": "Sweden",
+		"style": "Western",
 		"leaderName": "Gustavus Adolphus",
 		"adjective": ["Swedish"],
 		"startBias": ["Tundra"],
@@ -952,6 +961,7 @@
     },
 	{
 		"name": "Byzantium",
+		"style": "Mediterranean",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
@@ -981,6 +991,7 @@
     },
 	{
 		"name": "Celts",
+		"style": "Western",
 		"leaderName": "Boudicca",
 		"adjective": ["celtic"],
 		"startBias": ["Forest"],
