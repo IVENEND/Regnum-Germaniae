@@ -598,7 +598,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
@@ -615,7 +615,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
@@ -631,7 +631,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
@@ -647,7 +647,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
@@ -664,7 +664,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
@@ -679,7 +679,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
@@ -696,7 +696,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
-		"upgradesTo": "Reiter",
+		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
@@ -1016,7 +1016,7 @@
 		"attackSound": "shipCannonVolley"
 	},
 	{
-		"name": "Reiter",
+		"name": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
@@ -1031,7 +1031,7 @@
 	{
 		"name": "Free Imperial Knight",
 		"unitType": "Mounted",
-		"replaces": "Reiter",
+		"replaces": "Lancer",
 		"uniqueTo": "Swabia",
 		"range": 1,
 		"movement": 4,
@@ -1048,7 +1048,7 @@
 	{
 		"name": "Sipahi",
 		"unitType": "Mounted",
-		"replaces": "Reiter",
+		"replaces": "Lancer",
 		"uniqueTo": "The Ottomans",
 		"movement": 5,
 		"strength": 25,
@@ -1065,7 +1065,7 @@
 	{
 		"name": "Hakkapeliitta",
 		"unitType": "Mounted",
-		"replaces": "Reiter",
+		"replaces": "Lancer",
 		"uniqueTo": "Sweden",
 		"movement": 4,
 		"strength": 25,
