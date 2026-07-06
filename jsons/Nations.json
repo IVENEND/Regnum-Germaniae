@@ -1262,6 +1262,7 @@
     },
 	{
 		"name": "Switzerland",
+		"style": "Mediterranean",
 		"leaderName": "Henri Dufour",
 		"adjective": ["Swiss"],
 		"startBias": ["Hill","Avoid [Coast]"],
