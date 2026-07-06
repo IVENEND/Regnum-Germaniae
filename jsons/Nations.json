@@ -837,6 +837,7 @@
     },
 	{
 		"name": "The Netherlands",
+		"style": "Western",
 		"leaderName": "William of Orange",
 		"adjective": ["Dutch"],
 		"startBias": ["Grassland"],
@@ -1482,6 +1483,7 @@
 	},
 	{
 		"name": "Brussels",
+		"style": "Western",
 		"adjective": ["Bruxellois"],
 		"cityStateType": "Cultured",
 
@@ -1651,6 +1653,7 @@
 
 	{
 		"name": "Antwerp",
+		"style": "Western",
 		"adjective": ["Antwerpenaar", "Antwerpian"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
