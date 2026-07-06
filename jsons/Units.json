@@ -1120,6 +1120,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Carolean",
+		"unitType": "Gunpowder",
+		"replaces": "Line Infantry",
+		"uniqueTo": "Sweden",
+		"movement": 2,
+		"strength": 30,
+		"cost": 185,
+		"uniques": ["[+30]% Strength <vs [Mounted] units>"],
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["March"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Black Brunswicker",
 		"unitType": "Gunpowder",
 		"replaces": "Line Infantry",
@@ -1302,21 +1317,6 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Norwegian Ski Infantry] ability"],
-		"attackSound": "shot"
-	},
-	{
-		"name": "Carolean",
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
-		"uniqueTo": "Sweden",
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"uniques": ["[+30]% Strength <vs [Mounted] units>"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"promotions": ["March"],
 		"attackSound": "shot"
 	},
 	{
