@@ -317,7 +317,7 @@
 			{
 				"name": "Heavy Edged Weapons",
 				"row": 9,
-				"prerequisites": ["Steel"],
+				"prerequisites": ["Steel","Physics"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'Suddenly, as the the Italian pikemen began to approach, about 300 picked young men who are called the forlorn hope issued forth from each flank of the infantry body and with their great swords which they wielded with both hands began to chop up those enormous pikes with such boldness that nearly all those pikemen.' - Paolo Giovio"
 			},
@@ -403,13 +403,13 @@
 			{
 				"name": "Humanism",
 				"row": 4,
-				"prerequisites": ["Architecture"],
+				"prerequisites": ["Architecture","Sovereignty"],
 				"quote": "'Placeholder.' - Placeholder"
 			},
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Sovereignty"],
+				"prerequisites": ["Sovereignty","Metallurgy"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
