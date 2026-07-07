@@ -1033,7 +1033,7 @@
 		"attackSound": "shipCannonVolley"
 	},
 	{
-		"name": "Reiter",
+		"name": "Petronel",
 		"unitType": "Light Mounted",
 		"movement": 5,
 		"strength": 20,
@@ -1059,10 +1059,10 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Free Imperial Knight",
+		"name": "Schwarze Reiter",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
-		"uniqueTo": "Swabia",
+		"uniqueTo": "Saxony",
 		"range": 1,
 		"movement": 4,
 		"strength": 25,
