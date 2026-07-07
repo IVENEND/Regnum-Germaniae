@@ -862,6 +862,14 @@
 		"requiredTech": "Sovereignty",
 		"uniques": ["[+25]% Great Person generation [in this city]"]
 	},
+	{
+		"name": "Gunsmith",
+		"cost": 230,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"uniques": ["[+25]% Production when constructing [Gunpowder] units [in this city]","[+25]% Production when constructing [Mixed Gunpowder] units [in this city]","[+25]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+		"requiredTech": "Pike and Shot Tactic"
+	},
 	
 
 
@@ -878,14 +886,6 @@
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Bank",
 		"requiredTech": "Imperialism"
-	},
-	{
-		"name": "Gunsmith",
-		"cost": 250,
-		"hurryCostModifier": 10,
-		"maintenance": 2,
-		"uniques": ["[+25]% Production when constructing [Gunpowder] units [in this city]"],
-		"requiredTech": "Flintlock"
 	},
 	{
 		"name": "Salon",
