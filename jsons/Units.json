@@ -964,6 +964,23 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Doppelsöldner",
+		"unitType": "Anti Cavalry",
+		"replaces": "Pike and Shot",
+		"uniqueTo": "Swabia",
+		"movement": 2,
+		"strength": 26,
+		"cost": 160,
+		"requiredTech": "Printing Press",
+		"uniques": [
+			"[+50]% Strength <vs [Mounted] units>",
+			"Can move immediately once bought","No movement cost to pillage","Earn [100]% of the damage done to [City] units as [Gold]"
+		],
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Imperial Tercio",
 		"unitType": "Mixed Gunpowder",
 		"replaces": "Pike and Shot",
