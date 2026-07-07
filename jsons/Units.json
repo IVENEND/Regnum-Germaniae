@@ -1126,7 +1126,7 @@
 
 	{
 		"name": "Grenadier",
-		"unitType": "Gunpowder",
+		"unitType": "Grenadier Gunpowder",
 		"movement": 2,
 		"strength": 31,
 		"cost": 200,

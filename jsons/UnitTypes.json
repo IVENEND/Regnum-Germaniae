@@ -24,6 +24,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Grenadier Gunpowder",
+        "movementType": "Land"
+    },
+    {
         "name": "Archery",
         "movementType": "Land"
     },
