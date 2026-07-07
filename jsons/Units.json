@@ -1068,7 +1068,7 @@
 		"strength": 25,
 		"rangedStrength": 25,
 		"cost": 185,
-		"requiredTech": "Printing Press",
+		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"obsoleteTech": "Combined Arms",
