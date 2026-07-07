@@ -870,7 +870,7 @@
 		"cost": 140,
 		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles"],
 		"requiredTech": "Heavy Edged Weapons",
-		"upgradesTo": "Line Infantry",
+		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
@@ -1124,6 +1124,19 @@
 
 	// Enlightenment Era
 
+	{
+		"name": "Grenadier",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 31,
+		"cost": 200,
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>"],
+		"requiredTech": "Flintlock",
+		"requiredResource": "Iron",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 	{
 		"name": "Line Infantry",
 		"unitType": "Gunpowder",
