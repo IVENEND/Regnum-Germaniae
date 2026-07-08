@@ -1379,6 +1379,37 @@
 			"Königslutter","Bündheim","Braunlage","Gandersheim","Hasselfelde"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+	{
+		"name": "Hungary",
+		"style": "Western",
+		"leaderName": "Matthias Corvinus",
+		"adjective": ["Hungarian"],
+        "startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Napoleon",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "Mighty Matthias, your feats at arms are matched only by the depths of your knowledge. Let your mighty Black Army serve as your strong hand in the battlefield, both as sword against your enemies and as shield protecting your faithful people, and ages to come will utter your name in awe.",
+
+        "declaringWar": "Your insolence has provoked this war, and I shall be happy to lead the Black Army to victory over you.",
+		"attacked": "Surely you had to know that one day there would be war between us.",
+		"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "I am Matthias. I am King of Hungary, scourge of my foes, and defender of the faithful. Greetings.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [21, 108, 48],
+		"innerColor": [255, 129, 18],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "placeholder",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Buda","Debrecen","Esztergom","Pécs","Szeged","Pest","Eger","Miskolc","Győr","Székesfehérvár",
+			"Óbuda","Kőszeg","Tatabánya","Diósgyőr","Mohács","Tata","Szolnok","Kassa","Kecskemét",
+			"Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Temesvár","Nagyvázsony","Hódmezővásárhely","Sümeg","Baja"],
+        "spyNames": ["Zerffi", "Lijos", "Andras", "Imre", "Bela", "Dorottya", "Piroska", "Petofi", "Sandor", "Paprika"]
+    },
 
 
 	// City-States sorted by cityStateType, name
@@ -1799,9 +1830,9 @@
 		"cities": ["Belgrade"]
 	},
 	{
-		"name": "Budapest",
+		"name": "Cluj",
 		"style": "Western",
-		"adjective": ["Budapester", "Budapesti"],
+		"adjective": ["Cluj"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "Let's have a nice little War, shall we?",
@@ -1809,7 +1840,7 @@
 		"defeated": "The serbian guerilla will never stop haunting you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [217, 158, 78],
-		"cities": ["Budapest"]
+		"cities": ["Cluj"]
 	},
 	{
 		"name": "Dublin",
