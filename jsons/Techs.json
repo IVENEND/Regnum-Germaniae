@@ -310,7 +310,7 @@
 			{
 				"name": "Printing Press",
 				"row": 8,
-				"prerequisites": ["Machinery","Physics","Chivalry"],
+				"prerequisites": ["Physics","Chivalry"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
