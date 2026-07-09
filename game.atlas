@@ -3280,7 +3280,21 @@ TileSets/HexaRealm/Units/Two-handed Swordsman
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands
+  rotate: false
+  xy: 1732, 498
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-1
+  rotate: false
+  xy: 1804, 508
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands-1
   rotate: false
   xy: 1804, 508
   size: 64, 60
@@ -3295,6 +3309,13 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-2
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Mediterranean-2
+  rotate: false
+  xy: 1876, 508
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands-2
   rotate: false
   xy: 1876, 508
   size: 64, 60
