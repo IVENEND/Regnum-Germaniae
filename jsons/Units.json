@@ -1062,6 +1062,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Huszár",
+		"unitType": "Light Mounted",
+		"replaces": "Petronel",
+		"uniqueTo": "Hungary",
+		"movement": 5,
+		"strength": 23,
+		"cost": 165,
+		"requiredTech": "Heavy Edged Weapons",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Hussar",
+		"attackSound": "horse"
+	},
+	{
 		"name": "Lancer",
 		"unitType": "Mounted",
 		"movement": 4,
