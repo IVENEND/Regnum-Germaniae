@@ -1072,6 +1072,7 @@
 		"requiredTech": "Heavy Edged Weapons",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
+		"promotions": ["Charge"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Hussar",
 		"attackSound": "horse"
