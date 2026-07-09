@@ -1410,6 +1410,35 @@
 			"Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Temesvár","Nagyvázsony","Hódmezővásárhely","Sümeg","Baja"],
         "spyNames": ["Zerffi", "Lijos", "Andras", "Imre", "Bela", "Dorottya", "Piroska", "Petofi", "Sandor", "Paprika"]
     },
+	{
+		"name": "Teutonic Order",
+		"leaderName": "Hermann von Salza",
+		"adjective": ["Teutonic"],
+		"preferredVictoryType": "Domination",
+		"personality": "Napoleon",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [37, 46, 53],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Furor Teutonicus",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>"],
+		"cities": ["Marienburg","Konigsberg","Danzig","Memel","Heilsberg","Kulm","Tuchel","Soldin","Ortelsburg","Osterode",
+			"Allenstein","Angerburg","Neidenburg","Rosenberck","Thorn","Kruschwitz","Johannisburg","Hasenpoth","Schwanenburg","Dondangen",
+			"Ass","Borkholm","Taplaken","Wolmar","Kokenhusen","Reval","Riga","Lennewarden"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
 
 
 	// City-States sorted by cityStateType, name

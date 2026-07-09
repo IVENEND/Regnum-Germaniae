@@ -604,6 +604,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Ritterbruder",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Teutonic Order",
+		"movement": 4,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Wagenburg",
 		"unitType": "Gunpowder",
 		"replaces": "Knight",
