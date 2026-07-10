@@ -899,6 +899,7 @@
     },
 	{
 		"name": "Austria",
+		"style": "Austro",
 		"leaderName": "Maria Theresa",
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
@@ -1321,7 +1322,7 @@
     },
 	{
 		"name": "Bohemia",
-		"style": "Western",
+		"style": "Austro",
 		"leaderName": "Vaclav II",
 		"adjective": ["Bohemian"],
         "startBias": ["Avoid [Coast]"],
@@ -1381,7 +1382,7 @@
     },
 	{
 		"name": "Hungary",
-		"style": "Western",
+		"style": "Austro",
 		"leaderName": "Matthias Corvinus",
 		"adjective": ["Hungarian"],
         "startBias": ["Avoid [Coast]"],
