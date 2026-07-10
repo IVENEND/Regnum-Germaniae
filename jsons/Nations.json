@@ -1172,7 +1172,7 @@
         "innerColor": [30,30,30],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "An Army with a State",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster", "[Great Admiral] is earned [+50]% faster"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+1 Happiness] from all [Barracks] buildings"],
 		"cities": ["Berlin","Konigsberg","Potsdam","Danzig","Breslau","Stettin","Brandenburg","Frankfurt (Oder)","Ostenburg","Passenheim",
 			"Dirschau","Berent","Marienwerder","Willenberg","Rastenburg"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
@@ -1256,8 +1256,8 @@
 		"outerColor": [0, 82, 159],
 		"innerColor": [255, 0, 0],
 		"favoredReligion": "Calvinism",
-		"uniqueName": "The Great Warpath",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"uniqueName": "Hessian Mercenary",
+		"uniques": ["[Gold] cost of purchasing [{Land} {Military}] units [-33]%"],
 		"cities": ["Kassel","Darmstadt","Wiesbaden","Marburg","Offenbach am Main","Hanau","Giessen","Fulda","Wetzlar","Rodgau","Dreieich",
 			"Bensheim","Maintal","Langen","Limburg an der Lahn"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
