@@ -1199,7 +1199,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "A Rugged Land of Fortresses",
-		"uniques": ["[+25]% Production when constructing [Walls] buildings [in all cities]","[+25]% Production when constructing [Castle] buildings [in all cities]","[+25]% Production when constructing [Bastion] buildings [in all cities]","[-25]% maintenance cost for [Walls] buildings [in all cities]","[-25]% maintenance cost for [Castle] buildings [in all cities]","[-25]% maintenance cost for [Bastion] buildings [in all cities]"],
+		"uniques": ["[+25]% Production when constructing [Walls] buildings [in all cities]","[+25]% Production when constructing [Castle] buildings [in all cities]","[+25]% Production when constructing [Bastion] buildings [in all cities]"],
 		"cities": ["Würzburg","Bamberg","Bayreuth","Coburg","Ansbach","Aschaffenburg","Erlangen","Fürth","Schwabach","Suhl","Crailsheim",
 			"Forchheim","Zirndorf","Kulmbach","Meiningen"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
@@ -1227,7 +1227,7 @@
 		"innerColor": [214, 167, 83],
 		"favoredReligion": "Calvinism",
 		"uniqueName": "Palatinate Tolerance",
-		"uniques": ["[+1 Science, +1 Culture] <in cities not following a [your] religion>","[+10]% Production when constructing [Library] buildings [in all cities]","[+10]% Production when constructing [University] buildings [in all cities]"],
+		"uniques": ["[+1 Science, +1 Culture] <in cities not following a [your] religion>","[+20]% Production when constructing [Library] buildings [in all cities]","[+20]% Production when constructing [University] buildings [in all cities]"],
 		"cities": ["Heidelberg","Düsseldorf","Mannheim","Speyer","Koblenz","Worms","Kaiserslautern","Neuwied","Zweibrücken","Pirmasens","Andernach",
 			"Bad Kreuznach","Landau in der Pfalz","Ingelheim am Rhein","Germersheim"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
