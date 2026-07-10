@@ -2825,6 +2825,20 @@ TileSets/HexaRealm/Units/Pikeman-2
   orig: 64, 68
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Pikeman-Austria-Renaissance era
+  rotate: false
+  xy: 724, 234
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Prussia-Renaissance era
+  rotate: false
+  xy: 724, 234
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Pikeman-Renaissance era
   rotate: false
   xy: 724, 234
@@ -2832,7 +2846,14 @@ TileSets/HexaRealm/Units/Pikeman-Renaissance era
   orig: 64, 68
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Pikeman-Renaissance era-1
+TileSets/HexaRealm/Units/Pikeman-Austria-Renaissance era-1
+  rotate: false
+  xy: 652, 116
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Prussia-Renaissance era-1
   rotate: false
   xy: 652, 116
   size: 64, 68
@@ -2840,6 +2861,27 @@ TileSets/HexaRealm/Units/Pikeman-Renaissance era-1
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman-Renaissance era-2
+  rotate: false
+  xy: 652, 116
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Austria-Renaissance era-2
+  rotate: false
+  xy: 1948, 421
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Prussia-Renaissance era-2
+  rotate: false
+  xy: 1948, 421
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Renaissance era-1
   rotate: false
   xy: 1948, 421
   size: 64, 68
