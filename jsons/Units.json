@@ -529,7 +529,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <when adjacent to a [Pikeman] unit> <after discovering [Heavy Edged Weapons]>"],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
@@ -542,7 +542,7 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 90,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>","[+50]% Strength <vs [Archery] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <after discovering [Heavy Edged Weapons]>","[+50]% Strength <vs [Archery] units>"],
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
@@ -571,7 +571,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+3] Strength <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <when adjacent to a [Reisläufer] unit> <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
 		"attackSound": "metalhit"
