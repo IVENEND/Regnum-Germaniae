@@ -1171,7 +1171,7 @@
         "innerColor": [30,30,30],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "An Army with a State",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+1 Happiness] from all [Barracks] buildings"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+1 Happiness] from all [Barracks] buildings","[+1 Happiness] from all [Armory] buildings","[+1 Happiness] from all [Military Academy] buildings"],
 		"cities": ["Berlin","Konigsberg","Potsdam","Danzig","Breslau","Stettin","Brandenburg","Frankfurt (Oder)","Ostenburg","Passenheim",
 			"Dirschau","Berent","Marienwerder","Willenberg","Rastenburg"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
@@ -1399,7 +1399,7 @@
 		"innerColor": [206, 41, 57],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Hussar Tradition",
-		"uniques": ["New [Light Mounted] units start with [15] XP [in all cities]","[+200]% [Horses] resource production"],
+		"uniques": ["New [Light Mounted] units start with [15] XP [in all cities]","[+25]% Strength <vs [Anti Cavalry] units> <for [Light Mounted] units>","[+25]% Strength <vs [Mixed Gunpowder] units> <for [Light Mounted] units>","[+200]% [Horses] resource production"],
 		"cities": ["Buda","Debrecen","Esztergom","Pécs","Szeged","Pest","Eger","Miskolc","Győr","Székesfehérvár",
 			"Óbuda","Kőszeg","Tatabánya","Diósgyőr","Mohács","Tata","Szolnok","Kassa","Kecskemét",
 			"Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Temesvár","Nagyvázsony","Hódmezővásárhely","Sümeg","Baja"],
