@@ -544,6 +544,17 @@
 		"requiredTech": "Machinery"
 	},
 	{
+		"name": "Beer Hall",
+		"replaces": "Tavern",
+		"uniqueTo": "Bavaria",
+		"cost": 200,
+		"maintenance": 0,
+		"happiness": 2,
+		"culture": 1,
+		"hurryCostModifier": 10,
+		"requiredTech": "Machinery"
+	},
+	{
 		"name": "Harbor",
 		"cost": 120,
 		"maintenance": 3,
