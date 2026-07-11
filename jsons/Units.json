@@ -1185,6 +1185,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Old Guard",
+		"unitType": "Grenadier Gunpowder",
+		"replaces": "Grenadier",
+		"uniqueTo": "France",
+		"movement": 2,
+		"strength": 31,
+		"cost": 220,
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Gunpowder] units>"],
+		"requiredTech": "Flintlock",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Line Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -1509,20 +1524,6 @@
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Pharmaceuticals",
-		"attackSound": "shot"
-	},
-	{
-		"name": "Foreign Legion",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "France",
-		"movement": 2,
-		"strength": 50,
-		"cost": 320,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Pharmaceuticals",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
 	},
 	{

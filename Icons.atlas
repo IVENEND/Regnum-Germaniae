@@ -62,28 +62,28 @@ BuildingIcons/Menagerie
   index: -1
 BuildingIcons/Perpetual Imperial Diet
   rotate: false
-  xy: 760, 586
+  xy: 868, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salon
   rotate: false
-  xy: 760, 370
+  xy: 868, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1084, 586
+  xy: 1192, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Weigh House
   rotate: false
-  xy: 1300, 694
+  xy: 760, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -188,33 +188,26 @@ NationIcons/Hungary
   index: -1
 NationIcons/Palatinate
   rotate: false
-  xy: 544, 370
+  xy: 652, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Prussia
   rotate: false
-  xy: 544, 262
+  xy: 652, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Saxony
   rotate: false
-  xy: 868, 478
+  xy: 976, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Spain
-  rotate: false
-  xy: 544, 46
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Swabia
   rotate: false
   xy: 652, 154
   size: 100, 100
@@ -227,31 +220,38 @@ NationIcons/Swabia
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: 2
-NationIcons/Sweden
+  index: -1
+NationIcons/Swabia
   rotate: false
   xy: 868, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-NationIcons/Switzerland
+  index: 2
+NationIcons/Sweden
   rotate: false
   xy: 976, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Switzerland
+  rotate: false
+  xy: 1084, 586
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Teutonic Order
   rotate: false
-  xy: 1192, 694
+  xy: 652, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Netherlands
   rotate: false
-  xy: 652, 46
+  xy: 760, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -349,35 +349,35 @@ ReligionIcons/Nestorianism
   index: -1
 ReligionIcons/Oriental Orthodoxy
   rotate: false
-  xy: 436, 262
+  xy: 544, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Puritanism
   rotate: false
-  xy: 652, 370
+  xy: 760, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Quakerism
   rotate: false
-  xy: 760, 478
+  xy: 868, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Unitarianism
   rotate: false
-  xy: 868, 262
+  xy: 976, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Valentinianism
   rotate: false
-  xy: 976, 370
+  xy: 1084, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -468,28 +468,28 @@ TechIcons/Natural History
   index: -1
 TechIcons/Pike and Shot Tactic
   rotate: false
-  xy: 436, 154
+  xy: 544, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Romanticism
   rotate: false
-  xy: 544, 154
+  xy: 652, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Sovereignty
   rotate: false
-  xy: 1084, 694
+  xy: 544, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Warships
   rotate: false
-  xy: 1192, 586
+  xy: 1300, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -662,58 +662,65 @@ UnitIcons/Needle Gunner
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Old Guard
+  rotate: false
+  xy: 436, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Pavisier
   rotate: false
-  xy: 652, 478
+  xy: 760, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Petronel
   rotate: false
-  xy: 868, 694
+  xy: 328, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pike and Shot
   rotate: false
-  xy: 328, 46
+  xy: 436, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reisläufer
   rotate: false
-  xy: 868, 586
+  xy: 976, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reiter
   rotate: false
-  xy: 976, 694
+  xy: 436, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ritterbruder
   rotate: false
-  xy: 436, 46
+  xy: 544, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rondartschier
   rotate: false
-  xy: 652, 262
+  xy: 760, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schwarze Reiter
   rotate: false
-  xy: 976, 586
+  xy: 1084, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -727,21 +734,21 @@ UnitIcons/Skirmisher
   index: -1
 UnitIcons/Two-handed Swordsman
   rotate: false
-  xy: 760, 154
+  xy: 868, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wagenburg
   rotate: false
-  xy: 1084, 478
+  xy: 1192, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Generals
   rotate: false
-  xy: 760, 96
+  xy: 868, 204
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
