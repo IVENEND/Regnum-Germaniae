@@ -1192,7 +1192,7 @@
 		"movement": 2,
 		"strength": 31,
 		"cost": 220,
-		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+25]% Strength <vs [Gunpowder] units>"],
 		"requiredTech": "Flintlock",
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
