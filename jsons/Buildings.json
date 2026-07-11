@@ -689,7 +689,7 @@
 	{
 		"name": "Ceilidh Hall",
 		"replaces": "Opera House",
-		"uniqueTo": "Celts",
+		"uniqueTo": "Scotland",
 		"culture": 4,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},

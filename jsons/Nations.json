@@ -992,10 +992,10 @@
         "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
     },
 	{
-		"name": "Celts",
+		"name": "Scotland",
 		"style": "Western",
 		"leaderName": "Boudicca",
-		"adjective": ["celtic"],
+		"adjective": ["Scottish"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		"personality": "Boudicca",
@@ -1013,13 +1013,13 @@
 		"neutralHello": "God has given good to you.",
 
 		"hateHello": "Well?",
-        "outerColor": [12,75,25],
-        "innerColor": [157,172,255],
+        "outerColor": [6,61,78],
+        "innerColor": [202,215,218],
 
 		"favoredReligion": "Valentinianism",
 		"uniqueName": "Druidic Lore",
 		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
-			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>","Will not be chosen for new games", "Excluded from map editor"],
+			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
 			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
 			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",

@@ -338,21 +338,6 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Pictish Warrior",
-		"unitType": "Sword",
-		"replaces": "Spearman",
-		"uniqueTo": "Celts",
-		"movement": 2,
-		"strength": 11,
-		"cost": 56,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions": ["Pictish Courage"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Marauder",
 		"unitType": "Anti Cavalry",
 		"replaces": "Spearman",
@@ -928,6 +913,21 @@
 		"strength": 23,
 		"cost": 140,
 		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","Unavailable <for [Hungary] Civilizations>"],
+		"requiredTech": "Heavy Edged Weapons",
+		"upgradesTo": "Grenadier",
+		"obsoleteTech": "Flintlock",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Gallowglass",
+		"unitType": "Sword",
+		"replaces": "Two-handed Swordsman",
+		"uniqueTo": "Scotland",
+		"movement": 2,
+		"strength": 23,
+		"cost": 140,
+		"uniques": ["[+33]% Strength <when attacking>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
