@@ -351,7 +351,7 @@
     },
     {
         "name": "Commerce",
-        "era": "Medieval era",
+        "era": "Renaissance era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -396,6 +396,7 @@
                     "[+1 Science] from every [Mint]",
                     "[+1 Science] from every [Market]",
                     "[+1 Science] from every [Bank]",
+                    "[+1 Science] from every [Weigh House]",
                     "[+1 Science] from every [Stock Exchange]"
                 ],
                 "requires": ["Trade Unions"],
@@ -422,7 +423,7 @@
     },
     {
         "name": "Rationalism",
-        "era": "Renaissance era",
+        "era": "Enlightenment era",
         "priorities": {
             "Neutral": 10,
             "Cultural": 10,
