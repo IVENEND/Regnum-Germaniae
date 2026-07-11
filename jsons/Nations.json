@@ -1227,7 +1227,7 @@
 		"innerColor": [214, 167, 83],
 		"favoredReligion": "Calvinism",
 		"uniqueName": "Palatinate Tolerance",
-		"uniques": ["[+1 Science, +1 Culture] [in cities not following a [your] religion]","[+20]% Production when constructing [Library] buildings [in all cities]","[+20]% Production when constructing [University] buildings [in all cities]"],
+		"uniques": ["[+1 Science, +1 Culture] <in cities not following a [your] religion>","[+20]% Production when constructing [Library] buildings [in all cities]","[+20]% Production when constructing [University] buildings [in all cities]"],
 		"cities": ["Heidelberg","Düsseldorf","Mannheim","Speyer","Koblenz","Worms","Kaiserslautern","Neuwied","Zweibrücken","Pirmasens","Andernach",
 			"Bad Kreuznach","Landau in der Pfalz","Ingelheim am Rhein","Germersheim"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]

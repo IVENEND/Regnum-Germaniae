@@ -1398,6 +1398,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Redcoat",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "England",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"uniques": ["[+30]% Strength <vs [Mounted] units>","May enter foreign tiles without open borders","[+30]% Strength <vs [City-States]>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Needle Gunner",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
