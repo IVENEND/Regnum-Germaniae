@@ -994,9 +994,9 @@
 	{
 		"name": "Scotland",
 		"style": "Western",
-		"leaderName": "Boudicca",
+		"leaderName": "Robert I Bruce",
 		"adjective": ["Scottish"],
-		"startBias": ["Forest"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		"personality": "Boudicca",
 
@@ -1017,15 +1017,14 @@
         "innerColor": [202,215,218],
 
 		"favoredReligion": "Valentinianism",
-		"uniqueName": "Druidic Lore",
-		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
-			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>"],
-		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
-			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
-			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
-			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"],
-		// Llanfairpwllgwyngyll should actually be Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
-        "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"]
+		"uniqueName": "Last of the Free",
+		"uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [Hill] tiles>",
+			"[+2 Culture] [in all cities] <with [3] to [6] neighboring [Hill] tiles>"],
+		"cities": ["Edinburgh","Glasgow","Stirling","Aberdeen","Dundee","Inverness","Perth","Dunfermline","Kilmarnock",
+			"Dumfries","Lanark","Dumbarton","Falkirk","Arbroath","Linlithgow","Kirkcaldy","Forfar","Saint Andrews","Tain",
+			"Lerwick","Ayr","Wick","Thurso","Stranraer","Portree","Melrose","Berwick",
+			"Oban","Ullapool","Aviemore"],
+        "spyNames": ["Robert", "William", "Angus", "Ewan", "Ian", "Wallace", "Fiona", "Ilsa", "Nessie"]
     },
 	{
 		"name": "Ethiopia",
