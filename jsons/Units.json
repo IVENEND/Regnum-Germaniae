@@ -894,6 +894,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Rodeleros",
+		"unitType": "Shield Bearer",
+		"replaces": "Rondartschier",
+		"uniqueTo": "Spain",
+		"movement": 3,
+		"strength": 21,
+		"cost": 130,
+		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","[+15]% Strength bonus for [Mixed Gunpowder] units within [1] tiles <when defending>"],
+		"requiredTech": "Heavy Edged Weapons",
+		"upgradesTo": "Line Infantry",
+		"obsoleteTech": "Flintlock",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Two-handed Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
