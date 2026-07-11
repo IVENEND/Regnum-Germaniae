@@ -490,6 +490,23 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Berserker",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Denmark",
+		"movement": 3,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+		//Danish unique unit. Can attack from the sea without any penalty, and moves faster.
+	},
+	{
 		"name": "Legion",
 		"unitType": "Sword",
 		"uniqueTo": "Rome",
@@ -831,23 +848,6 @@
 		"promotions": ["Shock I", "Great Generals II"],
 		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Berserker",
-		"unitType": "Sword",
-		"replaces": "Longswordsman",
-		"uniqueTo": "Denmark",
-		"movement": 3,
-		"strength": 21,
-		"cost": 120,
-		"requiredTech": "Metal Casting",
-		"upgradesTo": "Two-handed Swordsman",
-		"obsoleteTech": "Heavy Edged Weapons",
-		"requiredResource": "Iron",
-		"promotions": ["Amphibious"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-		//Danish unique unit. Can attack from the sea without any penalty, and moves faster.
 	},
 
 	// Rennaisance Era
