@@ -1224,7 +1224,7 @@
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-		"outerColor": [40, 40, 40],
+		"outerColor": [50, 50, 50],
 		"innerColor": [214, 167, 83],
 		"favoredReligion": "Calvinism",
 		"uniqueName": "Palatinate Tolerance",
