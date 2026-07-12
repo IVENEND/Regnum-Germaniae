@@ -2853,6 +2853,13 @@ TileSets/HexaRealm/Units/Pikeman
   orig: 64, 68
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Pikeman-Teutonic Order
+  rotate: false
+  xy: 1228, 516
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Pikeman-1
   rotate: false
   xy: 1300, 516
@@ -2860,7 +2867,21 @@ TileSets/HexaRealm/Units/Pikeman-1
   orig: 64, 68
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Pikeman-Teutonic Order-2
+  rotate: false
+  xy: 1300, 516
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Pikeman-2
+  rotate: false
+  xy: 724, 516
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pikeman-Teutonic Order-1
   rotate: false
   xy: 724, 516
   size: 64, 68
