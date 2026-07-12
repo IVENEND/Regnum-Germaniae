@@ -1167,7 +1167,7 @@
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-        "outerColor": [1,90,141],
+        "outerColor": [64,105,135],
         "innerColor": [30,30,30],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "An Army with a State",
