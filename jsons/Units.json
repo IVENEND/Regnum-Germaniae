@@ -1213,6 +1213,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Grenadiergarde",
+		"unitType": "Grenadier Gunpowder",
+		"replaces": "Grenadier",
+		"uniqueTo": "Prussia",
+		"movement": 2,
+		"strength": 32,
+		"cost": 210,
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>","Gain [2] [Culture] <upon ending a turn in a [City center] tile>","[+2] Strength <when adjacent to a [Great General] unit>"],
+		"requiredTech": "Flintlock",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Old Guard",
 		"unitType": "Grenadier Gunpowder",
 		"replaces": "Grenadier",
