@@ -1213,12 +1213,27 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Hessian Grenadier",
+		"unitType": "Grenadier Gunpowder",
+		"replaces": "Grenadier",
+		"uniqueTo": "Hesse",
+		"movement": 2,
+		"strength": 32,
+		"cost": 200,
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+20]% Strength <on foreign continents>"],
+		"requiredTech": "Flintlock",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Grenadiergarde",
 		"unitType": "Grenadier Gunpowder",
 		"replaces": "Grenadier",
 		"uniqueTo": "Prussia",
 		"movement": 2,
-		"strength": 32,
+		"strength": 31,
 		"cost": 210,
 		"uniques": ["[+30]% Strength <vs cities> <when attacking>","Gain [2] [Culture] <upon ending a turn in a [City center] tile>","[+2] Strength <when adjacent to a [Great General] unit>"],
 		"requiredTech": "Flintlock",
