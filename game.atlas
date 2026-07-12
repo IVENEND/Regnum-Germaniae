@@ -3532,6 +3532,13 @@ TileSets/HexaRealm/Units/Two-handed Swordsman
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-GermanLightIcon
+  rotate: false
+  xy: 508, 172
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands
   rotate: false
   xy: 508, 172
@@ -3540,6 +3547,13 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-1
+  rotate: false
+  xy: 580, 179
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Two-handed Swordsman-GermanLightIcon-2
   rotate: false
   xy: 580, 179
   size: 64, 60
@@ -3560,14 +3574,14 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-2
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Bavaria-2
+TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia-2
   rotate: false
   xy: 652, 243
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia-2
+TileSets/HexaRealm/Units/Two-handed Swordsman-GermanLightIcon-1
   rotate: false
   xy: 652, 243
   size: 64, 60
@@ -3595,177 +3609,163 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-Western-2
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Bavaria
+TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia
   rotate: false
   xy: 724, 244
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Bavaria-1
-  rotate: false
-  xy: 436, 89
-  size: 64, 60
-  orig: 64, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia
-  rotate: false
-  xy: 508, 104
-  size: 64, 60
-  orig: 64, 60
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Western
   rotate: false
-  xy: 508, 104
+  xy: 724, 244
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia-1
   rotate: false
-  xy: 580, 111
+  xy: 436, 89
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Western-1
   rotate: false
-  xy: 580, 111
+  xy: 436, 89
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Mediterranean
   rotate: false
-  xy: 652, 175
+  xy: 508, 104
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Mediterranean-1
   rotate: false
-  xy: 724, 176
+  xy: 580, 111
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Wagenburg
   rotate: false
-  xy: 796, 203
+  xy: 652, 177
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Chariot
   rotate: false
-  xy: 868, 198
+  xy: 436, 21
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/War Elephant
   rotate: false
-  xy: 940, 189
+  xy: 508, 34
   size: 64, 62
   orig: 64, 62
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior
   rotate: false
-  xy: 1012, 183
+  xy: 724, 180
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-2
   rotate: false
-  xy: 436, 25
+  xy: 796, 205
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats
   rotate: false
-  xy: 508, 40
+  xy: 868, 202
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Modern era
   rotate: false
-  xy: 580, 47
+  xy: 940, 195
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker
   rotate: false
-  xy: 1084, 135
+  xy: 1012, 183
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Barbarians
   rotate: false
-  xy: 1156, 127
+  xy: 580, 47
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Barbarians-Classical era
   rotate: false
-  xy: 1156, 127
+  xy: 580, 47
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era
   rotate: false
-  xy: 1228, 124
+  xy: 1084, 135
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-1
   rotate: false
-  xy: 1300, 110
+  xy: 1156, 127
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-2
   rotate: false
-  xy: 1372, 77
+  xy: 1228, 124
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era
   rotate: false
-  xy: 1444, 21
+  xy: 1300, 110
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era-2
   rotate: false
-  xy: 1516, 4
+  xy: 1372, 77
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era
   rotate: false
-  xy: 724, 112
+  xy: 1444, 21
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era-2
   rotate: false
-  xy: 652, 110
+  xy: 1516, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
