@@ -1436,6 +1436,34 @@
 			"Ass","Borkholm","Taplaken","Wolmar","Kokenhusen","Reval","Riga","Lennewarden"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+	{
+		"name": "Lorraine",
+		"leaderName": "René II",
+		"adjective": ["Lorraine"],
+        "startBias": ["Forest","Avoid [Coast]"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Otto von Bismarck",
+
+        "startIntroPart1": "placeholder.",
+        "startIntroPart2": "placeholder",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [255, 236, 56],
+		"innerColor": [196, 0, 26],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "placeholder",
+		"uniques": ["[+1 Science, +1 Culture] <in cities not following a [your] religion>","[+20]% Production when constructing [Library] buildings [in all cities]","[+20]% Production when constructing [University] buildings [in all cities]"],
+		"cities": ["Nancy","Metz","Lunéville","Bar-le-Duc","Thionville","Épinal","Verdun","Forbach","Sarreguemines","Saint-Dié","Hayange",
+			"Toul","Neufchâteau","Saint-Avold","Fameck","Longwy","Pont-à-Mousson","Sarrebourg","Florange","Villerupt","Golbey","Briey","Gérardmer","Remiremont","Commercy","Rambervillers","Saint-Mihiel","Sierck","Bitche"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
 
 
 	// City-States sorted by cityStateType, name
@@ -1923,9 +1951,9 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Metz",
+		"name": "Strasbourg",
 		"style": "Western",
-		"adjective": ["Metz"],
+		"adjective": ["Strasbourg"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1933,7 +1961,7 @@
 		"defeated": "What a fine battle! Sidon is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
-		"cities": ["Metz"]
+		"cities": ["Strasbourg"]
 	},
 	{
 		"name": "Bruges",

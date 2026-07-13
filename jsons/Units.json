@@ -617,7 +617,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+30]% Strength <vs [Mounted] units>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -750,7 +750,7 @@
 		"name": "Reisige Armbrustschützen",
 		"unitType": "Light Mounted",
 		"replaces": "Crossbowman",
-		"uniqueTo": "Palatinate",
+		"uniqueTo": "Lorraine",
 		"movement": 4,
 		"strength": 13,
 		"rangedStrength": 18,
@@ -843,6 +843,21 @@
 		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Rheinischer Ritter",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Palatinate",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Two-handed Swordsman",
+		"obsoleteTech": "Heavy Edged Weapons",
+		"requiredResource": "Iron",
+		"uniques": ["[+30]% Strength <vs [{Medieval era}{Sword}] units>","[+30]% Strength <vs [{Medieval era}{Mounted}] units>"],
 		"attackSound": "metalhit"
 	},
 	{
