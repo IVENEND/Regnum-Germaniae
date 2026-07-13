@@ -606,6 +606,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Free Imperial Knight",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Franconia",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Ritterbruder",
 		"unitType": "Mounted",
 		"replaces": "Knight",
