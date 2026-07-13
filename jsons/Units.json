@@ -733,7 +733,7 @@
 	},
 	{
 		"name": "Reisige Armbrustschützen",
-		"unitType": "Mounted",
+		"unitType": "Light Mounted",
 		"replaces": "Crossbowman",
 		"uniqueTo": "Palatinate",
 		"movement": 4,
@@ -742,8 +742,8 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"requiredResource": "Horses",
-		"upgradesTo": "Petronel",
-		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Hussar",
+		"obsoleteTech": "Combined Arms",
 		"attackSound": "crossbow"
 	},
 	{
