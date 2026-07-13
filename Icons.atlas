@@ -83,21 +83,21 @@ BuildingIcons/Perpetual Imperial Diet
   index: -1
 BuildingIcons/Salon
   rotate: false
-  xy: 652, 46
+  xy: 760, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1084, 370
+  xy: 1192, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Weigh House
   rotate: false
-  xy: 1300, 478
+  xy: 1408, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -216,26 +216,19 @@ NationIcons/Prussia
   index: -1
 NationIcons/Saxony
   rotate: false
-  xy: 760, 154
+  xy: 868, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Scotland
   rotate: false
-  xy: 976, 370
+  xy: 1084, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Spain
-  rotate: false
-  xy: 1192, 586
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Swabia
   rotate: false
   xy: 1300, 694
   size: 100, 100
@@ -248,31 +241,38 @@ NationIcons/Swabia
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: 2
-NationIcons/Sweden
+  index: -1
+NationIcons/Swabia
   rotate: false
   xy: 868, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-NationIcons/Switzerland
+  index: 2
+NationIcons/Sweden
   rotate: false
   xy: 976, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Switzerland
+  rotate: false
+  xy: 1084, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Teutonic Order
   rotate: false
-  xy: 1192, 478
+  xy: 1300, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Netherlands
   rotate: false
-  xy: 1300, 586
+  xy: 1408, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -391,14 +391,14 @@ ReligionIcons/Quakerism
   index: -1
 ReligionIcons/Unitarianism
   rotate: false
-  xy: 868, 46
+  xy: 976, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Valentinianism
   rotate: false
-  xy: 976, 154
+  xy: 1084, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -496,21 +496,21 @@ TechIcons/Pike and Shot Tactic
   index: -1
 TechIcons/Romanticism
   rotate: false
-  xy: 1084, 586
+  xy: 1192, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Sovereignty
   rotate: false
-  xy: 1084, 478
+  xy: 1192, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Warships
   rotate: false
-  xy: 1192, 370
+  xy: 1300, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -760,44 +760,51 @@ UnitIcons/Redcoat
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Reisläufer
+UnitIcons/Reisige Armbrustschützen
   rotate: false
   xy: 652, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Reiter
+UnitIcons/Reisläufer
   rotate: false
   xy: 760, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ritterbruder
+UnitIcons/Reiter
   rotate: false
   xy: 868, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rodeleros
+UnitIcons/Ritterbruder
   rotate: false
   xy: 976, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Rodeleros
+  rotate: false
+  xy: 1084, 586
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Rondartschier
   rotate: false
-  xy: 1192, 694
+  xy: 652, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schwarze Reiter
   rotate: false
-  xy: 868, 262
+  xy: 976, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -811,21 +818,21 @@ UnitIcons/Skirmisher
   index: -1
 UnitIcons/Two-handed Swordsman
   rotate: false
-  xy: 1408, 694
+  xy: 868, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wagenburg
   rotate: false
-  xy: 1084, 262
+  xy: 1192, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Generals
   rotate: false
-  xy: 1408, 636
+  xy: 1516, 744
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

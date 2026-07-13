@@ -732,6 +732,21 @@
 		"attackSound": "crossbow"
 	},
 	{
+		"name": "Reisige Armbrustschützen",
+		"unitType": "Mounted",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Palatinate",
+		"movement": 4,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"requiredResource": "Horses",
+		"upgradesTo": "Petronel",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "crossbow"
+	},
+	{
 		"name": "Chu-Ko-Nu",
 		"unitType": "Archery",
 		"uniqueTo": "China",
