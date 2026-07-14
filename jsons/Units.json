@@ -747,21 +747,6 @@
 		"attackSound": "crossbow"
 	},
 	{
-		"name": "Reisige Armbrustschützen",
-		"unitType": "Light Mounted",
-		"replaces": "Crossbowman",
-		"uniqueTo": "Lorraine",
-		"movement": 4,
-		"strength": 13,
-		"rangedStrength": 18,
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"requiredResource": "Horses",
-		"upgradesTo": "Hussar",
-		"obsoleteTech": "Combined Arms",
-		"attackSound": "crossbow"
-	},
-	{
 		"name": "Chu-Ko-Nu",
 		"unitType": "Archery",
 		"uniqueTo": "China",
@@ -1148,6 +1133,23 @@
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Hussar",
 		"attackSound": "horse"
+	},
+	{
+		"name": "Reisige Armbrustschützen",
+		"unitType": "Light Mounted",
+		"replaces": "Petronel",
+		"uniqueTo": "Lorraine",
+		"movement": 4,
+		"range": 2,
+		"strength": 15,
+		"rangedStrength": 19,
+		"cost": 140,
+		"requiredTech": "Physics",
+		"requiredResource": "Horses",
+		"upgradesTo": "Hussar",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "crossbow"
 	},
 	{
 		"name": "Huszár",
