@@ -1951,17 +1951,17 @@
 		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
 	},
 	{
-		"name": "Strasbourg",
+		"name": "Bratislava",
 		"style": "Western",
-		"adjective": ["Strasbourg"],
+		"adjective": ["Bratislavan"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "What a fine battle! Sidon is willing to serve you!",
+		"declaringWar": "I didn't want to do this. We declare war.",
+		"attacked": "I will fear no evil. For god is with me!",
+		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [186, 18, 202],
-		"cities": ["Strasbourg"]
+		"innerColor": [255, 255, 255],
+		"cities": ["Bratislava"]
 	},
 	{
 		"name": "Bruges",
@@ -1976,19 +1976,17 @@
 		"innerColor": [222, 237, 59],
 		"cities": ["Bruges"]
 	},
-
 	{
-		"name": "Bratislava",
-		"style": "Western",
-		"adjective": ["Bratislavan"],
+		"name": "Strasbourg",
+		"adjective": ["Strasbourg"],
 		"cityStateType": "Religious",
 
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "I will fear no evil. For god is with me!",
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 255],
-		"cities": ["Bratislava"]
+		"innerColor": [186, 18, 202],
+		"cities": ["Strasbourg"]
 	},
 	{
 		"name": "Mainz",
