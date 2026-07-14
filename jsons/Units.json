@@ -857,7 +857,7 @@
 		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
-		"uniques": ["[+30]% Strength <vs [{Medieval era} {Sword}] units>","[+30]% Strength <vs [{Medieval era} {Mounted}] units>"],
+		"uniques": ["[+30]% Strength <vs [{Medieval era} {Sword}] units>","[+15]% Strength <vs [{Medieval era} {Mounted}] units>"],
 		"attackSound": "metalhit"
 	},
 	{
