@@ -621,6 +621,7 @@
 		"cityHealth": 25,
 		"culture": 1,
 		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
@@ -1021,6 +1022,21 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Assembly Plant",
+        "replaces": "Factory",
+		"uniqueTo": "America",
+		"cost": 360,
+		"production": 4,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredResource": "Coal",
+		"uniques": ["[+15]% Production when constructing [Siege] units [in this city] <when at war>", "[+15]% Production when constructing [Armor] units [in this city] <when at war>", "[+15]% Production when constructing [Air] units [in this city] <when at war>"],
 		"requiredTech": "Industrialization"
 	},
 	{
