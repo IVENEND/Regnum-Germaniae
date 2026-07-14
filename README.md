@@ -75,4 +75,4 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Pouakai, author of Civ 5 mod "Enlightenment Era", for the design of Enlightenment Era techs and units.
 * FeldMarschalBlinzurg, Austria icon
 * Шаловливая Матушка, Wagenburh, Flailman sprite
-* Mia Elysia, Phạm Thanh Lộc, Muhammad Atiq, Vectors Market, Lewen Design, Cuan Studio, Izwar Muis, Singlar, Maxicons, Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine, Tetiana Mykhailyk, Adinda: icons
+* Andy Horvath, Mia Elysia, Phạm Thanh Lộc, Muhammad Atiq, Vectors Market, Lewen Design, Cuan Studio, Izwar Muis, Singlar, Maxicons, Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine, Tetiana Mykhailyk, Adinda: icons
