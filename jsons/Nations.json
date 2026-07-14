@@ -1256,7 +1256,7 @@
 		"innerColor": [255, 0, 0],
 		"favoredReligion": "Calvinism",
 		"uniqueName": "Hessian Mercenary",
-		"uniques": ["[Gold] cost of purchasing [{Land} {Military}] units [-33]%"],
+		"uniques": ["[Gold] cost of purchasing [{Land} {Military}] units [-40]%"],
 		"cities": ["Kassel","Darmstadt","Wiesbaden","Marburg","Offenbach am Main","Hanau","Giessen","Fulda","Wetzlar","Rodgau","Dreieich",
 			"Bensheim","Maintal","Langen","Limburg an der Lahn"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
@@ -1371,7 +1371,7 @@
 		"innerColor": [50, 113, 153],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "Schützenfest",
-		"uniques": ["[-50]% maintenance costs <for [Gunpowder] units> <before the [Modern era]>", "[-50]% maintenance costs <for [Ranged Gunpowder] units> <before the [Modern era]>"],
+		"uniques": ["[-66]% maintenance costs <for [Gunpowder] units> <before the [Modern era]>", "[-66]% maintenance costs <for [Ranged Gunpowder] units> <before the [Modern era]>", "[+20]% Strength <for [Ranged Gunpowder] units> <before the [Modern era]> <during a Golden Age>", "[+20]% Strength <for [Gunpowder] units> <before the [Modern era]> <during a Golden Age>"],
 		"cities": ["Braunschweig","Wolfenbüttel","Helmstedt","Blankenburg am Harz","Holzminden","Schöningen","Seesen","Harzburg","Oker","Stadtoldendorf","Langelsheim","Schöppenstedt",
 			"Königslutter","Bündheim","Braunlage","Gandersheim","Hasselfelde"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
