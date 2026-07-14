@@ -1458,8 +1458,8 @@
 		"outerColor": [245, 230, 55],
 		"innerColor": [177, 8, 3],
 		"favoredReligion": "Catholicism",
-		"uniqueName": "placeholder",
-		"uniques": ["[+1 Science, +1 Culture] <in cities not following a [your] religion>","[+20]% Production when constructing [Library] buildings [in all cities]","[+20]% Production when constructing [University] buildings [in all cities]"],
+		"uniqueName": "Legacy of Lotharingia",
+		"uniques": ["[-20]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Nancy","Metz","Lunéville","Bar-le-Duc","Thionville","Épinal","Verdun","Forbach","Sarreguemines","Saint-Dié","Hayange",
 			"Toul","Neufchâteau","Saint-Avold","Fameck","Longwy","Pont-à-Mousson","Sarrebourg","Florange","Villerupt","Golbey","Briey","Gérardmer","Remiremont","Commercy","Rambervillers","Saint-Mihiel","Sierck","Bitche"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]

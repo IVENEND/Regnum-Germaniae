@@ -614,6 +614,19 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Kaiserpfalz",
+		"replaces": "Castle",
+		"uniqueTo": "Palatinate",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Mughal Fort",
 		"cost": 150,
 		"replaces": "Castle",
