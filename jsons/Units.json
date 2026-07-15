@@ -831,7 +831,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Rheinischer Ritter",
+		"name": "Rhenish Foot Knight",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Palatinate",
@@ -1402,7 +1402,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Bayreuth Cuirassier",
+		"name": "Reichsarmee Cuirassier",
 		"unitType": "Mounted",
 		"replaces": "Cuirassier",
 		"uniqueTo": "Franconia",
