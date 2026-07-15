@@ -1313,7 +1313,7 @@
 		"innerColor": [191, 187, 152],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "Jewel of Europe",
-		"uniques": ["Free [Great Artist] appears <upon constructing [Wonder]>","Imperial Estate of the Holy Roman Empire"],
+		"uniques": ["Free [Great Artist] appears <upon constructing [National Wonder]>","[+1 Culture] from every [National Wonder]","Imperial Estate of the Holy Roman Empire"],
 		"cities": ["Dresden","Leipzig","Wittenberg","Plauen","Freiberg","Chemnitz","Meissen","Zwickau","Naumburg","Torgau","Zittau",
 			"Querfurt","Wurzen","Colditz","Bischofswerda","Bautzen","Grossenhain","Merseburg","Weissenfels","Waldheim","Borna","Grimma","Guben","Gorlitz","Gotha","Coburg","Weimar","Jena","Altenburg","Hildburghausen","Hubertusburg","Riesa","Kamenz","Altrandstadt","Mittweida","Frankenberg","Dobeln","Oschatz","Rossbach"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
