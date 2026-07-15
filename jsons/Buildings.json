@@ -1336,7 +1336,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"requiredTech": "Chivalry",
-		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion"],
+		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion", "Only available <for [Imperial Estate of the Holy Roman Empire] Civilizations>"],
 		"quote": "'Placeholder.' - Placeholder"
 	},
 
