@@ -3133,21 +3133,21 @@ TileSets/HexaRealm/Units/Reisläufer-Renaissance era
   orig: 64, 68
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rheinischer Ritter-1
+TileSets/HexaRealm/Units/Rhenish Foot Knight
   rotate: false
   xy: 1804, 251
   size: 64, 68
   orig: 64, 68
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rheinischer Ritter-2
+TileSets/HexaRealm/Units/Rhenish Foot Knight-1
   rotate: false
   xy: 1732, 195
   size: 64, 68
   orig: 64, 68
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rhenish Foot Knight
+TileSets/HexaRealm/Units/Rhenish Foot Knight-2
   rotate: false
   xy: 1804, 175
   size: 64, 68
