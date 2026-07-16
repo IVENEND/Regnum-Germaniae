@@ -1331,5 +1331,41 @@
       "Autocracy": 7,
       "Order": 7
     }
+  },
+  {
+    "name": "Vaclav II",
+    "production": 6,
+    "food": 7,
+    "gold": 6,
+    "science": 4,
+    "culture": 7,
+    "happiness": 7,
+    "faith": 8,
+    "military": 6,
+    "aggressive": 2,
+    "declareWar": 3,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 7,
+    "expansion": 4,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 6,
+      "Patronage": 4,
+      "Piety": 7,
+      "Rationalism": 4,
+      "Freedom": 8,
+      "Autocracy": 4,
+      "Order": 8
+    },
+	"uniques": [
+	  "[+100]% weight to [Anti Cavalry] for AI decisions",
+	  "[+100]% weight to [Gunpowder] for AI decisions",
+	  "[-100]% weight to [Sword] for AI decisions",
+	  "[-100]% weight to [Shield Bearer] for AI decisions"
+	]
   }
 ]
