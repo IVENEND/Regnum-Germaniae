@@ -963,6 +963,28 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Fasil Ghebbi",
+		"cost": 850,
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"isWonder": true,
+		"cityHealth": 50,
+		"uniques": ["[+50]% Strength <for [All] units> <in this city>"],
+		"requiredTech": "Fortification",
+		"quote": "'When spiders unite, they can bring down a lion.' - Ethiopian Proverb"
+	},
+	{
+		"name": "Kronborg",
+		"cost": 750,
+		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"cityHealth": 50,
+		"uniques": ["[+50]% Production when constructing [Water] units [in this city]","Must be next to [Coast]"],
+		"requiredTech": "Warships",
+		"quote": "'Where there is no discipline, there is no honour.' - Norse Saying"
+	},
+	{
 		"name": "Cloth Mill",
 		"cost": 280,
 		"maintenance": 2,
@@ -1015,6 +1037,16 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Natural History",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Smithsonian Institute",
+		"culture": 1,
+		"science": 3,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"isWonder": true,
+		"uniques": ["Instantly gain [150] [Science] <upon expending a [Great Person] unit>","Gain a free [Academy] [in this city]"],
+		"requiredTech": "Natural History",
+		"quote": "'The best prophet of the future is the past.' - Lord George Gordon Byron"
 	},
 	{
 		"name": "The Louvre",
