@@ -1400,7 +1400,7 @@
 		"innerColor": [206, 41, 57],
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Hussar Tradition",
-		"uniques": ["New [Light Mounted] units start with [15] XP [in all cities]","[+25]% Strength <vs [Anti Cavalry] units> <for [Light Mounted] units>","[+25]% Strength <vs [Mixed Gunpowder] units> <for [Light Mounted] units>","[+200]% [Horses] resource production"],
+		"uniques": ["New [Light Mounted] units start with [15] XP [in all cities]","[+25]% Strength <vs [Anti Cavalry] units> <for [Light Mounted] units>","[+25]% Strength <vs [Mixed Gunpowder] units> <for [Light Mounted] units>","[+200]% [Horses] resource production","Cannot build [Two-handed Swordsman] units","Cannot build [Rondartschier] units"],
 		"cities": ["Buda","Debrecen","Esztergom","Pécs","Szeged","Pest","Eger","Miskolc","Győr","Székesfehérvár",
 			"Óbuda","Kőszeg","Tatabánya","Diósgyőr","Mohács","Tata","Szolnok","Kassa","Kecskemét",
 			"Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Temesvár","Nagyvázsony","Hódmezővásárhely","Sümeg","Baja"],
