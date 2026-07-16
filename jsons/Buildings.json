@@ -899,6 +899,17 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"]
 	},
 	{
+		"name": "Topkapi Palace",
+		"cost": 625,
+		"culture": 1,
+		"happiness": 3,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"uniques": ["[+1 Faith] from all [Barracks] buildings","[+1 Faith] from all [Stable] buildings","[+1 Faith] from all [Armory] buildings","[+1 Faith] from all [Military Academy] buildings"],
+		"requiredTech": "Sovereignty",
+		"quote": "'The city and the buildings are mine; but I resign to your valor the captives and the spoil, the treasures of gold and beauty; be rich and be happy' - Mehmet II"
+	},
+	{
 		"name": "Gunsmith",
 		"cost": 230,
 		"hurryCostModifier": 10,
