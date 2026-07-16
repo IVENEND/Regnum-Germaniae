@@ -971,6 +971,17 @@
 		"maintenance": 1,
 		"requiredTech": "Humanism"
 		"uniques": ["Only available <in cities without a [Salon]>"]
+	},
+	{
+		"name": "Reichsstädtekollegium",
+		"cost": 750,
+		"culture": 1,
+		"faith": 3,
+		"happiness": 2,
+		"isWonder": true,
+		"uniques": ["Resting point for Influence with City-States is increased by [15]"],
+		"requiredTech": "Humanism",
+		"quote": "'placeholder' - placeholder"
 	},	
 	{
 		"name": "Bastion",
@@ -1059,7 +1070,7 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Smithsonian Institute",
+		"name": "Humboldt-Universität",
 		"culture": 1,
 		"science": 3,
 		"greatPersonPoints": {"Great Scientist": 2},
