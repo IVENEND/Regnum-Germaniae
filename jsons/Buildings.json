@@ -981,7 +981,6 @@
 		"isWonder": true,
 		"uniques": ["Resting point for Influence with City-States is increased by [15]"],
 		"requiredTech": "Humanism",
-		"quote": "'placeholder' - placeholder"
 	},	
 	{
 		"name": "Bastion",
@@ -1077,7 +1076,7 @@
 		"isWonder": true,
 		"uniques": ["Instantly gain [150] [Science] <upon expending a [Great Person] unit>","Gain a free [Academy] [in this city]"],
 		"requiredTech": "Natural History",
-		"quote": "'The best prophet of the future is the past.' - Lord George Gordon Byron"
+		"quote": "'Universitas litterarum' - Motto of Humboldt University of Berlin"
 	},
 	{
 		"name": "The Louvre",
