@@ -151,9 +151,16 @@ BuildingIcons/Topkapi Palace
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Torre Del Oro
+  rotate: false
+  xy: 1408, 478
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Weigh House
   rotate: false
-  xy: 1300, 262
+  xy: 1408, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -461,14 +468,14 @@ ReligionIcons/Quakerism
   index: -1
 ReligionIcons/Unitarianism
   rotate: false
-  xy: 1516, 586
+  xy: 1624, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Valentinianism
   rotate: false
-  xy: 1624, 694
+  xy: 1084, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -580,7 +587,7 @@ TechIcons/Sovereignty
   index: -1
 TechIcons/Warships
   rotate: false
-  xy: 1192, 154
+  xy: 1300, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -895,21 +902,21 @@ UnitIcons/Skirmisher
   index: -1
 UnitIcons/Two-handed Swordsman
   rotate: false
-  xy: 1408, 478
+  xy: 1516, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wagenburg
   rotate: false
-  xy: 1084, 46
+  xy: 1192, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Generals
   rotate: false
-  xy: 1408, 420
+  xy: 1516, 528
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

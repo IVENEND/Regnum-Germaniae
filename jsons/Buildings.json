@@ -935,6 +935,15 @@
 		"requiredTech": "Imperialism"
 	},
 	{
+		"name": "Torre Del Oro",
+		"cost": 750,
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["[+1 Gold] from each Trade Route","Must be next to [Coast]"],
+		"requiredTech": "Imperialism",
+		"quote": "'Gold is a treasure, and he who possesses it does all he wishes to in this world, and succeeds in helping souls into paradise' - Christopher Columbus"
+	},
+	{
 		"name": "Salon",
 		"culture": 2,
 		"percentStatBonus": {"culture": 25},
