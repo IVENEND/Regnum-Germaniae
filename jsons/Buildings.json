@@ -980,6 +980,16 @@
 
 	// Column 9
 	{
+		"name": "Crystal Palace",
+		"cost": 950,
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+5]% Great Person generation [in this city] <for every [1] [[Great Person] Units]>"],
+		"requiredTech": "Romanticism",
+		"quote": "'The sun shone and gleamed upon the gigantic edifice, upon which the flags of every nation were flying...' - Queen Victoria"
+	},
+    {
 		"name": "Menagerie",
 		"cost": 300,
 		"maintenance": 1,
