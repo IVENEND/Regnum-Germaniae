@@ -174,7 +174,7 @@ BuildingIcons/Torre Del Oro
   index: -1
 BuildingIcons/Weigh House
   rotate: false
-  xy: 1300, 154
+  xy: 1408, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -615,7 +615,7 @@ TechIcons/Sovereignty
   index: -1
 TechIcons/Warships
   rotate: false
-  xy: 1192, 46
+  xy: 1300, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -942,16 +942,23 @@ UnitIcons/Two-handed Swordsman
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Wagenburg
+UnitIcons/Victual Brother
   rotate: false
   xy: 1732, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Wagenburg
+  rotate: false
+  xy: 1192, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Great Generals
   rotate: false
-  xy: 1408, 312
+  xy: 1516, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

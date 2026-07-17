@@ -846,6 +846,22 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Victual Brother",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Pomerania",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Two-handed Swordsman",
+		"obsoleteTech": "Heavy Edged Weapons",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious","[Victual Brother] ability"],
+		"uniques": ["May attack when embarked"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Rhenish Foot Knight",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
