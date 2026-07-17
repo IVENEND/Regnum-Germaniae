@@ -842,7 +842,7 @@
 		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
-		"uniques": ["[+15]% Strength <when stacked with a [Religious Unit] unit>"],
+		"promotions": ["[Schwertbruder] ability"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -858,7 +858,6 @@
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious","[Victual Brother] ability"],
-		"uniques": ["May attack when embarked"],
 		"attackSound": "metalhit"
 	},
 	{

@@ -746,8 +746,12 @@
 		"uniques": ["[+50]% to Flank Attack bonuses"]
 	},
 	{
+		"name": "[Schwertbruder] ability",
+		"uniques": ["[+15]% Strength <when stacked with a [Religious Unit] unit>"]
+	},
+	{
 		"name": "[Victual Brother] ability",
-		"uniques": ["[+100]% Strength <when [Embarked]>","[-10]% Strength <when [non-[Embarked]]>"]
+		"uniques": ["May attack when embarked","May enter foreign tiles without open borders <in [Water] tiles>","[+100]% Strength <when [Embarked]>","[-10]% Strength <when [non-[Embarked]]>"]
 	},
 	{
 		"name": "[Norwegian Ski Infantry] ability",
