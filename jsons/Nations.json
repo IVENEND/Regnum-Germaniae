@@ -1470,7 +1470,7 @@
 		"adjective": ["Livonian"],
 		"startBias":["Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Napoleon",
+		"personality": "Isabella",
 
         "startIntroPart1": "Albert of Buxhoeveden, God's blessing is with you and your ambitions. As the Livonian Chronicles are telling it to this day, you were the noble founder of Riga, once you called for a perpetual crusade against the heathens at the baltic shores to avenge your fallen brother in faith, who was Bishop before. But it was you o' brave Albert, who rose to Arch Bishop and even Prince-Bishop in the Reich with your glory that was in the conquest of the Land of Mary, founding Riga and securing it with the Order of the Sword Brethren.",
         "startIntroPart2": "Ambitious Albert of Riga the heathens are on the rise again, the fertile lands, tranquil waters and dark forrests are waiting for your Excellency. Can you build a civilization that can stand the test of time?",
@@ -1488,7 +1488,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Mariana",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"Free [Settler] appears <upon gaining a [Great Prophet] unit>"],
+			"Free [Settler] appears <upon gaining a [Great Prophet] unit>","Free [Missionary] appears <upon constructing [Bischofsburg] [in all cities]>"],
 		"cities": ["Riga","Reval","Narva","Fellin","Wolmar","Leal","Arensburg","Windau","Pilten","Dorpat",
 			"Kokenhusen","Treiden","Walk","Pernal","Hapsal","Bremen","Ascheraden","Dünaburg","Bauske","Segewold"],
         "spyNames": ["Johann", "Freytag", "Stockfish", "Wolter", "Albrecht", "Marie", "Anna", "Edeltraut", "Maximilian V", "Luise"]

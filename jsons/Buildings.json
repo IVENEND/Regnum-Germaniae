@@ -627,6 +627,17 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Bischofsburg",
+		"replaces": "Castle",
+		"uniqueTo": "Livonia",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Theology",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Kaiserpfalz",
 		"replaces": "Castle",
 		"uniqueTo": "Palatinate",
