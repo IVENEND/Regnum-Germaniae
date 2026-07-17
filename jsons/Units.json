@@ -842,7 +842,7 @@
 		"upgradesTo": "Two-handed Swordsman",
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
-		"uniques": ["[+15]% Strength <when stacked with a [Great Prophet] unit>","[+15]% Strength <when stacked with a [Inquisitor] unit>","[+15]% Strength <when stacked with a [Missionary] unit>"],
+		"uniques": ["[+15]% Strength <when stacked with a [Religious Unit] unit>"],
 		"attackSound": "metalhit"
 	},
 	{

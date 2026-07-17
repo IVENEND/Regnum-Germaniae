@@ -1493,6 +1493,38 @@
 			"Kokenhusen","Treiden","Walk","Pernal","Hapsal","Bremen","Ascheraden","Dünaburg","Bauske","Segewold"],
         "spyNames": ["Johann", "Freytag", "Stockfish", "Wolter", "Albrecht", "Marie", "Anna", "Edeltraut", "Maximilian V", "Luise"]
     },
+	{
+		"name": "Pomerania",
+		"leaderName": "Bogislaw X",
+		"adjective": ["Pomeranian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Harald Bluetooth",
+
+        "startIntroPart1": "Hail, great Bogislaw X, noble Duke of Pomerania! Pomerania has a long and fractured past, a crossroads of Germanic and Slavic cultures along the coast of the mighty Baltic Sea. Before you rose to power, the Duchy of Pomerania was fractured for centuries, a number of squabbling rulers torn and tossed between the spheres of Poland, Brandenburg and other powers in northern Europe. But under your wise rulership, Pomerania was united into one territory once more! Thanks to your wise diplomatic hand, your newly unified Duchy was able to assert itself as a state of its own, free of any hegemonic influence. It is of no question that you earned the moniker of Bogislaw the Great!",
+        "startIntroPart2": "Oh wise Duke, Pomerania would not stay united for long after your reign, and even today is fractured and split between the powers that always threatened its independence. But your people rejoice at your return! Will you restore the prestige of the House of Griffins? Will you build a civilization to stand the test of time?",
+
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "I guess this is the end of a united Pomerania...",
+		"denounced": "That boldness is risky, especially if you lack the strength to back it up.",
+		"introduction": "Greetings, wise ruler! I am Bogislaw X, the first to unite the whole of Pomerania in centuries. Some call me 'the Great' - perhaps you will soon be one of them?",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+
+        "outerColor": [56,107,60],
+        "innerColor": [211,182,129],
+
+		"favoredReligion": "Lutheranism",
+		"uniqueName": "Viking Fury",
+		"uniques": ["[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
+			"No movement cost to pillage <for [Melee] units>"],
+		"cities": ["Stettin","Wolgast","Stolp","Stralsund","Greifswald","Neustettin","Demmin","Rugenwalde","Kolberg","Bergen auf Rugen","Schlawe",
+			"Koslin","Swinemunde","Stargard","Politz","Belgard","Gollnow","Greifenhagen","Barth","Naugard",
+			"Greifenberg","Arnswalde","Schivelbein","Neudamm","Falkenburg","Pyritz","Anklam","Bad Schonfliess"],
+        "spyNames": ["Wartislaw", "Barnim", "Casimir", "Swantibor", "Anna", "Edelheid", "Elisabeth", "Mestwin", "Swantibor", "Peter"]
+    },
 
 
 	// City-States sorted by cityStateType, name
