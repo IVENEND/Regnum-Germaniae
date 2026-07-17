@@ -1292,6 +1292,7 @@
     },
 	{
 		"name": "Saxony",
+		"style": "GermanLightIcon",
 		"leaderName": "Frederick Augustus I",
 		"adjective": ["Saxon"],
         "startBias": ["Avoid [Coast]"],
