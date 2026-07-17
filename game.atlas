@@ -3336,142 +3336,149 @@ TileSets/HexaRealm/Units/Schwarze Reiter-2
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Scout
+TileSets/HexaRealm/Units/Schwertbruder
   rotate: false
   xy: 1444, 366
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Scout-2
+TileSets/HexaRealm/Units/Scout
   rotate: false
   xy: 1300, 361
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Sea Beggar
+TileSets/HexaRealm/Units/Scout-2
   rotate: false
   xy: 1372, 304
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler
+TileSets/HexaRealm/Units/Sea Beggar
   rotate: false
   xy: 1444, 302
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-2
+TileSets/HexaRealm/Units/Settler
   rotate: false
   xy: 1516, 297
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Settler-2
+  rotate: false
+  xy: 1588, 287
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Settler-Barbarians
-  rotate: false
-  xy: 1588, 287
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Settler-Barbarians-Classical era
-  rotate: false
-  xy: 1588, 287
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Settler-Classical era
   rotate: false
   xy: 1084, 410
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Classical era-1
+TileSets/HexaRealm/Units/Settler-Barbarians-Classical era
+  rotate: false
+  xy: 1084, 410
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Settler-Classical era
   rotate: false
   xy: 1156, 410
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Classical era-2
+TileSets/HexaRealm/Units/Settler-Classical era-1
   rotate: false
   xy: 1012, 402
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Modern era
+TileSets/HexaRealm/Units/Settler-Classical era-2
   rotate: false
   xy: 940, 376
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Modern era-2
+TileSets/HexaRealm/Units/Settler-Modern era
   rotate: false
   xy: 940, 312
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Renaissance era
+TileSets/HexaRealm/Units/Settler-Modern era-2
   rotate: false
   xy: 1012, 338
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Renaissance era-1
+TileSets/HexaRealm/Units/Settler-Renaissance era
   rotate: false
   xy: 1084, 346
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Settler-Renaissance era-2
+TileSets/HexaRealm/Units/Settler-Renaissance era-1
   rotate: false
   xy: 1156, 346
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ship of the Line
+TileSets/HexaRealm/Units/Settler-Renaissance era-2
   rotate: false
-  xy: 1228, 332
-  size: 64, 64
-  orig: 64, 64
+  xy: 1228, 340
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ship of the Line-2
+TileSets/HexaRealm/Units/Ship of the Line
   rotate: false
   xy: 940, 240
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Ship of the Line-2
+  rotate: false
+  xy: 940, 168
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Sipahi
   rotate: false
-  xy: 940, 165
+  xy: 1156, 271
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Skirmisher
   rotate: false
-  xy: 1156, 282
+  xy: 1228, 276
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Skirmisher-2
   rotate: false
-  xy: 1228, 268
+  xy: 1228, 212
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -3709,21 +3716,21 @@ TileSets/HexaRealm/Units/Turtle Ship
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman
   rotate: false
-  xy: 940, 97
+  xy: 940, 100
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-GermanLightIcon
   rotate: false
-  xy: 940, 97
+  xy: 940, 100
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands
   rotate: false
-  xy: 940, 97
+  xy: 940, 100
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
@@ -3751,42 +3758,42 @@ TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands-1
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-2
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Bohemia-2
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-GermanLightIcon-1
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Mediterranean-2
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-The Netherlands-2
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Two-handed Swordsman-Western-2
   rotate: false
-  xy: 940, 29
+  xy: 940, 32
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
@@ -3912,14 +3919,14 @@ TileSets/HexaRealm/Units/Worker-Classical era
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-1
   rotate: false
-  xy: 1084, 184
+  xy: 1156, 207
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Classical era-2
   rotate: false
-  xy: 1156, 218
+  xy: 1084, 184
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -3933,21 +3940,21 @@ TileSets/HexaRealm/Units/Worker-Modern era
   index: -1
 TileSets/HexaRealm/Units/Worker-Modern era-2
   rotate: false
-  xy: 1084, 56
+  xy: 1156, 143
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era
   rotate: false
-  xy: 1228, 204
+  xy: 1228, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Renaissance era-2
   rotate: false
-  xy: 1228, 140
+  xy: 1084, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

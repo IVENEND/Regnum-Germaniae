@@ -1488,7 +1488,7 @@
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Terra Mariana",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
-			"Free [Settler] appears <upon gaining a [Great Prophet] unit>","Free [Missionary] appears <upon constructing [Bischofsburg] [in all cities]>"],
+			"Free [Settler] appears <upon gaining a [Great Prophet] unit>","Free [Missionary] appears <upon constructing [Bischofsburg]>"],
 		"cities": ["Riga","Reval","Narva","Fellin","Wolmar","Leal","Arensburg","Windau","Pilten","Dorpat",
 			"Kokenhusen","Treiden","Walk","Pernal","Hapsal","Bremen","Ascheraden","Dünaburg","Bauske","Segewold"],
         "spyNames": ["Johann", "Freytag", "Stockfish", "Wolter", "Albrecht", "Marie", "Anna", "Edeltraut", "Maximilian V", "Luise"]
