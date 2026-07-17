@@ -1360,12 +1360,6 @@
       "Freedom": 8,
       "Autocracy": 4,
       "Order": 8
-    },
-	"uniques": [
-	  "[+100]% weight to [Anti Cavalry] for AI decisions",
-	  "[+100]% weight to [Gunpowder] for AI decisions",
-	  "[-100]% weight to [Sword] for AI decisions",
-	  "[-100]% weight to [Shield Bearer] for AI decisions"
-	]
+    }
   }
 ]
