@@ -1514,12 +1514,11 @@
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 
         "outerColor": [56,107,60],
-        "innerColor": [211,182,129],
+        "innerColor": [255,255,255],
 
 		"favoredReligion": "Lutheranism",
-		"uniqueName": "Viking Fury",
-		"uniques": ["[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
-			"No movement cost to pillage <for [Melee] units>"],
+		"uniqueName": "Pirates of the Baltic Sea",
+		"uniques": ["[+20]% Strength <when fighting in [Coast] tiles> <for [Water] units>", "[+1] Movement <in [Coast] tiles> <for [All] units>","Imperial Estate of the Holy Roman Empire"],
 		"cities": ["Stettin","Wolgast","Stolp","Stralsund","Greifswald","Neustettin","Demmin","Rugenwalde","Kolberg","Bergen auf Rugen","Schlawe",
 			"Koslin","Swinemunde","Stargard","Politz","Belgard","Gollnow","Greifenhagen","Barth","Naugard",
 			"Greifenberg","Arnswalde","Schivelbein","Neudamm","Falkenburg","Pyritz","Anklam","Bad Schonfliess"],
