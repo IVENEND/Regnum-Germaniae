@@ -1464,6 +1464,35 @@
 			"Toul","Neufchâteau","Saint-Avold","Fameck","Longwy","Pont-à-Mousson","Sarrebourg","Florange","Villerupt","Golbey","Briey","Gérardmer","Remiremont","Commercy","Rambervillers","Saint-Mihiel","Sierck","Bitche"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+	{
+		"name": "Livonia",
+		"leaderName": "Albert von Buxhoeveden",
+		"adjective": ["Livonian"],
+		"startBias":["Forest"],
+		"preferredVictoryType": "Domination",
+		"personality": "Napoleon",
+
+        "startIntroPart1": "Albert of Buxhoeveden, God's blessing is with you and your ambitions. As the Livonian Chronicles are telling it to this day, you were the noble founder of Riga, once you called for a perpetual crusade against the heathens at the baltic shores to avenge your fallen brother in faith, who was Bishop before. But it was you o' brave Albert, who rose to Arch Bishop and even Prince-Bishop in the Reich with your glory that was in the conquest of the Land of Mary, founding Riga and securing it with the Order of the Sword Brethren.",
+        "startIntroPart2": "Ambitious Albert of Riga the heathens are on the rise again, the fertile lands, tranquil waters and dark forrests are waiting for your Excellency. Can you build a civilization that can stand the test of time?",
+
+        "declaringWar": "Finish your last prayers, soon we will sell you on our fine markets.",
+		"attacked": "You will enjoy the flames of eternal damnation!",
+		"defeated": "Your sins shall destroy this holy earth, but not my faith.",
+		"denounced": "Big words from such a little person.",
+		"introduction": "God is with you. Did you come to learn of our Lords teachings, heathen? I am Albert of Livonia, who shall bring faith to this land.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [152, 164, 164],
+		"innerColor": [100, 0, 0],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Terra Mariana",
+		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"Free [Settler] appears <upon gaining a [Great Prophet] unit>"],
+		"cities": ["Riga","Reval","Narva","Fellin","Wolmar","Leal","Arensburg","Windau","Pilten","Dorpat",
+			"Kokenhusen","Treiden","Walk","Pernal","Hapsal","Bremen","Ascheraden","Dünaburg","Bauske","Segewold"],
+        "spyNames": ["Johann", "Freytag", "Stockfish", "Wolter", "Albrecht", "Marie", "Anna", "Edeltraut", "Maximilian V", "Luise"]
+    },
 
 
 	// City-States sorted by cityStateType, name

@@ -831,6 +831,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Schwertbruder",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Livonia",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Two-handed Swordsman",
+		"obsoleteTech": "Heavy Edged Weapons",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <when stacked with a [Great Prophet] unit>","[+15]% Strength <when stacked with a [Inquisitor] unit>","[+15]% Strength <when stacked with a [Missionary] unit>"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Rhenish Foot Knight",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",

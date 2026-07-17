@@ -74,7 +74,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
 * Pouakai: author of Civ 5 mod "Enlightenment Era", for the design and quotes of Enlightenment Era techs, units and buildings.
 * Senshi: author of Civ 5 mod "[BNW] Senshi's Lorraine (Rene II)", for the texts and idea of Lorraine's UB.
-* Alga: author of Civ 5 mod "[BNW] Agla's and TranquilSilence's Duchy of Bavaria", "Agla's The Swiss", for the texts of Bavaria and Swiss.
+* Alga: author of Civ 5 mod "[BNW] Agla's and TranquilSilence's Duchy of Bavaria", "Agla's The Swiss", [BNW] Agla's Livonia, for the texts of Bavaria, Livonia and Swiss, idea of Livonia.
 * FeldMarschalBlinzurg: Austria icon
 * Pjokolom: Wagenburg: Flailman sprite
 * Anna Weiss, Brickclay, Linseed Studio, A184, Ary Prasetyo, Chiara Claus, Andy Horvath, Mia Elysia, Phạm Thanh Lộc, Muhammad Atiq, Vectors Market, Lewen Design, Cuan Studio, Izwar Muis, Singlar, Maxicons, Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine, Tetiana Mykhailyk, Adinda: icons
