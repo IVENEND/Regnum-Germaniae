@@ -207,13 +207,6 @@ EmojiIcons/Great General
   orig: 50, 50
   offset: 0, 0
   index: -1
-ExtraImages/Victual Brother
-  rotate: false
-  xy: 4, 752
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 ImprovementIcons/Barbarian encampment
   rotate: false
   xy: 484, 800
@@ -408,6 +401,13 @@ NationIcons/The Netherlands
   xy: 1516, 260
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Victual Brother_pedia
+  rotate: false
+  xy: 4, 752
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 ReligionIcons/Anabaptism

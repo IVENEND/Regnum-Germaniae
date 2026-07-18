@@ -30,7 +30,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
+		"uniques": ["Destroyed when the city is captured", "Will not be displayed in Civilopedia"] //"Only available <when religion is enabled>"
 	},
 	// Column 1
 	{
@@ -73,7 +73,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
+		"uniques": ["Only available <when religion is enabled>", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Temple of Artemis",
@@ -119,7 +119,7 @@
 		"uniqueTo": "China",
 		"hurryCostModifier": 25,
 		"gold": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"uniques": ["[+1 Science] per [2] population [in this city]", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -154,7 +154,7 @@
 		"uniqueTo": "Aztecs",
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 15},
@@ -177,7 +177,7 @@
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "The Pyramids",
@@ -212,7 +212,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -327,7 +327,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Egypt",
 		"maintenance": 0,
-		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>"],
+		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>", "Will not be displayed in Civilopedia"],
 		"faith": 2,
 		"happiness": 2,
 		"requiredBuilding": "Shrine",
@@ -344,6 +344,7 @@
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "National College",
@@ -399,7 +400,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Currency"
 	},
 	{
@@ -545,7 +546,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -607,7 +608,7 @@
 		"specialistSlots": {"Scientist": 2},
 		"culture": 3,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Education"
 	},
 	{
@@ -641,7 +642,7 @@
 		"name": "Ordensburg",
 		"replaces": "Castle",
 		"uniqueTo": "Teutonic Order",
-		"faith": 1,
+		"faith": 2,
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
@@ -683,7 +684,7 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Chivalry"
 	},
 	{
@@ -798,6 +799,7 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
     {
         "name": "Constabulary",
