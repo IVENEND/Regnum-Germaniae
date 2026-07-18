@@ -1166,6 +1166,16 @@
 		"requiredTech": "Military Science"
 	},
 	{
+		"name": "Kaserne",
+        "replaces": "Military Academy",
+		"uniqueTo": "Switzerland",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["All newly-trained [{Military} {Land}] units [in this city] receive the [Neutrality] promotion", "New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Metallurgy"
+	},
+	{
 		"name": "Brandenburg Gate",
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 2},

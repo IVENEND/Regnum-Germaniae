@@ -742,6 +742,10 @@
 		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
 	},
 	{
+		"name": "Neutrality",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+	},
+	{
 		"name": "[Free Imperial Knight] ability",
 		"uniques": ["[+30]% Strength <vs [Mounted] units>"]
 	},
