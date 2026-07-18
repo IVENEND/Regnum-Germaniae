@@ -351,7 +351,7 @@
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
-				"name": "Sovereignty",
+				"name": "Tech.Sovereignty",
 				"row": 6,
 				"prerequisites": ["Banking","Printing Press"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
@@ -403,13 +403,13 @@
 			{
 				"name": "Humanism",
 				"row": 4,
-				"prerequisites": ["Architecture","Sovereignty"],
+				"prerequisites": ["Architecture","Tech.Sovereignty"],
 				"quote": "'What is a man? A miserable little pile of secrets.' - Count Dracula"
 			},
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Sovereignty","Metallurgy"],
+				"prerequisites": ["Tech.Sovereignty","Metallurgy"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
