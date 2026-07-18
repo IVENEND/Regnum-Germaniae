@@ -742,6 +742,10 @@
 		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
 	},
 	{
+		"name": "Helfen, Wehren, Heilen",
+		"uniques": ["[+20]% Spread Religion Strength", "Removes other religions when spreading religion"]
+	},
+	{
 		"name": "Neutrality",
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	},

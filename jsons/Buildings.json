@@ -638,6 +638,17 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
+		"name": "Ordensburg",
+		"replaces": "Castle",
+		"uniqueTo": "Teutonic Order",
+		"faith": 1,
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Chivalry",
+		"uniques": ["All newly-trained [Religious Unit] units [in this city] receive the [Helfen, Wehren, Heilen] promotion","Destroyed when the city is captured"]
+	},
+	{
 		"name": "Bischofsburg",
 		"replaces": "Castle",
 		"uniqueTo": "Livonia",
