@@ -23,44 +23,44 @@ Reskin generic units to fit in the theme of the mod.
 ## Civilizations(WIP, partly done):
 
 **New Civilizations (Done):**
--Bavaria
--Swabia
--Saxony
--Hesse
--Franconia
--Switzerland
--Bohemia
--Prussia
--Teutonic Order 
--Livonia
--Platinate
--Lorraine
--Brunswick
--Hungary
--Pomerania
--Scotland
+* Bavaria
+* Swabia
+* Saxony
+* Hesse
+* Franconia
+* Switzerland
+* Bohemia
+* Prussia
+* Teutonic Order 
+* Livonia
+* Platinate
+* Lorraine
+* Brunswick
+* Hungary
+* Pomerania
+* Scotland
 
 **Modified vanilla civilizations (WIP, partly done):**
 
--Austria
--Netherland
--France
--Byzantium
--Denmark
--Sweden
--America
--Englnad
--Spain
+* Austria
+* Netherland
+* France
+* Byzantium
+* Denmark
+* Sweden
+* America
+* Englnad
+* Spain
 
 **Planned new and modified Civilizations (WIP):**
--Hanover
--Westphalia
--Hanseatic League
--Burgundy
--Poland
--Ottoman
--Russia
--Papal State
+* Hanover
+* Westphalia
+* Hanseatic League
+* Burgundy
+* Poland
+* Ottoman
+* Russia
+* Papal State
 ...
 
 
@@ -73,8 +73,8 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 ## Rework the Great People name list to fit in the theme of the mod (WIP)
 
 # Credits:
-* GeneralWadaling: author of HexaRealm-Tileset, for bases of unit arts, and many icon arts.
-* Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add-On", for new religions and their icons.
+* GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
+* Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
 * Pouakai: author of Civ 5 mod "Enlightenment Era", for the design and quotes of Enlightenment Era techs, units and buildings.
 * Senshi: author of Civ 5 mod "[BNW] Senshi's Lorraine (Rene II)" and "[BNW] Senshi's Pomerania (Bogislaw X)", for the texts and idea of Lorraine's UB, texts of Pomerania.
 * Alga: author of Civ 5 mod "[BNW] Agla's and TranquilSilence's Duchy of Bavaria", "Agla's The Swiss", [BNW] Agla's Livonia, for the texts of Bavaria, Livonia and Swiss, idea of Livonia.
