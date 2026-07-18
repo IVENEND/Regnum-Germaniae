@@ -65,6 +65,7 @@ Reskin generic units to fit in the theme of the mod.
 * Milan
 * Savoy
 * Frisia
+* Malta
 ...
 
 
@@ -79,6 +80,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 # Credits:
 * GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
+* JFD: author of following Civ 5 mods: The Papal States (Julius II), Denmark-Norway (Christian IV), Flanders (Robert III), Genoa (Simone Boccanegra), Bohemia (Vaclav II), Milan (Gian Galeazzo), Scotland (James VI), Malta (Jean Valette), Burgundy (Philip III), Prussia (Frederick II), Saxony (Frederick Augustus I). For texts.
 * Pouakai: author of Civ 5 mod "Enlightenment Era", for the design and quotes of Enlightenment Era techs, units and buildings.
 * Senshi: author of Civ 5 mod "[BNW] Senshi's Lorraine (Rene II)" and "[BNW] Senshi's Pomerania (Bogislaw X)", for the texts and idea of Lorraine's UB, texts of Pomerania.
 * Alga: author of Civ 5 mod "[BNW] Agla's and TranquilSilence's Duchy of Bavaria", "Agla's The Swiss", [BNW] Agla's Livonia, for the texts of Bavaria, Livonia and Swiss, idea of Livonia.
