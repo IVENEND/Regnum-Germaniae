@@ -174,7 +174,7 @@ BuildingIcons/Salon
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1624, 694
+  xy: 1516, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -356,6 +356,13 @@ NationIcons/Scotland
   index: -1
 NationIcons/Spain
   rotate: false
+  xy: 976, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Swabia
+  rotate: false
   xy: 1084, 154
   size: 100, 100
   orig: 100, 100
@@ -367,24 +374,17 @@ NationIcons/Swabia
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-NationIcons/Swabia
-  rotate: false
-  xy: 1300, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
   index: 2
 NationIcons/Sweden
   rotate: false
-  xy: 1408, 478
+  xy: 1300, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Switzerland
   rotate: false
-  xy: 1516, 586
+  xy: 1408, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -620,14 +620,14 @@ TechIcons/Romanticism
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Sovereignty
+TechIcons/Tech.Gunpowder
   rotate: false
-  xy: 976, 46
+  xy: 1624, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Tech.Gunpowder
+TechIcons/Tech.Sovereignty
   rotate: false
   xy: 1084, 46
   size: 100, 100
