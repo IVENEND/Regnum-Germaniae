@@ -1005,7 +1005,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Ducal Guard",
+		"name": "Ducal Trabant",
 		"unitType": "Sword",
 		"replaces": "Two-handed Swordsman",
 		"uniqueTo": "Brunswick",
@@ -1013,7 +1013,7 @@
 		"strength": 23,
 		"cost": 140,
 		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","Unavailable <for [Hungary] Civilizations>"],
-		"promotions": ["[Ducal Guard] ability"],
+		"promotions": ["[Ducal Trabant] ability"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",

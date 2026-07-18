@@ -1334,42 +1334,42 @@ TileSets/HexaRealm/Units/Dromon
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard
+TileSets/HexaRealm/Units/Ducal Trabant
   rotate: false
   xy: 1300, 959
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard-1
+TileSets/HexaRealm/Units/Ducal Trabant-1
   rotate: false
   xy: 1372, 959
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard-2
+TileSets/HexaRealm/Units/Ducal Trabant-2
   rotate: false
   xy: 1444, 959
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard-Enlightenment era
+TileSets/HexaRealm/Units/Ducal Trabant-Enlightenment era
   rotate: false
   xy: 1516, 959
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard-Enlightenment era-1
+TileSets/HexaRealm/Units/Ducal Trabant-Enlightenment era-1
   rotate: false
   xy: 1588, 959
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Ducal Guard-Enlightenment era-2
+TileSets/HexaRealm/Units/Ducal Trabant-Enlightenment era-2
   rotate: false
   xy: 1660, 959
   size: 64, 60
