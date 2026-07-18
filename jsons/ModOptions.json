@@ -1,3 +1,5 @@
 {
     "isBaseRuleset": true,
+	"techsToRemove": ["Gunpowder"]
+	"unitset":"HexaRealm"
 }
