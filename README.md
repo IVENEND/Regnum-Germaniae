@@ -52,7 +52,7 @@ Reskin generic units to fit in the theme of the mod.
 * Englnad
 * Spain
 
-**Planned new and modified Civilizations (WIP):**
+**Planned new and modified Civilizations (WIP, not promised!):**
 * Hanover
 * Westphalia
 * Hanseatic League
