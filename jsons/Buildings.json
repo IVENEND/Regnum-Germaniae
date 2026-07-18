@@ -1023,7 +1023,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Castle",
-		"requiredTech": "Fortification",
+		"requiredTech": "Tech.Fortification",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -1034,7 +1034,7 @@
 		"isWonder": true,
 		"cityHealth": 50,
 		"uniques": ["[+50]% Strength <for [All] units> <in this city>"],
-		"requiredTech": "Fortification",
+		"requiredTech": "Tech.Fortification",
 		"quote": "'When spiders unite, they can bring down a lion.' - Ethiopian Proverb"
 	},
 	{
@@ -1452,8 +1452,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 2},
 		"requiredTech": "Chivalry",
-		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion", "Only available <for [Imperial Estate of the Holy Roman Empire] Civilizations>"],
-		"quote": "'Placeholder.' - Placeholder"
+		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion", "Only available <for [Imperial Estate of the Holy Roman Empire] Civilizations>"]
 	},
 
 	// All Eras

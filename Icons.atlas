@@ -18,7 +18,7 @@ BuildingIcons/Bastion
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Fortification
+TechIcons/Tech.Fortification
   rotate: false
   xy: 478, 802
   size: 100, 100
