@@ -60,6 +60,7 @@
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Haka War Dance"],
 		"upgradesTo": "Swordsman",
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -73,6 +74,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["[Jaguar] ability","Woodsman"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -112,6 +114,7 @@
 		"replaces": "Archer",
 		"uniqueTo": "Babylon",
 		"upgradesTo": "Composite Bowman",
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "arrow"
 	},
 	{
@@ -127,6 +130,7 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Slinger Withdraw"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "arrow"
 	},
 	{
@@ -141,6 +145,7 @@
 		"replaces": "Archer",
 		"uniqueTo": "The Maya",
 		"upgradesTo": "Composite Bowman",
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "arrow"
 	},
 	{
@@ -190,6 +195,7 @@
 		"uniques": ["Cannot enter ocean tiles"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -246,7 +252,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Will not be displayed in Civilopedia"],
 		"attackSound": "arrow"
 	},
 	{
@@ -261,7 +267,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus"],
+		"uniques": ["No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
@@ -277,7 +283,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus"],
+		"uniques": ["No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"attackSound": "elephant"
 	},
 	{
@@ -303,7 +309,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -317,7 +323,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Will not be displayed in Civilopedia"],
 		"promotions":["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
 	},
@@ -333,7 +339,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
-		"[-1] Sight", "Can only attack [City] units"],
+		"[-1] Sight", "Can only attack [City] units", "Will not be displayed in Civilopedia"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
 	},
@@ -380,7 +386,7 @@
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Great Generals I"],
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -397,7 +403,7 @@
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Great Generals II"],
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
 	},
@@ -445,7 +451,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[-1] Sight"],
+			"Must set up to ranged attack", "[-1] Sight", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
@@ -503,7 +509,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Tech.Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -520,6 +526,7 @@
 		"obsoleteTech": "Tech.Gunpowder",
 		"hurryCostModifier": 20,
 		"promotions": ["[Mohawk Warrior] ability"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},
 
@@ -666,7 +673,7 @@
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
 	},
@@ -699,7 +706,7 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>", "Will not be displayed in Civilopedia"],
 		"attackSound": "elephant"
 	},
 	{
@@ -714,7 +721,7 @@
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"attackSound": "horse"
 	},
 	{
@@ -731,7 +738,7 @@
 		"requiredResource": "Horses",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
 		// Keshik should have no penalty attacking cities
@@ -761,6 +768,7 @@
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
 		"promotions": ["[Chu-Ko-Nu] ability"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "crossbow"
 	},
 	{
@@ -817,7 +825,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["No defensive terrain bonus","Must set up to ranged attack"],
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack", "Will not be displayed in Civilopedia"],
 		"attackSound": "throw"
 	},
 	{
@@ -906,7 +914,7 @@
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
-		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement", "Will not be displayed in Civilopedia"],
 		"attackSound": "metalhit"
 	},
 
@@ -936,7 +944,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ship of the Line",
 		"obsoleteTech": "Warships",
-		"uniques": ["Cannot enter ocean tiles"],
+		"uniques": ["Cannot enter ocean tiles", "Will not be displayed in Civilopedia"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -1054,6 +1062,7 @@
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
 		"promotions": ["[Janissary] ability"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"attackSound": "shot"
 	},
 	{
@@ -1241,7 +1250,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
-			"[+1] Sight"],
+			"[+1] Sight", "Will not be displayed in Civilopedia"],
 		"promotions": ["[Sipahi] ability","Formation I"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
@@ -1575,7 +1584,7 @@
 		"movement": 2,
 		"strength": 34,
 		"cost": 200,
-		"uniques": ["[+30]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+30]% Strength <vs [Mounted] units>", "Will not be displayed in Civilopedia"],
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
@@ -1607,7 +1616,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Will not be displayed in Civilopedia"],
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "cavalry"
 	},
@@ -1840,7 +1849,7 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Will not be displayed in Civilopedia"],
 		"promotions": ["[Zero] ability"],
 		"attackSound": "machinegun"
 	},
@@ -1907,7 +1916,7 @@
 		"requiredTech": "Armoured Warfare",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Will not be displayed in Civilopedia"],
 		"attackSound": "tankshot"
 		//German unique unit, stronger than Tank
 	},
@@ -2168,7 +2177,7 @@
 			"Can be earned through combat <for [Land] units>",
             "Is part of Great Person group [General]",
             "[This Unit] gets a name from the [Khan] group",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+            "Great Person - [War]", "Unbuildable", "Uncapturable", "Will not be displayed in Civilopedia"],
 		"movement": 5
 	},
 	{
