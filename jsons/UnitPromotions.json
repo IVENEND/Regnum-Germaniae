@@ -742,8 +742,48 @@
 		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
 	},
 	{
-		"name": "[Hussar] ability",
+		"name": "[Free Imperial Knight] ability",
+		"uniques": ["[+30]% Strength <vs [Mounted] units>"]
+	},
+	{
+		"name": "[Gebirgsschützen] ability",
+		"uniques": ["Ignores terrain cost"]
+	},
+	{
+		"name": "[Ducal Guard] ability",
+		"uniques": ["[+50]% Strength <when fighting in [City center] tiles>","[+33]% Strength <when stacked with a [Great General] unit>"]
+	},
+	{
+		"name": "[Grenadiergarde] ability",
+		"uniques": ["Gain [2] [Culture] <upon ending a turn in a [City center] tile>","[+2] Strength <when adjacent to a [Great General] unit>"]
+	},
+	{
+		"name": "[Hessian Grenadier] ability",
+		"uniques": ["[+20]% Strength <on foreign continents>"]
+	},
+	{
+		"name": "[Hessian Jäger] ability",
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"]
+	},
+	{
+		"name": "[Old Guard] ability",
+		"uniques": ["[+25]% Strength <vs [Gunpowder] units>"]
+	},
+	{
+		"name": "[Chevaulegers] ability",
 		"uniques": ["[+50]% to Flank Attack bonuses"]
+	},
+	{
+		"name": "[Doppelsöldner] ability",
+		"uniques": ["No movement cost to pillage","Earn [100]% of the damage done to [City] units as [Gold]"]
+	},
+	{
+		"name": "[Imperial Tercio] ability",
+		"uniques": ["[+33]% Strength <when defending>"]
+	},
+	{
+		"name": "[Ritterbruder] ability",
+		"uniques": ["Earn [100]% of the damage done to [City] units as [Faith]"]
 	},
 	{
 		"name": "[Schwertbruder] ability",

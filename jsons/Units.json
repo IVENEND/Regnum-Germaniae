@@ -617,7 +617,8 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
-		"uniques": ["[+30]% Strength <vs [Mounted] units>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Free Imperial Knight] ability"],
 		"attackSound": "horse"
 	},
 	{
@@ -632,7 +633,8 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can be purchased with [Faith] [in all cities]","Earn [100]% of the damage done to [City] units as [Faith]"],
+		"promotions": ["[Ritterbruder] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can be purchased with [Faith] [in all cities]"],
 		"attackSound": "horse"
 	},
 	{
@@ -1002,7 +1004,8 @@
 		"movement": 2,
 		"strength": 23,
 		"cost": 140,
-		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","[+50]% Strength <when fighting in [City center] tiles>","[+33]% Strength <when stacked with a [Great General] unit>","Unavailable <for [Hungary] Civilizations>"],
+		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","Unavailable <for [Hungary] Civilizations>"],
+		"promotions": ["[Ducal Guard] ability"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -1066,8 +1069,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
-		"uniques": ["Ignores terrain cost"],
-		"promotions": ["Drill I"],
+		"promotions": ["[Gebirgsschützen] ability","Drill I"],
 		"attackSound": "shot"
 	},
 	{
@@ -1091,9 +1093,10 @@
 		"strength": 26,
 		"cost": 160,
 		"requiredTech": "Printing Press",
+		"promotions": ["[Doppelsöldner] ability"],
 		"uniques": [
 			"[+50]% Strength <vs [Mounted] units>",
-			"Can move immediately once bought","No movement cost to pillage","Earn [100]% of the damage done to [City] units as [Gold]"
+			"Can move immediately once bought"
 		],
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
@@ -1108,8 +1111,8 @@
 		"strength": 26,
 		"cost": 160,
 		"requiredTech": "Pike and Shot Tactic",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+33]% Strength <when defending>"],
-		"promotions": ["Shock I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["[Imperial Tercio] ability","Shock I"],
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
 		"attackSound": "metalhit"
@@ -1297,7 +1300,8 @@
 		"movement": 2,
 		"strength": 32,
 		"cost": 200,
-		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+20]% Strength <on foreign continents>"],
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Hessian Grenadier] ability"],
 		"requiredTech": "Flintlock",
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
@@ -1312,7 +1316,8 @@
 		"movement": 2,
 		"strength": 31,
 		"cost": 210,
-		"uniques": ["[+30]% Strength <vs cities> <when attacking>","Gain [2] [Culture] <upon ending a turn in a [City center] tile>","[+2] Strength <when adjacent to a [Great General] unit>"],
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Grenadiergarde] ability"],
 		"requiredTech": "Flintlock",
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
@@ -1327,7 +1332,8 @@
 		"movement": 2,
 		"strength": 31,
 		"cost": 220,
-		"uniques": ["[+30]% Strength <vs cities> <when attacking>","[+25]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[+30]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Old Guard] ability"],
 		"requiredTech": "Flintlock",
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
@@ -1402,7 +1408,7 @@
 		"requiredTech": "Flintlock",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"promotions": ["[Hessian Jäger] ability"],
 		"attackSound": "shot"
 	},
 	{
@@ -1619,7 +1625,7 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["[Hussar] ability"],
+		"promotions": ["[Chevaulegers] ability"],
 		"attackSound": "cavalry"
 	},
 	{
