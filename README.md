@@ -22,7 +22,7 @@ Reskin generic units to fit in the theme of the mod.
 
 ## Civilizations(WIP, partly done):
 
-#New Civilizations (Done):
+**New Civilizations (Done):**
 -Bavaria
 -Swabia
 -Saxony
@@ -40,7 +40,7 @@ Reskin generic units to fit in the theme of the mod.
 -Pomerania
 -Scotland
 
-#Modified vanilla civilizations (WIP, partly done):
+**Modified vanilla civilizations (WIP, partly done):**
 
 -Austria
 -Netherland
@@ -52,7 +52,7 @@ Reskin generic units to fit in the theme of the mod.
 -Englnad
 -Spain
 
-#Planned new and modified Civilizations (WIP):
+**Planned new and modified Civilizations (WIP):**
 -Hanover
 -Westphalia
 -Hanseatic League
