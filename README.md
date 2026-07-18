@@ -33,7 +33,7 @@ Reskin generic units to fit in the theme of the mod.
 * Prussia
 * Teutonic Order 
 * Livonia
-* Platinate
+* Palatinate
 * Lorraine
 * Brunswick
 * Hungary
@@ -61,6 +61,10 @@ Reskin generic units to fit in the theme of the mod.
 * Ottoman
 * Russia
 * Papal State
+* Flanders
+* Milan
+* Savoy
+* Frisia
 ...
 
 
