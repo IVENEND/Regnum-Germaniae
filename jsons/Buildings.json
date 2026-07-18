@@ -853,7 +853,7 @@
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"Gain a free [Castle] [in this city]"],
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Tech.Gunpowder",
 		"quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
 	},
 	// Column 8
@@ -983,7 +983,7 @@
 		"cost": 250,
 		"maintenance": 1,
 		"requiredTech": "Humanism"
-		"uniques": ["Only available <in cities without a [Academy]>"]
+		"uniques": ["Only available <in cities without a [Building.Academy]>"]
 	},
 	{
 		"name": "Coffee House",
@@ -997,7 +997,7 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 	},	
 	{
-		"name": "Academy",
+		"name": "Building.Academy",
 		"science": 2,
 		"percentStatBonus": {"science": 25},
 		"cost": 250,
@@ -1108,7 +1108,7 @@
 		"science": 3,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
-		"uniques": ["Instantly gain [150] [Science] <upon expending a [Great Person] unit>","Gain a free [Academy] [in this city]"],
+		"uniques": ["Instantly gain [150] [Science] <upon expending a [Great Person] unit>","Gain a free [Building.Academy] [in this city]"],
 		"requiredTech": "Natural History",
 		"quote": "'Universitas litterarum' - Motto of Humboldt University of Berlin"
 	},

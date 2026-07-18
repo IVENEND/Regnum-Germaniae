@@ -27,7 +27,7 @@
     },
     {
         "name": "Diplomatic",
-        "victoryScreenHeader": "Build the Perpetual Imperial Diet and be voted to unifying the Holy Roman Empire to win!",
+        "victoryScreenHeader": "Build the Perpetual Imperial Diet and be voted to unify the Holy Roman Empire to win!",
         "milestones": ["Anyone should build [Perpetual Imperial Diet]", "Win diplomatic vote"],
         "victoryString": "You have triumphed over your foes through the art of diplomacy! Your cunning and wisdom have earned you great friends - and divided and sown confusion among your enemies! Forever will you be remembered as the leader who brought peace to this weary world!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
