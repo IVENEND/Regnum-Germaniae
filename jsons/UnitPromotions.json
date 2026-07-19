@@ -740,6 +740,12 @@
 	{
 		"name": "[Cossack] ability",
 		"uniques": ["[+50]% Strength <vs [Wounded] units>"]
+	}
+	{
+		"name": "Heavy Charge",
+		"uniques":[
+			"[+25]% Strength <when attacking>" // TODO: Forces defender to retreat if it inflicts more damage than it receives. A defender who cannot retreat takes extra damage.
+		]
 	},
 	{
 		"name": "Helfen, Wehren, Heilen",

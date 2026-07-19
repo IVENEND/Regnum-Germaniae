@@ -1047,6 +1047,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Hajduk",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Poland",
+		"range": 1,
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 22,
+		"cost": 130,
+		"requiredTech": "Tech.Gunpowder",
+		"upgradesTo": "Skirmisher",
+		"obsoleteTech": "Flintlock",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Musketeer",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Musketman",
@@ -1233,6 +1248,31 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Winged Hussar",
+		"replaces": "Lancer",
+		"uniqueTo": "Poland",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 28,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": [
+			"Formation I",
+			"Shock I",
+			"Heavy Charge"
+		],
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
 	},
 	{
@@ -1454,7 +1494,8 @@
 		"cost": 185,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit",
+			"Unavailable <for [Poland] Civilizations>"],
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"attackSound": "horse"

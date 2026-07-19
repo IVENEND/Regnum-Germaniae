@@ -1549,9 +1549,9 @@
 		"outerColor": [229,43,80],
 		"innerColor": [255,255,255],
 		"uniqueName": "Solidarity",
-		"uniqueText": "Receive a free Social Policy when you advance to the next era.",
 		"uniques": [
-			"Free Social Policy <upon entering a new era> <after turn number [3]> <hidden from users>", // After turn number 3 is there so we don't get a Social Policy on turn 1
+			"Free Social Policy <upon entering a new era> <after turn number [3]>",
+			"Cannot build [Cuirassier] units"
 		],
 		"spyNames": ["Wincenty", "Roman", "Benita", "Jan", "Kazimierz", "Josef", "Krystyna Skarbek", "Tarnowski", "Marian", "Alenka"],
 		"cities": ["Warsaw","Cracow","Lodz","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Sopot",

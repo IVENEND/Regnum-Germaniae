@@ -1401,6 +1401,7 @@
 			"[+100]% weight to [Mounted] for AI decisions",
 			"[-50]% weight to [Sword] for AI decisions",
 			"[-50]% weight to [Anti Cavalry] for AI decisions",
+			"[-50]% weight to [Mixed Gunpowder] for AI decisions",
 	]
   }
 ]
