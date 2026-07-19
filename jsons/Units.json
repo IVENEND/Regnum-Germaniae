@@ -949,6 +949,19 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Galleon",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 28,
+		"cost": 165,
+		"requiredTech": "Exploration",
+		"upgradesTo": "Ship of the Line",
+		"obsoleteTech": "Warships",
+		"uniques": ["[+1] Sight"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Rondartschier",
 		"unitType": "Shield Bearer",
 		"movement": 2,
