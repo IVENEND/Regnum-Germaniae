@@ -1369,7 +1369,7 @@
 	]
   },
   {
-	"name": "Casimir III",
+	"name": "Jan III Sobieski",
 	"preferredVictoryType": "Domination", // Cultural, Scientific, Domination, Diplomatic, Time
 	"production": 8, // Production Emphasis
 	"food": 4, // Growth
@@ -1402,6 +1402,8 @@
 			"[-50]% weight to [Sword] for AI decisions",
 			"[-50]% weight to [Anti Cavalry] for AI decisions",
 			"[-50]% weight to [Mixed Gunpowder] for AI decisions",
+			"[+50]% weight to [Hajduk] for AI decisions",
+			"[+50]% weight to [Winged Hussar] for AI decisions",
 	]
   }
 ]
