@@ -1360,6 +1360,47 @@
       "Freedom": 8,
       "Autocracy": 4,
       "Order": 8
-    }
+    },
+	"uniques": [
+	  "[+100]% weight to [Anti Cavalry] for AI decisions",
+	  "[+100]% weight to [Gunpowder] for AI decisions",
+	  "[-100]% weight to [Sword] for AI decisions",
+	  "[-100]% weight to [Shield Bearer] for AI decisions"
+	]
+  },
+  {
+	"name": "Casimir III",
+	"preferredVictoryType": "Domination", // Cultural, Scientific, Domination, Diplomatic, Time
+	"production": 8, // Production Emphasis
+	"food": 4, // Growth
+	"gold": 7, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 6, // Culture Emphasis
+	"happiness": 6, // Happiness Emphasis
+	"faith": 7, // Religion Emphasis
+	"military": 7, // Offensive Unit Production
+	"aggressive": 5, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 6, // Diplobalance
+	"loyal": 7, // Loyalty
+	"expansion": 7, // Expansion
+	"priorities": {
+			"Tradition": 7, // Culture + Wonder
+			"Liberty": 7, // Expansion + TileImprovement
+			"Honor": 6, // Boldness + Likeliness to Declare War
+			"Commerce": 6, // Gold + Chatiness
+			"Patronage": 6, // CityStateCompetitiveness + CSFriendly
+			"Piety": 7, // Religion Emphasis + Protection of City-States
+			"Rationalism": 5, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+100]% weight to [Mounted] for AI decisions",
+			"[-50]% weight to [Sword] for AI decisions",
+			"[-50]% weight to [Anti Cavalry] for AI decisions",
+	]
   }
 ]
