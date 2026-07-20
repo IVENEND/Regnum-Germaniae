@@ -1,6 +1,7 @@
 # [WIP] Regnum Germaniae
 
-Regnum Germaniae is an "overhaul" ruleset mod focus on (but not limit to) history of germany and holy roman empire. Please notice that the mod is still in early development stage, and has many placeholder things.
+Regnum Germaniae is an "overhaul" ruleset mod focus on (but not limit to) history of germany and holy roman empire.
+
 # Planned features
 
 
@@ -39,6 +40,8 @@ Reskin generic units to fit in the theme of the mod.
 * Hungary
 * Pomerania
 * Scotland
+* Westphalia
+* Poland
 
 **Modified vanilla civilizations (WIP, partly done):**
 
@@ -54,10 +57,9 @@ Reskin generic units to fit in the theme of the mod.
 
 **Planned new and modified Civilizations (WIP, not promised!):**
 * Hanover
-* Westphalia
+* Holstein
 * Hanseatic League
 * Burgundy
-* Poland
 * Ottoman
 * Russia
 * Papal State
