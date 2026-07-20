@@ -1409,7 +1409,6 @@
     },
 	{
 		"name": "Teutonic Order",
-		"style": "GermanLightIcon",
 		"leaderName": "Hermann von Salza",
 		"adjective": ["Teutonic"],
 		"startBias":["Forest"],
@@ -1559,6 +1558,37 @@
 			"Bytom","Olsztyn","Rzeszow","Ruda Slaska","Bielsko-Biala","Rybnik","Plock","Elblag","Gorzow Wielkopolski","Opole",
 			"Leczyca","Walbrzych","Zielona Gora","Wloclawek"]
 	},
+	{
+		"name": "Westphalia",
+		"leaderName": "Archbishop-elector Ferdinand von Bayern",
+		"adjective": ["Westphalian"],
+        "startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Gustavus Adolphus",
+
+        "startIntroPart1": "God blesses you, Maximilian I of Bavaria. You were the calculating and devote Duke of the House of Wittelsbach putting Bavaria back in the Concerte of Europe after it being hold down after the Fall of Emperor Louis IV and inner dynastic struggles. It was the right time to rise House Wittelsbach up to greatness when the Reformation threatened to destroy Christianity in the german lands. You were the most devote and willing ally of the Emperor and made Bavaria the biggest catholic power within catholic states.",
+        "startIntroPart2": "O' most piety Maximilian! The people are calling your name when praying for saviour of true faith and they thank the Virgin Mary for every of your deeds. Can you build a Civilization that stands the test of time?",
+
+        "declaringWar": "Finish your last prayers, soon we will sell you on our fine markets.",
+		"attacked": "You will enjoy the flames of eternal damnation!",
+		"defeated": "Your sins shall destroy this holy earth, but not my faith.",
+		"denounced": "Big words from such a little person.",
+		"introduction": "Greetings, I am Maximilian I of Bavaria, true defender of christian faith in this blessed lands. Do not dare to question my believes.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [40,40,40],
+		"favoredReligion": "Catholicism",
+		"uniqueName": "Electorate of Cologne",
+		"uniques": ["[+1 Happiness, +1 Culture] from every [Wheat]","Imperial Estate of the Holy Roman Empire"],
+		"cities": ["Bonn","Cologne","Neuss","Ahrweiler","Andernach","Münster","Kempen-Oedt","Altenwied","Allendorf","Attendorn",
+			"Arnsberg","Balve","Belecke","Brilon","Drolshagen","Erwitte","Eversberg","Fredeburg","Geseke","Grevenstein",
+			"Hallenberg","Hirschberg","Kallenhardt","Neheim","Marsberg","Medebach","Menden","Olpe","Rüthen","Schmallenberg",
+			"Volkmarsen","Warstein","Werl","Winterberg","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Paderborn"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
 
 
 	// City-States sorted by cityStateType, name
