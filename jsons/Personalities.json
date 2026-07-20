@@ -1434,6 +1434,9 @@
       "Freedom": 6,
       "Autocracy": 4,
       "Order": 8
-    }
+    },
+	"uniques": [
+			"[+100]% weight to [Executioner] for AI decisions"
+	]
   }
 ]
