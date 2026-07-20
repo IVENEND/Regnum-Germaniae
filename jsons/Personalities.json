@@ -1405,5 +1405,35 @@
 			"[+50]% weight to [Hajduk] for AI decisions",
 			"[+50]% weight to [Winged Hussar] for AI decisions",
 	]
+  },
+  {
+    "name": "Archbishop-elector Ferdinand von Bayern",
+    "production": 5,
+    "food": 6,
+    "gold": 7,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 10,
+    "military": 6,
+    "aggressive": 2,
+    "declareWar": 4,
+    "commerce": 8,
+    "diplomacy": 7,
+    "loyal": 5,
+    "expansion": 4,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 2,
+      "Honor": 4,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 10,
+      "Rationalism": 6,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 8
+    }
   }
 ]
