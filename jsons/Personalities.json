@@ -1638,5 +1638,38 @@
 	"uniques": [
 			"[+50]% weight to [Victual Brother] for AI decisions"
 	]
+  },
+  {
+    "name": "Hermann von Salza",
+	"production": 7, // Production Emphasis
+	"food": 4, // Growth
+	"gold": 4, // Gold Emphasis
+	"science": 5, // Science Emphasis
+	"culture": 3, // Culture Emphasis
+	"happiness": 7, // Happiness Emphasis
+	"faith": 9, // Religion Emphasis
+	"military": 9, // Offensive Unit Production
+	"aggressive": 10, // Competitiveness
+	"declareWar": 9, // Likeliness to Declare War
+	"commerce": 6, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 8, // Loyalty
+	"expansion": 9, // Expansion
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 7,
+      "Honor": 10,
+      "Commerce": 4,
+      "Patronage": 6,
+      "Piety": 10,
+      "Rationalism": 2,
+      "Freedom": 6,
+      "Autocracy": 8,
+      "Order": 4
+    },
+	"uniques": [
+			"[+100]% weight to [Ritterbruder] for AI decisions"
+	]
   }
 ]
