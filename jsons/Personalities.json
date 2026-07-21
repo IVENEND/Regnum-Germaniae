@@ -1403,7 +1403,7 @@
 			"[-50]% weight to [Anti Cavalry] for AI decisions",
 			"[-50]% weight to [Mixed Gunpowder] for AI decisions",
 			"[+50]% weight to [Hajduk] for AI decisions",
-			"[+50]% weight to [Winged Hussar] for AI decisions",
+			"[+50]% weight to [Winged Hussar] for AI decisions"
 	]
   },
   {
@@ -1469,8 +1469,8 @@
       "Order": 4
     },
 	"uniques": [
-			"[+50]% weight to [Schwertbruder] for AI decisions"
-			"[-50]% weight to [Pikeman] for AI decisions"
+			"[+50]% weight to [Schwertbruder] for AI decisions",
+			"[-50]% weight to [Pikeman] for AI decisions",
 			"[+100]% weight to [Bischofsburg] for AI decisions"
 	]
   },
@@ -1505,7 +1505,7 @@
       "Order": 4
     },
 	"uniques": [
-			"[+100]% weight to [Needle Gunner] for AI decisions"
+			"[+100]% weight to [Needle Gunner] for AI decisions",
 			"[+50]% weight to [Grenadiergarde] for AI decisions"
 	]
   },
@@ -1540,7 +1540,70 @@
 	},
 	"uniques": [
 			"[+100]% weight to [Schwarze Reiter] for AI decisions",
-			"[+100]% weight to [Chevaulegers] for AI decisions",
+			"[+100]% weight to [Chevaulegers] for AI decisions"
+	]
+  },
+  {
+	"name": "Elector Maximilian I",
+	"production": 4, // Production Emphasis
+	"food": 6, // Growth
+	"gold": 9, // Gold Emphasis
+	"science": 7, // Science Emphasis
+	"culture": 6, // Culture Emphasis
+	"happiness": 7, // Happiness Emphasis
+	"faith": 4, // Religion Emphasis
+	"military": 8, // Offensive Unit Production
+	"aggressive": 2, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 8, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 9, // Expansion
+    "denounceWillingness": 6,
+	"priorities": {
+			"Tradition": 8, // Culture + Wonder
+			"Liberty": 4, // Expansion + TileImprovement
+			"Honor": 6, // Boldness + Likeliness to Declare War
+			"Commerce": 6, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 7, // Religion Emphasis + Protection of City-States
+			"Rationalism": 5, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	}
+  },
+  {
+	"name": "René II",
+	"production": 7, // Production Emphasis
+	"food": 7, // Growth
+	"gold": 4, // Gold Emphasis
+	"science": 6, // Science Emphasis
+	"culture": 8, // Culture Emphasis
+	"happiness": 5, // Happiness Emphasis
+	"faith": 4, // Religion Emphasis
+	"military": 6, // Offensive Unit Production
+	"aggressive": 7, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 4, // Diplobalance
+	"loyal": 4, // Loyalty
+	"expansion": 6, // Expansion
+    "denounceWillingness": 6,
+	"priorities": {
+			"Tradition": 7, // Culture + Wonder
+			"Liberty": 7, // Expansion + TileImprovement
+			"Honor": 5, // Boldness + Likeliness to Declare War
+			"Commerce": 7, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 5, // Religion Emphasis + Protection of City-States
+			"Rationalism": 7, // Science Emphasis + Spaceship
+			"Freedom": 8, // Happiness Emphasis + Growth
+			"Autocracy": 6, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+100]% weight to [Reisige Armbrustschützen] for AI decisions"
 	]
   }
 ]

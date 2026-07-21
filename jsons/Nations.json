@@ -1127,7 +1127,7 @@
 		"adjective": ["Bavarian"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Scientific",
-		"personality": "Gustavus Adolphus",
+		"personality": "Elector Maximilian I",
 
         "startIntroPart1": "God blesses you, Maximilian I of Bavaria. You were the calculating and devote Duke of the House of Wittelsbach putting Bavaria back in the Concerte of Europe after it being hold down after the Fall of Emperor Louis IV and inner dynastic struggles. It was the right time to rise House Wittelsbach up to greatness when the Reformation threatened to destroy Christianity in the german lands. You were the most devote and willing ally of the Emperor and made Bavaria the biggest catholic power within catholic states.",
         "startIntroPart2": "O' most piety Maximilian! The people are calling your name when praying for saviour of true faith and they thank the Virgin Mary for every of your deeds. Can you build a Civilization that stands the test of time?",
@@ -1442,7 +1442,7 @@
 		"adjective": ["Lorraine"],
         "startBias": ["Forest","Avoid [Coast]"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Otto von Bismarck",
+		"personality": "René II",
 
         "startIntroPart1": "We salute you, René II, most valiant of princes, Hercules of our times, who dared challenge the Lion to combat! You rule as Duke of Lorraine, the heir to the old kingdom of Lotharingia, a land both in France and in the Holy Roman Empire. Your duchy is a bountiful and fertile one, but even more so than that, a fiercely independent one. Lorraine was never conquered, only inherited. And what better symbol of Lorrainian resilience is there than you, great René? As a young duke, your domain was threatened by the powerful and ambitious Charles the Bold of Burgundy, who swept into your proud duchy with a seemingly insurmountable modern army. Unbowed and undeterred, you and your allies struck back against the Burgundians, routing their armies at the gates of Nancy and slaying Lorraine's would-be conqueror! Your heroic deeds will live on forever, in history and in poetry.",
         "startIntroPart2": "Valiant René, the people of Lorraine once more call out for a tenacious hand to see them through the tribulations that lie ahead. Will you once more defend your duchy, and bring it into a new age of prestige and prosperity? Will you build a civilization that can stand the test of time?",
