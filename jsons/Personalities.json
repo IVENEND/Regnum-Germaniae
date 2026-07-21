@@ -278,41 +278,6 @@
     ]
   },
   {
-    "name": "Boudicca",
-    "production": 5,
-    "food": 4,
-    "gold": 6,
-    "science": 7,
-    "culture": 7,
-    "happiness": 8,
-    "faith": 8,
-    "military": 6,
-    "aggressive": 7,
-    "declareWar": 6,
-    "commerce": 5,
-    "diplomacy": 4,
-    "loyal": 6,
-    "expansion": 5,
-    "denounceWillingness": 6,
-    "priorities": {
-      "Tradition": 7,
-      "Liberty": 5,
-      "Honor": 6,
-      "Commerce": 6,
-      "Patronage": 5,
-      "Piety": 8,
-      "Rationalism": 7,
-      "Freedom": 8,
-      "Autocracy": 6,
-      "Order": 6
-    },
-    "civilopediaText": [
-      {
-        "text": "The noble warrior fought with bravery and courage to gain the freedom of the Celtic people from the Roman subjugation, inspiring many others after her."
-      }
-    ]
-  },
-  {
     "name": "Casimir III",
     "production": 8,
     "food": 4,
@@ -460,7 +425,13 @@
       "Freedom": 5,
       "Autocracy": 4,
       "Order": 6
-    }
+    },
+	"uniques": [
+			"[+100]% weight to [Archery] for AI decisions",
+			"[-50]% weight to [Sword] for AI decisions",
+			"[-50]% weight to [Anti Cavalry] for AI decisions",
+			"[+50]% weight to [Redcoat] for AI decisions"
+	]
   },
   {
     "name": "Enrico Dandolo",
@@ -733,36 +704,6 @@
     }
   },
   {
-    "name": "Isabella",
-    "production": 5,
-    "food": 5,
-    "gold": 7,
-    "science": 3,
-    "culture": 5,
-    "happiness": 5,
-    "faith": 8,
-    "military": 5,
-    "aggressive": 6,
-    "declareWar": 6,
-    "commerce": 6,
-    "diplomacy": 3,
-    "loyal": 5,
-    "expansion": 7,
-    "denounceWillingness": 6,
-    "priorities": {
-      "Tradition": 5,
-      "Liberty": 7,
-      "Honor": 5,
-      "Commerce": 7,
-      "Patronage": 3,
-      "Piety": 8,
-      "Rationalism": 3,
-      "Freedom": 5,
-      "Autocracy": 5,
-      "Order": 4
-    }
-  },
-  {
     "name": "Kamehameha I",
     "production": 5,
     "food": 3,
@@ -790,36 +731,6 @@
       "Freedom": 7,
       "Autocracy": 5,
       "Order": 7
-    }
-  },
-  {
-    "name": "Maria Theresa",
-    "production": 5,
-    "food": 4,
-    "gold": 7,
-    "science": 5,
-    "culture": 5,
-    "happiness": 6,
-    "faith": 5,
-    "military": 4,
-    "aggressive": 5,
-    "declareWar": 5,
-    "commerce": 8,
-    "diplomacy": 5,
-    "loyal": 5,
-    "expansion": 7,
-    "denounceWillingness": 7,
-    "priorities": {
-      "Tradition": 5,
-      "Liberty": 7,
-      "Honor": 4,
-      "Commerce": 8,
-      "Patronage": 7,
-      "Piety": 5,
-      "Rationalism": 5,
-      "Freedom": 6,
-      "Autocracy": 4,
-      "Order": 5
     }
   },
   {
@@ -1741,6 +1652,108 @@
 	"uniques": [
 			"[+100]% weight to [Anti Cavalry] for AI decisions"
 			"[-75]% weight to [Shield Bearer] for AI decisions"
+	]
+  },
+  {
+    "name": "James VI",
+	"production": 4, // Production Emphasis
+	"food": 7, // Growth
+	"gold": 7, // Gold Emphasis
+	"science": 7, // Science Emphasis
+	"culture": 7, // Culture Emphasis
+	"happiness": 4, // Happiness Emphasis
+	"faith": 7, // Religion Emphasis
+	"military": 4, // Offensive Unit Production
+	"aggressive": 5, // Competitiveness
+	"declareWar": 4, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 4, // Expansion
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 8,
+      "Honor": 8,
+      "Commerce": 6,
+      "Patronage": 5,
+      "Piety": 7,
+      "Rationalism": 7,
+      "Freedom": 8,
+      "Autocracy": 6,
+      "Order": 6
+    },
+	"uniques": [
+			"[+100]% weight to [Sword] for AI decisions",
+			"[-50]% weight to [Mounted] for AI decisions",
+			"[-50]% weight to [Light Mounted] for AI decisions"
+	]
+  },
+  {
+    "name": "Ferdinand I",
+    "production": 5,
+    "food": 4,
+    "gold": 7,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 5,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 8,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 7,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 4,
+      "Commerce": 8,
+      "Patronage": 7,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 5
+    },
+	"uniques": [
+			"[+100]% weight to [Mixed Gunpowder] for AI decisions"
+	]
+  },
+  {
+    "name": "Isabella",
+    "production": 5,
+    "food": 5,
+    "gold": 7,
+    "science": 3,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 8,
+    "military": 5,
+    "aggressive": 6,
+    "declareWar": 6,
+    "commerce": 6,
+    "diplomacy": 3,
+    "loyal": 5,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 5,
+      "Commerce": 7,
+      "Patronage": 3,
+      "Piety": 8,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 4
+    },
+	"uniques": [
+			"[+75]% weight to [Shield Bearer] for AI decisions",
+			"[-75]% weight to [Two-handed Swordsman] for AI decisions"
 	]
   }
 ]
