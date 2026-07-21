@@ -1268,7 +1268,7 @@
 		"adjective": ["Swiss"],
 		"startBias": ["Hill","Avoid [Coast]"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Maria Theresa",
+		"personality": "Wilhelm Tell",
 
         "startIntroPart1": "Let the overtures tell of your great deeds, oh Wilhelm Tell, first Eidgenosse, folk legend, expert marksman, and he whose defiance and tyrannicide set the people of the old Swiss Confederacy free. The legends say you were born in Bürglen, Uri. Growing up to become a strong man, you grew to become disillusioned with the Habsburg emperors of Austria attempted domination of Uri and vowed to act. Becoming one of the conspirators of Werner Stauffacher, you resisted the Austrian Vogt of Altdorf, Albrecht Gessler. On your journey to the eventual assassination of Gessler, you partook in misadventures, including your famous splitting of the apple on your son’s head by a shot from your crossbow, your imprisonment, and escape from the Tellsplatte. Your assassination of Gessler led to a rebellion, which led to the formation of the Old Swiss Confederacy. Brave to the end, legend says you continued to fight the Austrians, and died trying to save a child from drowning. ",
         "startIntroPart2": "Oh Wilhelm Tell, your people once again crave the daring, bravery and strength. You must awaken from your cave at the Rigi. But beware, the world has changed; new challenges must be conquered, and if you are to live up to your legend, you must once again rise to fight those who would seek to destroy you. Can you live up to the expectations of your people? Can you build a civilization that will stand the test of time?",
@@ -1384,7 +1384,7 @@
 		"adjective": ["Hungarian"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Domination",
-		"personality": "Napoleon",
+		"personality": "Matthias Corvinus",
 
         "startIntroPart1": "Hail to you, O' noble Matthias Corvinus, King of Hungary and Croatia. Rising to the throne amidst the turmoil of Europe, you forged a mighty realm renowned for both its martial prowess and its dazzling intellect. Your legendary Black Army stood as an unyielding bulwark against the Ottoman advance and secured your conquests in Bohemia and Austria. Yet, you were not merely a conqueror; as a true champion of the Renaissance, your grand court at Buda and the magnificent Bibliotheca Corviniana attracted scholars and artists from across the known world, cementing Hungary's legacy as a beacon of culture and strength.",
         "startIntroPart2": "Mighty Matthias, your feats at arms are matched only by the depths of your knowledge. Let your mighty Black Army serve as your strong hand in the battlefield, both as sword against your enemies and as shield protecting your faithful people, and ages to come will utter your name in awe.",

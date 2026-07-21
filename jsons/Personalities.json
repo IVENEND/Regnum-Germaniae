@@ -1671,5 +1671,76 @@
 	"uniques": [
 			"[+100]% weight to [Ritterbruder] for AI decisions"
 	]
+  },
+  {
+    "name": "Matthias Corvinus",
+	"production": 5, // Production Emphasis
+	"food": 5, // Growth
+	"gold": 5, // Gold Emphasis
+	"science": 8, // Science Emphasis
+	"culture": 6, // Culture Emphasis
+	"happiness": 5, // Happiness Emphasis
+	"faith": 6, // Religion Emphasis
+	"military": 6, // Offensive Unit Production
+	"aggressive": 7, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 6, // Expansion
+    "denounceWillingness": 4,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 7,
+      "Honor": 8,
+      "Commerce": 4,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 6,
+      "Freedom": 6,
+      "Autocracy": 8,
+      "Order": 4
+    },
+	"uniques": [
+			"[+50]% weight to [Mounted] for AI decisions",
+			"[+100]% weight to [Light Mounted] for AI decisions",
+			"[+100]% weight to [Black Army] for AI decisions",
+			"[-100]% weight to [Shield Bearer] for AI decisions",
+			"[-50]% weight to [Anti Cavalry] for AI decisions"
+	]
+  },
+  {
+    "name": "Wilhelm Tell",
+	"production": 4, // Production Emphasis
+	"food": 6, // Growth
+	"gold": 7, // Gold Emphasis
+	"science": 7, // Science Emphasis
+	"culture": 6, // Culture Emphasis
+	"happiness": 7, // Happiness Emphasis
+	"faith": 4, // Religion Emphasis
+	"military": 5, // Offensive Unit Production
+	"aggressive": 2, // Competitiveness
+	"declareWar": 5, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 8, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 5, // Expansion
+    "denounceWillingness": 0,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 7,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety":4,
+      "Rationalism": 6,
+      "Freedom": 9,
+      "Autocracy": 4,
+      "Order": 4
+    },
+	"uniques": [
+			"[+100]% weight to [Anti Cavalry] for AI decisions"
+			"[-75]% weight to [Shield Bearer] for AI decisions"
+	]
   }
 ]
