@@ -1605,5 +1605,38 @@
 	"uniques": [
 			"[+100]% weight to [Reisige Armbrustschützen] for AI decisions"
 	]
+  },
+  {
+	"name": "Bogislaw X",
+	"production": 5, // Production Emphasis
+	"food": 7, // Growth
+	"gold": 6, // Gold Emphasis
+	"science": 6, // Science Emphasis
+	"culture": 5, // Culture Emphasis
+	"happiness": 5, // Happiness Emphasis
+	"faith": 5, // Religion Emphasis
+	"military": 7, // Offensive Unit Production
+	"aggressive": 6, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 8, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 4, // Loyalty
+	"expansion": 6, // Expansion
+    "denounceWillingness": 5,
+	"priorities": {
+      "Tradition": 4,
+      "Liberty": 6,
+      "Honor": 7,
+      "Commerce": 7,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 7,
+      "Order": 4
+	},
+	"uniques": [
+			"[+50]% weight to [Victual Brother] for AI decisions"
+	]
   }
 ]
