@@ -1154,7 +1154,7 @@
         "leaderName": "Frederick the Great",
         "adjective": ["Prussian"],
         "preferredVictoryType": "Domination",
-		"personality": "Genghis Khan",
+		"personality": "Frederick the Great",
 
         "startIntroPart1": "Honour to you, O' brilliant and tactful Frederick the Great. You are the King of Prussia, a state conceived in piety and bloodshed; elevated to the heights of power by her exceptional skill on the battlefield. Celebrated for your military genius and your enlightened ideals, your victories against Austria and Poland would be your defining legacy, ensuring for Prussia not only a place amongst the great powers of Europe but also amongst military minds to come.",
         "startIntroPart2": "Most enlightened King, Prussia's military glory once more awaits. Can you march her soldiers into battle and return triumphant against all manner of foe? Can you make Prussia a bastion of free and effective government? Can you build a civilization that will stand the test of time?",
@@ -1297,7 +1297,7 @@
 		"adjective": ["Saxon"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Isabella",
+		"personality": "Frederick Augustus I",
 
         "startIntroPart1": "Welcome, Frederick Augustus I, elector of Saxony. You lead one of the cultural centres of Europe. Saxony is a modest country, with a wealth of art and architecture to its name. Elector to the Holy Roman Empire, Saxony rose to prominence during the 16th century, as home to the Protestant Reformation. In the 17th century, you joined Saxony in union with the Commonwealth of Poland-Lithuania, and embarked upon great projects which would make Dresden the envy of artists the world over. Even today, the legacy of your endeavours persist, and Saxony remains one of the most culturally autonomous states in Germany.",
         "startIntroPart2": "Strong and noble king, the great halls of Dresden's Palaces thirst for culture and enlightenment. Can you fill your cities with great works and monuments? Can you defend her sovereign territory and usher in a new golden age? Can you build a civilization that can stand the test of time?",
@@ -1466,11 +1466,11 @@
     },
 	{
 		"name": "Livonia",
-		"leaderName": "Albert von Buxhoeveden",
+		"leaderName": "Albert of Riga",
 		"adjective": ["Livonian"],
 		"startBias":["Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Isabella",
+		"personality": "Albert of Riga",
 
         "startIntroPart1": "Albert of Buxhoeveden, God's blessing is with you and your ambitions. As the Livonian Chronicles are telling it to this day, you were the noble founder of Riga, once you called for a perpetual crusade against the heathens at the baltic shores to avenge your fallen brother in faith, who was Bishop before. But it was you o' brave Albert, who rose to Arch Bishop and even Prince-Bishop in the Reich with your glory that was in the conquest of the Land of Mary, founding Riga and securing it with the Order of the Sword Brethren.",
         "startIntroPart2": "Ambitious Albert of Riga the heathens are on the rise again, the fertile lands, tranquil waters and dark forrests are waiting for your Excellency. Can you build a civilization that can stand the test of time?",

@@ -1334,21 +1334,21 @@
   },
   {
     "name": "Vaclav II",
-    "production": 6,
-    "food": 7,
-    "gold": 6,
-    "science": 4,
-    "culture": 7,
-    "happiness": 7,
-    "faith": 8,
-    "military": 6,
-    "aggressive": 2,
-    "declareWar": 3,
-    "commerce": 4,
-    "diplomacy": 7,
-    "loyal": 7,
-    "expansion": 4,
-    "denounceWillingness": 5,
+	"production": 5, // Production Emphasis
+	"food": 8, // Growth
+	"gold": 7, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 5, // Culture Emphasis
+	"happiness": 5, // Happiness Emphasis
+	"faith": 7, // Religion Emphasis
+	"military": 5, // Offensive Unit Production
+	"aggressive": 4, // Competitiveness
+	"declareWar": 5, // Likeliness to Declare War
+	"commerce": 6, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 5, // Loyalty
+	"expansion": 5, // Expansion
+    "denounceWillingness": 6,
     "priorities": {
       "Tradition": 7,
       "Liberty": 4,
@@ -1415,11 +1415,11 @@
     "culture": 7,
     "happiness": 5,
     "faith": 10,
-    "military": 6,
-    "aggressive": 3,
+    "military": 9,
+    "aggressive": 2,
     "declareWar": 4,
     "commerce": 8,
-    "diplomacy": 7,
+    "diplomacy": 8,
     "loyal": 5,
     "expansion": 4,
     "denounceWillingness": 6,
@@ -1437,6 +1437,110 @@
     },
 	"uniques": [
 			"[+100]% weight to [Executioner] for AI decisions"
+	]
+  },
+  {
+    "name": "Albert of Riga",
+    "production": 4,
+    "food": 6,
+    "gold": 9,
+    "science": 7,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 9,
+    "military": 8,
+    "aggressive": 10,
+    "declareWar": 7,
+    "commerce": 5,
+    "diplomacy": 3,
+    "loyal": 4,
+    "expansion": 9,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 7,
+      "Honor": 6,
+      "Commerce": 4,
+      "Patronage": 6,
+      "Piety": 10,
+      "Rationalism": 2,
+      "Freedom": 6,
+      "Autocracy": 8,
+      "Order": 4
+    },
+	"uniques": [
+			"[+50]% weight to [Schwertbruder] for AI decisions"
+			"[-50]% weight to [Pikeman] for AI decisions"
+			"[+100]% weight to [Bischofsburg] for AI decisions"
+	]
+  },
+  {
+    "name": "Frederick the Great",
+	"preferredVictoryType": "Domination",
+    "production": 6,
+    "food": 6,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 4,
+    "military": 9,
+    "aggressive": 9,
+    "declareWar": 7,
+    "commerce": 5,
+    "diplomacy": 8,
+    "loyal": 8,
+    "expansion": 7,
+    "denounceWillingness": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 9,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Freedom": 7,
+      "Autocracy": 8,
+      "Order": 4
+    },
+	"uniques": [
+			"[+100]% weight to [Needle Gunner] for AI decisions"
+			"[+50]% weight to [Grenadiergarde] for AI decisions"
+	]
+  },
+  {
+	"name": "Frederick Augustus I",
+	"production": 6, // Production Emphasis
+	"food": 4, // Growth
+	"gold": 6, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 7, // Culture Emphasis
+	"happiness": 3, // Happiness Emphasis
+	"faith": 3, // Religion Emphasis
+	"military": 4, // Offensive Unit Production
+	"aggressive": 6, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 3, // Loyalty
+	"expansion": 2, // Expansion
+    "denounceWillingness": 3,
+	"priorities": {
+			"Tradition": 7, // Culture + Wonder
+			"Liberty": 7, // Expansion + TileImprovement
+			"Honor": 6, // Boldness + Likeliness to Declare War
+			"Commerce": 6, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 5, // Religion Emphasis + Protection of City-States
+			"Rationalism": 7, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+100]% weight to [Schwarze Reiter] for AI decisions",
+			"[+100]% weight to [Chevaulegers] for AI decisions",
 	]
   }
 ]
