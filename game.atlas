@@ -242,13 +242,6 @@ TileSets/HexaRealm/Units/Great War Infantry-Western-1
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great War-Mediterranean-1
-  rotate: false
-  xy: 76, 959
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Hajduk-1
   rotate: false
   xy: 76, 959
@@ -2041,13 +2034,6 @@ TileSets/HexaRealm/Units/Great War Infantry-Western-2
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Great War-Mediterranean-2
-  rotate: false
-  xy: 1948, 630
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Great War Infantry-Austro
   rotate: false
   xy: 1660, 618
@@ -2063,13 +2049,6 @@ TileSets/HexaRealm/Units/Great War Infantry-Mediterranean
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Infantry-Western
-  rotate: false
-  xy: 1732, 618
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Great War-Mediterranean
   rotate: false
   xy: 1804, 573
   size: 64, 56
