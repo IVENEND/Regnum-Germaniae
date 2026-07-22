@@ -1,6 +1,6 @@
-# [WIP] Regnum Germaniae
+#  Regnum Germaniae
 
-Regnum Germaniae is an "overhaul" ruleset mod focus on (but not limit to) history of germany and holy roman empire.
+Regnum Germaniae is an overhaul ruleset mod focused on (but not limited to) the history of Germany and the Holy Roman Empire.
 
 # Planned features
 
