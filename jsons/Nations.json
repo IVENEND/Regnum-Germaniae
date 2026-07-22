@@ -1097,7 +1097,7 @@
 		"adjective": ["Swabian"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Scientific",
-		"personality": "Napoleon",
+		"personality": "Otto von Bismarck",
 
 		"startIntroPart1": "Welcome, turbulent and unyielding Ulrich, Duke of Württemberg. Thrust into power at a young age, your reign was defined by fierce conflict and unshakeable resilience. Though debt, peasant rebellion, and the wrath of the Swabian League once forced you into exile, your spirit would not be broken. Reclaiming your throne by the edge of the sword, you introduced the Protestant Reformation to Württemberg, securing a profound religious and cultural legacy for your duchy despite the bitter controversies that plagued your rule.",
 		"startIntroPart2": "Defiant Duke, the people of Württemberg look to you for strength and salvation. Can you guide your realm through the fires of political turmoil and religious upheaval? Can you forge a lasting legacy of faith and power, ensuring your duchy is never again taken from you? Can you build a civilization that will stand the test of time?",
@@ -1183,7 +1183,7 @@
 		"adjective": ["Franconian"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Isabella",
+		"personality": "Julius Echter von Mespelbrunn",
 
 		"startIntroPart1": "Greetings to you, Julius Echter von Mespelbrunn, devoted Prince-Bishop of Würzburg. As a resolute pillar of the Holy Roman Empire, you guided your bishopric through a turbulent era of religious strife, standing as a fierce champion of the Counter-Reformation. Your legacy is not only one of unyielding spiritual fervor, but of magnificent creation. From the distinctive towering spires of your countless churches to the establishment of the great University and the Juliusspital, your tireless ambition transformed Würzburg into a true bastion of faith, education, and architectural splendor.",
 		"startIntroPart2": "Zealous shepherd of your flock, the grand halls of Marienberg Fortress await your divine mandate once more. Can you foster a realm of unrivaled devotion and enlightenment? Can you shield your lands from heresy and guide your people to salvation through faith and monumental works? Can you build a civilization that will stand the test of time?",
@@ -1211,7 +1211,7 @@
 		"adjective": ["Palatine"],
         "startBias": ["Forest","Avoid [Coast]"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Otto von Bismarck",
+		"personality": "Elector Frederick V",
 
         "startIntroPart1": "Honour to you, Elector Frederick V of the Palatinate. Thrust into the center of a great religious struggle, your realm of the Electoral Palatinate stood as a leading voice for the Protestant cause in the Holy Roman Empire. When the rebellious estates of Bohemia offered you their crown, your bold acceptance ignited the devastating Thirty Years' War. Though your reign in Prague was tragically brief, earning you the immortal moniker of the 'Winter King', your legacy as a champion of your faith and the visionary behind Heidelberg's magnificent gardens remains forever etched in the annals of European history.",
         "startIntroPart2": "Resolute Winter King, the time has come to secure a crown that will not melt away with the changing of the seasons. Can you protect the Palatinate from the ambitions of rival empires and guide your people through the bitter storms of war? Will your legacy be one of fleeting glory, or will you build a civilization that stands the test of time?",
@@ -1239,7 +1239,7 @@
 		"adjective": ["Hessen"],
         "startBias": ["Forest","Avoid [Coast]"],
 		"preferredVictoryType": "Domination",
-		"personality": "Otto von Bismarck",
+		"personality": "Philip I the Magnanimous",
 
         "startIntroPart1": "Hail to you, Philip the Magnanimous, Landgrave of Hesse and stalwart champion of the Protestant Reformation. Elevated by your unwavering conviction, you stood defiant against the might of the Holy Roman Emperor to protect the reformed faith. Through the Marburg Colloquy, you sought to unite the great theological minds of your age, and as a founding leader of the Schmalkaldic League, you forged a mighty alliance to defend the religious liberties of the German princes. Your legacy is one of fierce independence and religious zeal, forever etching Hesse into the annals of history.",
         "startIntroPart2": "Most magnanimous Landgrave, the faithful look to you once more for guidance and protection. Can you unite the fractured realms and stand strong against imperial tyranny? Can you ensure that the light of your reforms burns bright across the ages? Can you build a civilization that will stand the test of time?",
@@ -1355,7 +1355,7 @@
 		"adjective": ["Brunswick"],
         "startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Isabella",
+		"personality": "Otto von Bismarck",
 
 		"startIntroPart1": "Honour to you, Julius, Duke of Brunswick-Lüneburg and Prince of Wolfenbüttel. Though once destined for a quiet clerical life, you rose to rule and ushered in an era of unprecedented prosperity for your lands. By embracing the Reformation and establishing the grand University of Helmstedt, you brought great enlightenment to your people. A true visionary of the early modern era, your mercantilist pursuits in the Harz mountains filled the state's coffers with silver and copper, while your deep fascination with the cosmos earned you the moniker of the Astrologer Prince. Your grand library and sweeping reforms laid the foundation for a cultured and deeply formidable state.",
 		"startIntroPart2": "Astute Duke, the wealth of the Harz mountains and the wisdom of the Academia Julia lay at your disposal once more. Can you navigate the stars and fill your treasuries with the finest silver? Can you foster an enlightened realm where education, trade, and faith flourish in harmony? Can you build a civilization that will stand the test of time?",

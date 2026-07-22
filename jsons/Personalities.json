@@ -1462,7 +1462,7 @@
 	"science": 7, // Science Emphasis
 	"culture": 6, // Culture Emphasis
 	"happiness": 7, // Happiness Emphasis
-	"faith": 4, // Religion Emphasis
+	"faith": 5, // Religion Emphasis
 	"military": 8, // Offensive Unit Production
 	"aggressive": 2, // Competitiveness
 	"declareWar": 6, // Likeliness to Declare War
@@ -1650,8 +1650,10 @@
       "Order": 4
     },
 	"uniques": [
-			"[+100]% weight to [Anti Cavalry] for AI decisions"
-			"[-75]% weight to [Shield Bearer] for AI decisions"
+			"[+100]% weight to [Anti Cavalry] for AI decisions",
+			"[-75]% weight to [Shield Bearer] for AI decisions",
+			"[-50]% weight to [Mounted] for AI decisions"
+			"[-50]% weight to [Light Mounted] for AI decisions"
 	]
   },
   {
@@ -1711,7 +1713,7 @@
       "Liberty": 7,
       "Honor": 4,
       "Commerce": 8,
-      "Patronage": 7,
+      "Patronage": 9,
       "Piety": 5,
       "Rationalism": 5,
       "Freedom": 6,
@@ -1754,6 +1756,106 @@
 	"uniques": [
 			"[+75]% weight to [Shield Bearer] for AI decisions",
 			"[-75]% weight to [Two-handed Swordsman] for AI decisions"
+	]
+  },
+  {
+    "name": "Julius Echter von Mespelbrunn",
+	"production": 5, // Production Emphasis
+	"food": 5, // Growth
+	"gold": 5, // Gold Emphasis
+	"science": 6, // Science Emphasis
+	"culture": 7, // Culture Emphasis
+	"happiness": 6, // Happiness Emphasis
+	"faith": 8, // Religion Emphasis
+	"military": 6, // Offensive Unit Production
+	"aggressive": 5, // Competitiveness
+	"declareWar": 5, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 5, // Loyalty
+	"expansion": 5, // Expansion
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 2,
+      "Honor": 4,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 9,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 8
+    },
+	"uniques": [
+			"[+50]% weight to [Mounted] for AI decisions"
+	]
+  },
+  {
+	"name": "Elector Frederick V",
+	"production": 6, // Production Emphasis
+	"food": 7, // Growth
+	"gold": 8, // Gold Emphasis
+	"science": 8, // Science Emphasis
+	"culture": 6, // Culture Emphasis
+	"happiness": 6, // Happiness Emphasis
+	"faith": 5, // Religion Emphasis
+	"military": 5, // Offensive Unit Production
+	"aggressive": 6, // Competitiveness
+	"declareWar": 5, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 7, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 5, // Expansion
+    "denounceWillingness": 4,
+	"priorities": {
+			"Tradition": 8, // Culture + Wonder
+			"Liberty": 4, // Expansion + TileImprovement
+			"Honor": 5, // Boldness + Likeliness to Declare War
+			"Commerce": 6, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 5, // Religion Emphasis + Protection of City-States
+			"Rationalism": 8, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+25]% weight to [Rhenish Foot Knight] for AI decisions"
+	]
+  },
+  {
+	"name": "Philip I the Magnanimous",
+	"production": 5, // Production Emphasis
+	"food": 6, // Growth
+	"gold": 10, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 4, // Culture Emphasis
+	"happiness": 3, // Happiness Emphasis
+	"faith": 5, // Religion Emphasis
+	"military": 7, // Offensive Unit Production
+	"aggressive": 8, // Competitiveness
+	"declareWar": 7, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 9, // Diplobalance
+	"loyal": 2, // Loyalty
+	"expansion": 7, // Expansion
+    "denounceWillingness": 4,
+	"priorities": {
+			"Tradition": 6, // Culture + Wonder
+			"Liberty": 6, // Expansion + TileImprovement
+			"Honor": 8, // Boldness + Likeliness to Declare War
+			"Commerce": 8, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 6, // Religion Emphasis + Protection of City-States
+			"Rationalism": 6, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+50]% weight to [Hessian Grenadier] for AI decisions",
+			"[+50]% weight to [Hessian Jäger] for AI decisions"
 	]
   }
 ]
