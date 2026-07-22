@@ -1800,7 +1800,7 @@
 	"culture": 6, // Culture Emphasis
 	"happiness": 6, // Happiness Emphasis
 	"faith": 5, // Religion Emphasis
-	"military": 5, // Offensive Unit Production
+	"military": 6, // Offensive Unit Production
 	"aggressive": 6, // Competitiveness
 	"declareWar": 5, // Likeliness to Declare War
 	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
@@ -1821,7 +1821,7 @@
 			"Order": 7 // Production Emphasis
 	},
 	"uniques": [
-			"[+25]% weight to [Rhenish Foot Knight] for AI decisions"
+			"[+50]% weight to [Rhenish Foot Knight] for AI decisions"
 	]
   },
   {
@@ -1838,7 +1838,7 @@
 	"declareWar": 7, // Likeliness to Declare War
 	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
 	"diplomacy": 9, // Diplobalance
-	"loyal": 2, // Loyalty
+	"loyal": 4, // Loyalty
 	"expansion": 7, // Expansion
     "denounceWillingness": 4,
 	"priorities": {
@@ -1857,5 +1857,72 @@
 			"[+50]% weight to [Hessian Grenadier] for AI decisions",
 			"[+50]% weight to [Hessian Jäger] for AI decisions"
 	]
+  },
+  {
+	"name": "Ulrich von Württemberg",
+	"production": 6, // Production Emphasis
+	"food": 6, // Growth
+	"gold": 8, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 5, // Culture Emphasis
+	"happiness": 5, // Happiness Emphasis
+	"faith": 5, // Religion Emphasis
+	"military": 7, // Offensive Unit Production
+	"aggressive": 6, // Competitiveness
+	"declareWar": 7, // Likeliness to Declare War
+	"commerce": 6, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 2, // Loyalty
+	"expansion": 7, // Expansion
+    "denounceWillingness": 6,
+	"priorities": {
+			"Tradition": 6, // Culture + Wonder
+			"Liberty": 7, // Expansion + TileImprovement
+			"Honor": 8, // Boldness + Likeliness to Declare War
+			"Commerce": 8, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 5, // Religion Emphasis + Protection of City-States
+			"Rationalism": 6, // Science Emphasis + Spaceship
+			"Freedom": 7, // Happiness Emphasis + Growth
+			"Autocracy": 8, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+75]% weight to [Sword] for AI decisions",
+			"[+75]% weight to [Anti Cavalry] for AI decisions"
+			"[-75]% weight to [Archery] for AI decisions",
+			"[-50]% weight to [Ranged Gunpowder] for AI decisions",
+			"[-100]% weight to [Shield Bearer] for AI decisions"
+	]
+  },
+  {
+    "name": "Julius",
+    "production": 7,
+    "food": 5,
+    "gold": 5,
+    "science": 7,
+    "culture": 8,
+    "happiness": 5,
+    "faith": 3,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 7,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 7,
+      "Piety": 4,
+      "Rationalism": 9,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 7
+    }
   }
 ]
