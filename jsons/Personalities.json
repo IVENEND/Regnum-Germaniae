@@ -1924,5 +1924,42 @@
       "Autocracy": 5,
       "Order": 7
     }
+  },
+  {
+	"name": "Robert Blum",
+	"production": 8, // Production Emphasis
+	"food": 8, // Growth
+	"gold": 2, // Gold Emphasis
+	"science": 7, // Science Emphasis
+	"culture": 9, // Culture Emphasis
+	"happiness": 8, // Happiness Emphasis
+	"faith": 3, // Religion Emphasis
+	"military": 6, // Offensive Unit Production
+	"aggressive": 4, // Competitiveness
+	"declareWar": 7, // Likeliness to Declare War
+	"commerce": 7, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 6, // Diplobalance
+	"loyal": 8, // Loyalty
+	"expansion": 9, // Expansion
+    "denounceWillingness": 6,
+	"priorities": {
+      "Tradition": 2,
+      "Liberty": 9,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 2,
+      "Rationalism": 9,
+      "Freedom": 9,
+      "Autocracy": 1,
+      "Order": 1
+	},
+	"uniques": [
+			"[+75]% weight to [Sword] for AI decisions",
+			"[+75]% weight to [Anti Cavalry] for AI decisions"
+			"[-75]% weight to [Archery] for AI decisions",
+			"[-50]% weight to [Ranged Gunpowder] for AI decisions",
+			"[-100]% weight to [Shield Bearer] for AI decisions"
+	]
   }
 ]

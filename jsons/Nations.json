@@ -1594,7 +1594,7 @@
 		"leaderName": "Robert Blum",
 		"adjective": ["National Assembly"],
 		"preferredVictoryType": "Scientific",
-		"personality": "Otto von Bismarck",
+		"personality": "Robert Blum",
 
 		"startIntroPart1": "Stand tall, Robert Blum, unwavering voice of the people and martyr of the German Revolution. Rising from humble beginnings, you became a beacon of democratic ideals and a fierce advocate for a unified, free Germany. From the halls of the Frankfurt Parliament to the barricades of Vienna, you fought relentlessly against aristocratic oppression. Though your life was tragically cut short by the forces of reaction, your sacrifice ignited a fire in the hearts of your countrymen, securing your legacy as a true champion of liberty.",
 		"startIntroPart2": "Valiant statesman, the people cry out for a leader who will listen to their voice and break the chains of tyranny. Can you forge a nation where justice and democracy reign supreme? Can you guide your citizens to true freedom and equality? Can you build a civilization that will stand the test of time?",
@@ -1608,7 +1608,7 @@
 		"hateHello": "Make it brief. My time is better spent serving the people than entertaining tyrants.",
 		"tradeRequest": "Here is a mutual agreement that benefits both our peoples. I urge you to accept it."
 		"outerColor": [193, 127, 68],
-		"innerColor": [33, 28, 23],
+		"innerColor": [35, 30, 25],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "March Revolution",
 		"uniques": ["[+10]% Strength <for [{Military} {Land}] units> <when stacked with a [Settler] unit>", "[+10]% Strength <for [{Military} {Land}] units> <when stacked with a [Worker] unit>", "[+1 Gold, +1 Culture] from every specialist [in all non-occupied cities] <while the empire is happy>", "[+1 Science] from every specialist [in all non-occupied cities] <after discovering [Printing Press]> <while the empire is happy>"],
