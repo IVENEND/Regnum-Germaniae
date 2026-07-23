@@ -1889,7 +1889,7 @@
 	},
 	"uniques": [
 			"[+75]% weight to [Sword] for AI decisions",
-			"[+75]% weight to [Anti Cavalry] for AI decisions"
+			"[+75]% weight to [Anti Cavalry] for AI decisions",
 			"[-75]% weight to [Archery] for AI decisions",
 			"[-50]% weight to [Ranged Gunpowder] for AI decisions",
 			"[-100]% weight to [Shield Bearer] for AI decisions"
@@ -1955,6 +1955,14 @@
       "Order": 1
 	},
 	"uniques": [
+			"[+50]% weight to [Sword] for AI decisions",
+			"[+50]% weight to [Anti Cavalry] for AI decisions",
+			"[+50]% weight to [Mixed Gunpowder] for AI decisions",
+			"[+50]% weight to [Gunpowder] for AI decisions",
+			"[+50]% weight to [Ranged Gunpowder] for AI decisions",
+			"[-50]% weight to [Mounted] for AI decisions",
+			"[-50]% weight to [Light Mounted] for AI decisions",
+			"[-50]% weight to [Shield Bearer] for AI decisions",
 			"[+100]% weight to [Bürgerwehr] for AI decisions"
 	]
   }
