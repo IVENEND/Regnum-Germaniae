@@ -817,6 +817,16 @@
         "uniques": ["[-50]% enemy spy effectiveness [in this city] <when espionage is enabled>", "Removes extra unhappiness from annexed cities", "[-25]% Unhappiness from [Population] [in this city]"],
         "requiredTech": "Civil Service"
     },
+    {
+        "name": "Landtag",
+		"replaces": "Constabulary",
+		"uniqueTo": "National Assembly",
+        "cost": 160,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Only available <when espionage is enabled>", "[-25]% enemy spy effectiveness [in this city]","[+20]% Great Person generation [in this city] <in cities with a [World Wonder]>","[+1 Happiness] [in this city] <with a garrison> "],
+        "requiredTech": "Banking"
+    },
 	// will be introduced in BNW expansion pack
 //	{
 //		"name": "Hanse",

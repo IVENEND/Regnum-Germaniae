@@ -1589,6 +1589,37 @@
 			"Paderborn"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+	{
+		"name": "National Assembly",
+		"leaderName": "Robert Blum",
+		"adjective": ["National Assembly"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Otto von Bismarck",
+
+		"startIntroPart1": "Stand tall, Robert Blum, unwavering voice of the people and martyr of the German Revolution. Rising from humble beginnings, you became a beacon of democratic ideals and a fierce advocate for a unified, free Germany. From the halls of the Frankfurt Parliament to the barricades of Vienna, you fought relentlessly against aristocratic oppression. Though your life was tragically cut short by the forces of reaction, your sacrifice ignited a fire in the hearts of your countrymen, securing your legacy as a true champion of liberty.",
+		"startIntroPart2": "Valiant statesman, the people cry out for a leader who will listen to their voice and break the chains of tyranny. Can you forge a nation where justice and democracy reign supreme? Can you guide your citizens to true freedom and equality? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Tyranny leaves us no recourse but arms. The people will fight for their liberty!",
+		"attacked": "You march against the will of the people, and by the people, your forces shall be broken.",
+		"defeated": "I die for liberty, and my death will not be in vain. The spark of revolution cannot be extinguished so easily.",
+		"denounced": "The judgment of history will be far harsher on your actions than your words are on me.",
+		"introduction": "Welcome, friend. I am Robert Blum, servant of the people and delegate of the parliament. Let us speak of peace and progress.",
+		"neutralHello": "I am listening.",
+		"hateHello": "Make it brief. My time is better spent serving the people than entertaining tyrants.",
+		"tradeRequest": "Here is a mutual agreement that benefits both our peoples. I urge you to accept it."
+		"outerColor": [193, 127, 68],
+		"innerColor": [33, 28, 23],
+		"favoredReligion": "Lutheranism",
+		"uniqueName": "March Revolution",
+		"uniques": ["[+10]% Strength <for [{Military} {Land}] units> <when stacked with a [Settler] unit>", "[+10]% Strength <for [{Military} {Land}] units> <when stacked with a [Worker] unit>", "[+1 Gold, +1 Culture] from every specialist [in all non-occupied cities] <while the empire is happy>", "[+1 Science] from every specialist [in all non-occupied cities] <after discovering [Printing Press]> <while the empire is happy>"],
+		"cities": ["Frankfurt","Stuttgart","Heidelberg","Karlsruhe","Cologne","Berlin","Leipzig","Vienna","Kassel","Darmstadt",
+			"Wiesbaden","Ludwigshafen","Ulm","Mannheim","Heilbronn","Ludwigsburg","Tübingen","Lauchheim","Mürdingen","Gotha",
+			"Coburg","Oldenburg","Dresden","Tettnang","Hannover","Waren","Emden","Backnang","Nienburg","Meppen",
+			"Göttingen","Altenau","Leer","Lüneburg","Melsungen","Fulda","Weimar","Konigsberg","Kiel","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+        "spyNames": ["Carl Friedrich Wilhelm", "Maria", "Charlotte", "Georgine", "August", "Conrad", "Josef", "Hans", "Moritz", "Agla"]
+    },
 
 
 	// City-States sorted by cityStateType, name
@@ -1643,8 +1674,8 @@
 		"cities": ["Regensburg"]
 	},
 	{
-		"name": "Frankfurt",
-		"adjective": ["Frankfurt"],
+		"name": "Oldenburg",
+		"adjective": ["Oldenburg"],
 		"cityStateType": "Cultured", // Changed from Cultured to Religious in BNW
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1652,7 +1683,7 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 18, 202],
-		"cities": ["Frankfurt"]
+		"cities": ["Oldenburg"]
 	},
 	{
 		"name": "Dortmund",

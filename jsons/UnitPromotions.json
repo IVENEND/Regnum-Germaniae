@@ -756,6 +756,10 @@
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
 	{
+		"name": "[Bürgerwehr] ability",
+		"uniques": ["[+15]% Strength <in tiles adjacent to [{your} {City center}] tiles>","[+15]% Strength <when fighting in [{your} {City center}] tiles>"]
+	},
+	{
 		"name": "[Free Imperial Knight] ability",
 		"uniques": ["[+30]% Strength <vs [Mounted] units>"]
 	},
@@ -765,7 +769,7 @@
 	},
 	{
 		"name": "[Ducal Trabant] ability",
-		"uniques": ["[+50]% Strength <when fighting in [City center] tiles>","[+33]% Strength <when stacked with a [Great General] unit>"]
+		"uniques": ["[+50]% Strength <when fighting in [{your} {City center}] tiles>","[+33]% Strength <when stacked with a [Great General] unit>"]
 	},
 	{
 		"name": "[Grenadiergarde] ability",
