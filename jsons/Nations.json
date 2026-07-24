@@ -923,7 +923,7 @@
 
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Diplomatic Marriage",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns","Imperial Estate of the Holy Roman Empire"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns","[+1 Happiness] <in [Puppeted] cities>","Imperial Estate of the Holy Roman Empire"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
