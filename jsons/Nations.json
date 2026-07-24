@@ -1674,6 +1674,19 @@
 		"cities": ["Regensburg"]
 	},
 	{
+		"name": "Frankfurt",
+		"adjective": ["Frankfurt"],
+		"cityStateType": "Cultured", // Changed from Cultured to Religious in BNW
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [186, 18, 202],
+		"cities": ["Frankfurt"]
+		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+	{
 		"name": "Oldenburg",
 		"adjective": ["Oldenburg"],
 		"cityStateType": "Cultured", // Changed from Cultured to Religious in BNW
@@ -1712,7 +1725,7 @@
 	},
 	{
 		"name": "Friedberg",
-		"adjective": ["Pfullendorf"],
+		"adjective": ["Friedberg"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
