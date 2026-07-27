@@ -940,6 +940,21 @@
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},	
+	{
+		"name": "Cog",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "Hanseatic League",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ship of the Line",
+		"obsoleteTech": "Warships",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Turtle Ship",

@@ -1968,30 +1968,30 @@
   },
   {
     "name": "Jürgen Wullenwever",
-    "production": 5,
-    "food": 4,
-    "gold": 7,
-    "science": 5,
-    "culture": 5,
-    "happiness": 6,
-    "faith": 5,
-    "military": 6,
-    "aggressive": 5,
-    "declareWar": 5,
-    "commerce": 8,
-    "diplomacy": 5,
-    "loyal": 5,
-    "expansion": 7,
-    "denounceWillingness": 7,
+	"production": 6, // Production Emphasis
+	"food": 4, // Growth
+	"gold": 8, // Gold Emphasis
+	"science": 4, // Science Emphasis
+	"culture": 7, // Culture Emphasis
+	"happiness": 3, // Happiness Emphasis
+	"faith": 3, // Religion Emphasis
+	"military": 5, // Offensive Unit Production
+	"aggressive": 6, // Competitiveness
+	"declareWar": 2, // Likeliness to Declare War
+	"commerce": 8, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 3, // Loyalty
+	"expansion": 2, // Expansion
+    "denounceWillingness": 3,
     "priorities": {
-      "Tradition": 5,
-      "Liberty": 7,
+      "Tradition": 8,
+      "Liberty": 2,
       "Honor": 4,
       "Commerce": 8,
       "Patronage": 9,
-      "Piety": 5,
+      "Piety": 2,
       "Rationalism": 5,
-      "Freedom": 6,
+      "Freedom": 7,
       "Autocracy": 4,
       "Order": 5
     },

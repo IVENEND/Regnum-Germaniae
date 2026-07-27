@@ -81,7 +81,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 
 # Credits:
 * GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
-* RobLoach: Code of Poland and its UU, Personality. (From his Civ-V-Brave-New-World mod).
+* RobLoach: Code of Poland and its UU, Personality. Part of code of Hanseatic League. Icon of Cog (From his Civ-V-Brave-New-World mod).
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
 * JFD: author of following Civ 5 mods: The Papal States (Julius II), Denmark-Norway (Christian IV), Flanders (Robert III), Genoa (Simone Boccanegra), Bohemia (Vaclav II), Milan (Gian Galeazzo), Scotland (James VI), Malta (Jean Valette), Burgundy (Philip III), Prussia (Frederick II), Saxony (Frederick Augustus I). For texts.
 * Pouakai: author of Civ 5 mod "Enlightenment Era", for the design and quotes of Enlightenment Era techs, units and buildings.
