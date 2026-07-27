@@ -81,7 +81,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 
 # Credits:
 * GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
-* RobLoach: Code of Poland and its UU, Personality. Part of code of Hanseatic League. Icon of Cog (From his Civ-V-Brave-New-World mod).
+* RobLoach: Code of Poland and its UU, Personality. Part of code of Hanseatic League (From his Civ-V-Brave-New-World mod).
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
 * JFD: author of following Civ 5 mods: The Papal States (Julius II), Denmark-Norway (Christian IV), Flanders (Robert III), Genoa (Simone Boccanegra), Bohemia (Vaclav II), Milan (Gian Galeazzo), Scotland (James VI), Malta (Jean Valette), Burgundy (Philip III), Prussia (Frederick II), Saxony (Frederick Augustus I). For texts.
 * Pouakai: author of Civ 5 mod "Enlightenment Era", for the design and quotes of Enlightenment Era techs, units and buildings.
@@ -89,4 +89,4 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 * Alga: author of Civ 5 mod "[BNW] Agla's and TranquilSilence's Duchy of Bavaria", "Agla's The Swiss", [BNW] Agla's Livonia, for the texts of Bavaria, Livonia and Swiss, idea of Livonia.
 * FeldMarschalBlinzurg: Austria icon
 * Pjokolom: Wagenburg, Flailman, Galleon sprite
-* Firza Alamsyah, Marco Livolsi, IconMark, bis kim, Amethyst Studio, ProSymbols,Vectorstal, Adrien Coquet, BnB Studio, Anna Weiss, Brickclay, Linseed Studio, A184, Ary Prasetyo, Chiara Claus, Andy Horvath, Mia Elysia, Phạm Thanh Lộc, Muhammad Atiq, Vectors Market, Lewen Design, Cuan Studio, Izwar Muis, Singlar, Maxicons, Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine, Tetiana Mykhailyk, Adinda: icons
+* Smashicons, Firza Alamsyah, Marco Livolsi, IconMark, bis kim, Amethyst Studio, ProSymbols,Vectorstal, Adrien Coquet, BnB Studio, Anna Weiss, Brickclay, Linseed Studio, A184, Ary Prasetyo, Chiara Claus, Andy Horvath, Mia Elysia, Phạm Thanh Lộc, Muhammad Atiq, Vectors Market, Lewen Design, Cuan Studio, Izwar Muis, Singlar, Maxicons, Ishaq_hmad, Smalllike, jabbar, Gregor Cresnar, HIMMATUL ULIYAH, M. Oki Orlandom, Ar2ar, Circlon Tech, Cédric Villain, aqqinqin, Rahmat Sigit Prasetyo, Kamila Lejman, Arkinasi, Resa Valen, Stephen Plaster, Leif Michelsen, nine, Tetiana Mykhailyk, Adinda: icons
