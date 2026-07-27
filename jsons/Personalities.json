@@ -1997,8 +1997,8 @@
     },
 	"uniques": [
 			"[-75]% weight to [Anti Cavalry] for AI decisions"
-			"[-75]% weight to [Cavalry] for AI decisions"
-			"[-75]% weight to [Light Cavalry] for AI decisions"
+			"[-75]% weight to [Mounted] for AI decisions"
+			"[-75]% weight to [Light Mounted] for AI decisions"
 			"[+75]% weight to [Gunpowder] for AI decisions"
 			"[+75]% weight to [Ranged Gunpowder] for AI decisions"
 			"[+75]% weight to [Archery] for AI decisions"
