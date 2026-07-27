@@ -1620,6 +1620,43 @@
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
         "spyNames": ["Carl Friedrich Wilhelm", "Maria", "Charlotte", "Georgine", "August", "Conrad", "Josef", "Hans", "Moritz", "Agla"]
     },
+	{
+		"name": "Hanseatic League",
+		"leaderName": "Jürgen Wullenwever",
+		"adjective": ["Hanseatic"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Jürgen Wullenwever",
+
+        "startIntroPart1": "Honour and Credibility, Jürgen Wullenwever, Mayor of Lübeck and Leader of the mighty Hanseatic League. When you rose to power to secure the rights of the rising bourgeois class in the free northern cities in Germany, during the Age of Reformation, the Golden Age of Trade within the Baltics are already on its downfall. But It were you trying to rekindle the wind in the sails of the hanseatic cogs to remember the olden days when it dominated not only the Baltics, but also the North Sea in trade from London to Novgorod, from Oslo to Venice. In the end you lost the initiated Counts Feud, but your name still lives on in the rank of a folk hero.",
+        "startIntroPart2": "Brave Jürgen Wullenwever, the folk is electing you again as the Mayor of Lübeck to bring back once held glory. Will you seek out best trade agreements and lucrative opportunities once again? Will you build a civilization that can stand the test of time?",
+
+        "declaringWar": "It is plain to see that you have no appreciation for the arts. Perhaps you will have an appreciation for war instead.",
+        "attacked": "Once I have repelled your forces, I shall come to your palace and personally toss you from the window.",
+		"defeated": "At least I tried to keep the winds in our sails.",
+        "denounced": "Your words are as hollow as your honor. The Empire shall not easily forget this insult.",
+        "introduction": "Greetings and welcome, I am Mayor Jürgen Wullenwever. Care to share some beer while discussing future trade deals? ",
+		"neutralHello": "Hm?",
+		"hateHello": "You are such a bore...",
+        "tradeRequest": "It would be in your best interest, to carefully consider this proposal."
+
+        "outerColor": [227,217,209],
+        "innerColor": [152,42,29],
+
+		"favoredReligion": "Lutheranism",
+		"uniqueName": "Ere und Gelove",
+		"uniques": [
+		    "[-50]% maintenance cost for [All] buildings [in capital]",
+			"Cannot build [Settler] units",
+			"May not annex cities",
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [2] turns",
+			"May buy items in puppet cities",
+			"[+3 Gold] from each Trade Route",
+			"Imperial Estate of the Holy Roman Empire"
+		],
+		"cities": ["Lübeck"],
+        "spyNames": ["Hermann", "Johann", "Friederike", "Henriette", "Wilhelmine", "Störtebeker", "Anna", "Fredericka", "Augusta", "Maria Anna"]
+    },
 
 
 	// City-States sorted by cityStateType, name
@@ -1798,6 +1835,20 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [113, 227, 114],
 		"cities": ["Lübeck"]
+		"uniques": ["Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+	{
+		"name": "Rostock",
+		"adjective": ["Rostock"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [113, 227, 114],
+		"cities": ["Rostock"]
 	},
 	{
 		"name": "Mogadishu", // Introduced in BNW
@@ -1816,6 +1867,7 @@
 		"name": "Hamburg",
 		"adjective": ["Hamburg"],
 		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1828,6 +1880,7 @@
 		"name": "Bremen",
 		"adjective": ["Bremen"],
 		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1855,6 +1908,7 @@
 		"style": "Western",
 		"adjective": ["Visby"],
 		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",

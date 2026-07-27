@@ -187,4 +187,19 @@
             "Unavailable <if tutorial [See your stats breakdown] is completed>"
         ]
     },
+	// Hanseatic League: Transform Settler units into Workers
+	{
+		"name": "Ere und Gelove",
+		"text": "Ere und Gelove",
+		"presentation": "None",
+		"choices": [
+			{
+				"text": "Ere und Gelove",
+				"uniques": [
+					"[This Unit] is destroyed",
+					"Free [Worker] appears"
+				]
+			}
+		]
+	}
 ]

@@ -17,8 +17,16 @@
 		"movement": 2,
 		"cost": 106,
 		"requiredTech": "Agriculture",
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+		"uniques": [
+			"Comment [Founds a new city]",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population",
+
+			// Venice Unique: Can't settle another city. Get a Worker instead?
+			"Founds a new city <by consuming this unit> <for [Hanseatic League] Civilizations> <if [Palace] is not constructed> <hidden from users>",
+			"Founds a new city <by consuming this unit> <for [non-[Hanseatic League]] Civilizations> <hidden from users>",
+			"Triggers a [Ere und Gelove] event <for [Hanseatic League] Civilizations> <if [Palace] is constructed> <upon turn end> <hidden from users>"
+		],
 		"hurryCostModifier": 20
 	},
 	{
@@ -967,7 +975,7 @@
 		"movement": 2,
 		"strength": 21,
 		"cost": 130,
-		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","Unavailable <for [Hungary] Civilizations>"],
+		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","Unavailable <for [Hungary] Civilizations>","Unavailable <for [Hanseatic League] Civilizations>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
@@ -982,7 +990,7 @@
 		"movement": 3,
 		"strength": 21,
 		"cost": 130,
-		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","[+15]% Strength bonus for [Mixed Gunpowder] units within [1] tiles <when defending>","Unavailable <for [Hungary] Civilizations>"],
+		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","[+15]% Strength bonus for [Mixed Gunpowder] units within [1] tiles <when defending>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
@@ -999,6 +1007,21 @@
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Freischütze",
+		"unitType": "Gunpowder",
+		"replaces": "Two-handed Swordsman",
+		"uniqueTo": "Hanseatic League",
+		"movement": 2,
+		"strength": 22,
+		"cost": 140,
+		"uniques": ["[+30]% Strength bonus for [Ranged Gunpowder] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","[-50]% maintenance costs","Unavailable <for [Hungary] Civilizations>"],
+		"requiredTech": "Heavy Edged Weapons",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
