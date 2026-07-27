@@ -1646,12 +1646,12 @@
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "Ere und Gelove",
 		"uniques": [
-		    "[-50]% maintenance cost for [All] buildings [in capital]",
+		    "[-75]% maintenance cost for [All] buildings [in capital]",
 			"Cannot build [Settler] units",
 			"May not annex cities",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [2] turns",
 			"May buy items in puppet cities",
-			"[+3 Gold] from each Trade Route",
+			"[+5 Gold] from each Trade Route",
 			"Imperial Estate of the Holy Roman Empire"
 		],
 		"cities": ["Lübeck"],
