@@ -90,126 +90,126 @@ BuildingIcons/Fischerteppichknüpferei
   index: -1
 BuildingIcons/Gunsmith
   rotate: false
-  xy: 1804, 1672
+  xy: 1648, 1348
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Humboldt-Universität
   rotate: false
-  xy: 1756, 1240
+  xy: 1648, 1240
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kaiserpfalz
   rotate: false
-  xy: 1222, 280
+  xy: 1114, 340
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kaserne
   rotate: false
-  xy: 1114, 232
+  xy: 1222, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kronborg
   rotate: false
-  xy: 1330, 496
+  xy: 1222, 172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Landtag
   rotate: false
-  xy: 1330, 388
+  xy: 1330, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lothringerhaus
   rotate: false
-  xy: 1708, 1132
+  xy: 1600, 976
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manor
   rotate: false
-  xy: 1816, 1132
+  xy: 1708, 1024
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Menagerie
   rotate: false
-  xy: 1708, 916
+  xy: 1816, 1024
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ordensburg
   rotate: false
-  xy: 1864, 1240
+  xy: 1864, 1348
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Perpetual Imperial Diet
   rotate: false
-  xy: 1336, 808
+  xy: 1924, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rathaus
   rotate: false
-  xy: 1768, 808
+  xy: 1660, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reichsstädtekollegium
   rotate: false
-  xy: 1438, 436
+  xy: 1438, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salon
   rotate: false
-  xy: 1654, 544
+  xy: 1546, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tavern
   rotate: false
-  xy: 1192, 64
+  xy: 1084, 16
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Topkapi Palace
   rotate: false
-  xy: 1732, 4
+  xy: 1624, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Torre Del Oro
   rotate: false
-  xy: 1762, 544
+  xy: 1732, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Weigh House
   rotate: false
-  xy: 1870, 268
+  xy: 1870, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -510,26 +510,33 @@ NationIcons/Franconia
   index: -1
 NationIcons/Hanseatic League
   rotate: false
-  xy: 1756, 1456
+  xy: 1804, 1564
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hesse
   rotate: false
-  xy: 1120, 604
+  xy: 1756, 1348
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hungary
   rotate: false
-  xy: 760, 232
+  xy: 1756, 1240
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Livonia
+  rotate: false
+  xy: 1330, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Lorraine
   rotate: false
   xy: 1330, 172
   size: 100, 100
@@ -542,64 +549,64 @@ NationIcons/Lorraine
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-NationIcons/Lorraine
-  rotate: false
-  xy: 1600, 976
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
   index: 2
 NationIcons/National Assembly
   rotate: false
-  xy: 868, 64
+  xy: 1816, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Palatinate
   rotate: false
-  xy: 1924, 1024
+  xy: 1924, 1132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Poland
   rotate: false
-  xy: 1552, 868
+  xy: 1444, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Pomerania
   rotate: false
-  xy: 1552, 760
+  xy: 1552, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Prussia
   rotate: false
-  xy: 1444, 652
+  xy: 1552, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Saxony
   rotate: false
-  xy: 1654, 436
+  xy: 1654, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Scotland
   rotate: false
-  xy: 1654, 112
+  xy: 1654, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Spain
+  rotate: false
+  xy: 1654, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Swabia
   rotate: false
   xy: 1768, 700
   size: 100, 100
@@ -612,45 +619,38 @@ NationIcons/Swabia
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-NationIcons/Swabia
-  rotate: false
-  xy: 976, 64
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
   index: 2
 NationIcons/Sweden
   rotate: false
-  xy: 1084, 124
+  xy: 976, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Switzerland
   rotate: false
-  xy: 1084, 16
+  xy: 1084, 124
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Teutonic Order
   rotate: false
-  xy: 1516, 4
+  xy: 1408, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Netherlands
   rotate: false
-  xy: 1624, 4
+  xy: 1516, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Westphalia
   rotate: false
-  xy: 1870, 160
+  xy: 1870, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -720,63 +720,63 @@ ReligionIcons/Eastern Orthodoxy
   index: -1
 ReligionIcons/Hussitism
   rotate: false
-  xy: 760, 16
+  xy: 760, 124
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Lutheranism
   rotate: false
-  xy: 1708, 1024
+  xy: 1708, 1132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Methodism
   rotate: false
-  xy: 1816, 916
+  xy: 1708, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Nestorianism
   rotate: false
-  xy: 1912, 1504
+  xy: 1912, 1612
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Oriental Orthodoxy
   rotate: false
-  xy: 1924, 1132
+  xy: 1864, 1240
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Puritanism
   rotate: false
-  xy: 1552, 652
+  xy: 1444, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Quakerism
   rotate: false
-  xy: 1660, 808
+  xy: 1552, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Unitarianism
   rotate: false
-  xy: 1762, 220
+  xy: 1762, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Valentinianism
   rotate: false
-  xy: 1762, 112
+  xy: 1762, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -825,70 +825,70 @@ TechIcons/Flintlock
   index: -1
 TechIcons/Heavy Edged Weapons
   rotate: false
-  xy: 1756, 1348
+  xy: 1756, 1456
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Humanism
   rotate: false
-  xy: 1648, 1240
+  xy: 1492, 976
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Imperialism
   rotate: false
-  xy: 1222, 388
+  xy: 1222, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Manufacturing
   rotate: false
-  xy: 1816, 1024
+  xy: 1816, 1132
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Natural History
   rotate: false
-  xy: 1912, 1720
+  xy: 868, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Pike and Shot Tactic
   rotate: false
-  xy: 1444, 760
+  xy: 1444, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Romanticism
   rotate: false
-  xy: 1438, 112
+  xy: 1546, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Tech.Gunpowder
   rotate: false
-  xy: 1300, 64
+  xy: 1192, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Tech.Sovereignty
   rotate: false
-  xy: 1408, 4
+  xy: 1300, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Warships
   rotate: false
-  xy: 1870, 376
+  xy: 1870, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1047,16 +1047,16 @@ UnitIcons/Grenadiergarde
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Grenadiergarde
+UnitIcons/Hajduk
   rotate: false
-  xy: 1648, 1348
+  xy: 1804, 1672
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: 2
-UnitIcons/Hajduk
+  index: -1
+UnitIcons/Hessian Grenadier
   rotate: false
-  xy: 1804, 1564
+  xy: 1120, 604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1067,171 +1067,164 @@ UnitIcons/Hessian Grenadier
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
-UnitIcons/Hessian Grenadier
-  rotate: false
-  xy: 1384, 976
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
   index: 2
 UnitIcons/Hessian Jäger
   rotate: false
-  xy: 1492, 976
+  xy: 1384, 976
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hussar
   rotate: false
-  xy: 760, 124
+  xy: 760, 232
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Huszár
   rotate: false
-  xy: 1114, 448
+  xy: 760, 16
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Imperial Tercio
   rotate: false
-  xy: 1222, 496
+  xy: 1114, 448
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Infantry
   rotate: false
-  xy: 1114, 340
+  xy: 1222, 388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Knight
   rotate: false
-  xy: 1222, 172
+  xy: 1114, 232
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Line Infantry
   rotate: false
-  xy: 1330, 280
+  xy: 1330, 388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Needle Gunner
   rotate: false
-  xy: 1912, 1612
+  xy: 1912, 1720
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Old Guard
   rotate: false
-  xy: 1864, 1348
+  xy: 1912, 1504
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pavisier
   rotate: false
-  xy: 1924, 916
+  xy: 1924, 1024
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Petronel
   rotate: false
-  xy: 1336, 700
+  xy: 1336, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pike and Shot
   rotate: false
-  xy: 1444, 868
+  xy: 1336, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Redcoat
   rotate: false
-  xy: 1876, 808
+  xy: 1768, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reichsarmee Cuirassier
   rotate: false
-  xy: 1438, 544
+  xy: 1876, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reisige Armbrustschützen
   rotate: false
-  xy: 1546, 544
+  xy: 1438, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reisläufer
   rotate: false
-  xy: 1438, 328
+  xy: 1546, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reiter
   rotate: false
-  xy: 1546, 436
+  xy: 1438, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rhenish Foot Knight
   rotate: false
-  xy: 1438, 220
+  xy: 1546, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ritterbruder
   rotate: false
-  xy: 1546, 328
+  xy: 1438, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rodeleros
   rotate: false
-  xy: 1546, 220
+  xy: 1546, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rondartschier
   rotate: false
-  xy: 1546, 112
+  xy: 1438, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schwarze Reiter
   rotate: false
-  xy: 1654, 328
+  xy: 1654, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Schwertbruder
   rotate: false
-  xy: 1654, 220
+  xy: 1654, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1245,35 +1238,35 @@ UnitIcons/Skirmisher
   index: -1
 UnitIcons/Two-handed Swordsman
   rotate: false
-  xy: 1762, 436
+  xy: 1762, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Unit.Bombard
   rotate: false
-  xy: 1762, 328
+  xy: 1762, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Victual Brother
   rotate: false
-  xy: 1870, 592
+  xy: 1762, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wagenburg
   rotate: false
-  xy: 1870, 484
+  xy: 1870, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Winged Hussar
   rotate: false
-  xy: 1870, 52
+  xy: 1870, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
