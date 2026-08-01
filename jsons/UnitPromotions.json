@@ -141,13 +141,19 @@
         "row": 2
 	},
 	{
-		"name": "Sapper", 
+		"name": "Besiege", // Not called "Siege" in order to not conflict with siege type units for translations
 		"prerequisites": ["Shock II","Drill II"],
-		"uniques": ["[+50]% Strength <vs cities>",
-		           "Only available <starting from the [Renaissance era]>"],
+		"uniques": ["[+50]% Strength <vs cities>"],
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder"],
         "column": 6,
         "row": 3
+	},
+	{
+		"name": "Sapper", 
+		"prerequisites": ["Shock II","Drill II"],
+		"uniques": ["[+15]% Strength <when fighting in [Fort] tiles>","[+15]% Strength <when fighting in [City center] tiles>","[+15]% Strength <when fighting in [Citadel] tiles>",
+		"Only available <starting from the [Renaissance era]>"],
+		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder"],
 	},
 	{
 		"name": "Flamethrower", 
@@ -636,7 +642,8 @@
 
 	{
 		"name": "Ambush I",
-		"uniques": ["[+33]% Strength <vs [Armored] units>", "[-100]% weight to this choice for AI decisions"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>",
+		           "Only available <starting from the [Modern era]>"],
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder","Fighter","Bomber"],
         "column": 25,
         "row": 1
@@ -644,7 +651,8 @@
 	{
 		"name": "Ambush II",
 		"prerequisites": ["Ambush I"],
-		"uniques": ["[+33]% Strength <vs [Armored] units>"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>",
+		           "Only available <starting from the [Modern era]>"],
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder","Fighter","Bomber"],
         "column": 25,
         "row": 2
