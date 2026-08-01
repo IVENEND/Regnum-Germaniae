@@ -142,7 +142,7 @@
 	},
 	{
 		"name": "Besiege", // Not called "Siege" in order to not conflict with siege type units for translations
-		"prerequisites": ["Shock II","Drill II"],
+		"prerequisites": ["Shock II","Drill II","Sapper"],
 		"uniques": ["[+50]% Strength <vs cities>"],
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder"],
         "column": 6,
@@ -150,7 +150,7 @@
 	},
 	{
 		"name": "Sapper", 
-		"prerequisites": ["Shock II","Drill II"],
+		"prerequisites": ["Shock I","Drill I"],
 		"uniques": ["[+15]% Strength <when fighting in [Fort] tiles>","[+15]% Strength <when fighting in [City center] tiles>","[+15]% Strength <when fighting in [Citadel] tiles>",
 		"Only available <starting from the [Renaissance era]>"],
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Mixed Gunpowder","Grenadier Gunpowder"],
