@@ -594,7 +594,10 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <when adjacent to a [Reisläufer] unit> <after discovering [Heavy Edged Weapons]>", "Can move immediately once bought" ],
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Reisläufer_pedia", "imageSize": 256}
+		]
 		//"Requires [Mercenary Army]" in BNW
 	},
 	{
@@ -925,7 +928,10 @@
 		"requiredResource": "Iron",
 		"promotions": ["Great Generals I"],
 		"uniques": ["Can move immediately once bought"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Black Army_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Samurai",
@@ -1694,7 +1700,10 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["[Bürgerwehr] ability"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Bürgerwehr_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Redcoat",
@@ -2399,7 +2408,10 @@
 			"[+1] Sight", "Only available <when religion is enabled>", "Religious Unit"
 		],
 		"movement": 3
-		"religiousStrength": 500
+		"religiousStrength": 500,
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Executioner_pedia", "imageSize": 256}
+		]
 	},
 
 	/* Spaceship Parts */
