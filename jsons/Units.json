@@ -1420,8 +1420,8 @@
 		"promotions": ["[Grenadiergarde] ability"],
 		"requiredTech": "Flintlock",
 		"requiredResource": "Iron",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
 	{
