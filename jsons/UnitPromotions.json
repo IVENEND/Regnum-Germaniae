@@ -156,6 +156,13 @@
 		"unitTypes": ["Sword","Anti Cavalry","Shield Bearer","Gunpowder","Ranged Gunpowder","Mixed Gunpowder","Grenadier Gunpowder"],
 	},
 	{
+		"name": "Forlorn Hope", 
+		"prerequisites": ["Shock II","Drill II"],
+		"uniques": ["[+30]% Strength <when attacking>","[-15]% Strength <when defending>",
+		"Only available <starting from the [Classical era]>"],
+		"unitTypes": ["Sword","Shield Bearer","Gunpowder","Grenadier Gunpowder"],
+	},
+	{
 		"name": "Flamethrower", 
 		"prerequisites": ["Shock II","Drill II"],
 		"uniques": ["[+25]% Strength <vs [{non-[Armored]} {non-[Siege]} {non-[Helicopter]} {Land}] units>",
