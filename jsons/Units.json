@@ -1066,8 +1066,8 @@
 		"uniques": ["[+20]% Strength bonus for [Anti Cavalry] units within [1] tiles","[+10]% Strength bonus for [Mixed Gunpowder] units within [1] tiles","Unavailable <for [Hungary] Civilizations>"],
 		"promotions": ["[Ducal Trabant] ability"],
 		"requiredTech": "Heavy Edged Weapons",
-		"upgradesTo": "Grenadier",
-		"obsoleteTech": "Flintlock",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
