@@ -162,7 +162,8 @@
 		"Only available <starting from the [Classical era]>",
 		"Unavailable <for [Anti-Aircraft Gun] units>",
 		"Unavailable <for [Mobile SAM] units>",
-		"Unavailable <for [Anti-Tank Gun] units>"],
+		"Unavailable <for [Anti-Tank Gun] units>",
+		"Unavailable <for [Wagenburg] units>"],
 		"unitTypes": ["Sword","Shield Bearer","Gunpowder","Grenadier Gunpowder"],
 	},
 	{
