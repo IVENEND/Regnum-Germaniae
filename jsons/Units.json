@@ -563,7 +563,10 @@
 		"requiredTech": "Civil Service",
 		"upgradesTo": "Pike and Shot",
 		"obsoleteTech": "Pike and Shot Tactic",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Pavisier_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Flailman",
@@ -634,7 +637,10 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["[Free Imperial Knight] ability"],
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Free Imperial Knight_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Ritterbruder",
@@ -666,7 +672,10 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "horse"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Wagenburg_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Camel Archer",
@@ -861,7 +870,10 @@
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["[Schwertbruder] ability"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Schwertbruder_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Victual Brother",
@@ -876,7 +888,10 @@
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
 		"promotions": ["Amphibious","[Victual Brother] ability"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Victual Brother_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Rhenish Foot Knight",
@@ -891,7 +906,10 @@
 		"obsoleteTech": "Heavy Edged Weapons",
 		"requiredResource": "Iron",
 		"uniques": ["[+30]% Strength <vs [{Medieval era} {Sword}] units>","[+15]% Strength <vs [{Medieval era} {Mounted}] units>"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Rhenish Foot Knight_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Black Army",
@@ -954,7 +972,10 @@
 		"obsoleteTech": "Warships",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "Transfer Movement to [Civilian]"],
 		"hurryCostModifier": 30,
-		"attackSound": "cannon"
+		"attackSound": "cannon",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Cog_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Turtle Ship",
@@ -1038,7 +1059,10 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Freischütze_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Gallowglass",
@@ -1053,7 +1077,10 @@
 		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Gallowglass_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Ducal Trabant",
@@ -1069,7 +1096,10 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Ducal Trabant_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Musketman",
@@ -1175,7 +1205,10 @@
 		],
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Doppelsöldner_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Imperial Tercio",
@@ -1190,7 +1223,10 @@
 		"promotions": ["[Imperial Tercio] ability","Shock I"],
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Imperial Tercio_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Privateer",
@@ -1257,7 +1293,10 @@
 		"upgradesTo": "Hussar",
 		"obsoleteTech": "Combined Arms",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-		"attackSound": "crossbow"
+		"attackSound": "crossbow",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Reisige Armbrustschützen_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Huszár",
@@ -1328,7 +1367,10 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Schwarze Reiter_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Sipahi",
@@ -1406,7 +1448,10 @@
 		"requiredResource": "Iron",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Hessian Grenadier_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Grenadiergarde",
@@ -1422,7 +1467,10 @@
 		"requiredResource": "Iron",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Grenadiergarde_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Old Guard",
@@ -1480,7 +1528,10 @@
 		"requiredTech": "Flintlock",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Black Brunswicker_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Skirmisher",
@@ -1509,7 +1560,10 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Dynamite",
 		"promotions": ["[Hessian Jäger] ability"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Hessian Jäger_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Hussar",
@@ -1552,7 +1606,10 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Reichsarmee Cuirassier_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Field Gun",
@@ -1666,7 +1723,10 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Blitz"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Needle Gunner_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Norwegian Ski Infantry",
@@ -1742,7 +1802,10 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
 		"promotions": ["[Chevaulegers] ability"],
-		"attackSound": "cavalry"
+		"attackSound": "cavalry",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Chevaulegers_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Ironclad",
