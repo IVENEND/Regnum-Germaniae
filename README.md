@@ -81,7 +81,7 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 
 # Credits:
 * GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
-* Novert: sprite of Landship (A7V), German Machine Gunner, French Rifleman and GW Infantry.
+* Novert: sprite of Landship (A7V), German Machine Gunner, French Rifleman and GW Infantry, Industrial era worker.
 * RobLoach: Code of Poland and its UU, Personality. Part of code of Hanseatic League (From his Civ-V-Brave-New-World mod).
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
 * JFD: author of following Civ 5 mods: The Papal States (Julius II), Denmark-Norway (Christian IV), Flanders (Robert III), Genoa (Simone Boccanegra), Bohemia (Vaclav II), Milan (Gian Galeazzo), Scotland (James VI), Malta (Jean Valette), Burgundy (Philip III), Prussia (Frederick II), Saxony (Frederick Augustus I). For texts.
