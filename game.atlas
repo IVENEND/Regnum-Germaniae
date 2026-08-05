@@ -627,6 +627,13 @@ TileSets/HexaRealm/Units/Warrior-1
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Worker-Atomic era-1
+  rotate: false
+  xy: 184, 1985
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Worker-Industrial era-1
   rotate: false
   xy: 184, 1985
@@ -4099,51 +4106,58 @@ TileSets/HexaRealm/Units/Worker
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Barbarians
+TileSets/HexaRealm/Units/Worker-Atomic era
   rotate: false
   xy: 868, 255
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Barbarians-Classical era
-  rotate: false
-  xy: 868, 255
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Worker-Classical era
+TileSets/HexaRealm/Units/Worker-Atomic era-2
   rotate: false
   xy: 868, 191
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Classical era-1
+TileSets/HexaRealm/Units/Worker-Barbarians
   rotate: false
   xy: 868, 127
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Classical era-2
+TileSets/HexaRealm/Units/Worker-Barbarians-Classical era
+  rotate: false
+  xy: 868, 127
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Classical era
   rotate: false
   xy: 868, 63
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Industrial era
+TileSets/HexaRealm/Units/Worker-Classical era-1
   rotate: false
   xy: 940, 587
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker-Industrial era-2
+TileSets/HexaRealm/Units/Worker-Classical era-2
   rotate: false
   xy: 940, 523
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Industrial era
+  rotate: false
+  xy: 940, 459
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -4151,6 +4165,13 @@ TileSets/HexaRealm/Units/Worker-Industrial era-2
 TileSets/HexaRealm/Units/Worker-Modern era
   rotate: false
   xy: 940, 459
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker-Industrial era-2
+  rotate: false
+  xy: 940, 395
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
