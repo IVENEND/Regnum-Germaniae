@@ -659,7 +659,10 @@
 		"requiredResource": "Horses",
 		"promotions": ["[Ritterbruder] ability"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","Can be purchased with [Faith] [in all cities]"],
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Ritterbruder_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Wagenburg",
@@ -1037,7 +1040,10 @@
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Rodeleros_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Two-handed Swordsman",
@@ -1133,7 +1139,10 @@
 		"requiredTech": "Tech.Gunpowder",
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Hajduk_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Musketeer",
@@ -1318,7 +1327,10 @@
 		"promotions": ["Charge"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Hussar",
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Huszár_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Lancer",
@@ -1492,7 +1504,10 @@
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Old Guard_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Line Infantry",
@@ -1717,7 +1732,10 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Redcoat_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Needle Gunner",
