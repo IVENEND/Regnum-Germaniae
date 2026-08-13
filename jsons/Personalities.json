@@ -2002,5 +2002,39 @@
 			"[+75]% weight to [Ranged Gunpowder] for AI decisions"
 			"[+75]% weight to [Archery] for AI decisions"
 	]
+  },
+  {
+    "name": "Ernest Augustus",
+	"production": 9, // Production Emphasis
+	"food": 6, // Growth
+	"gold": 6, // Gold Emphasis
+	"science": 5, // Science Emphasis
+	"culture": 5, // Culture Emphasis
+	"happiness": 4, // Happiness Emphasis
+	"faith": 4, // Religion Emphasis
+	"military": 6, // Offensive Unit Production
+	"aggressive": 5, // Competitiveness
+	"declareWar": 6, // Likeliness to Declare War
+	"commerce": 5, // Land Trade Route Emphasis + Sea Trade Route Emphasis / 2
+	"diplomacy": 5, // Diplobalance
+	"loyal": 6, // Loyalty
+	"expansion": 4, // Expansion
+    "denounceWillingness": 6,
+	"priorities": {
+			"Tradition": 8, // Culture + Wonder
+			"Liberty": 4, // Expansion + TileImprovement
+			"Honor": 6, // Boldness + Likeliness to Declare War
+			"Commerce": 6, // Gold + Chatiness
+			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
+			"Piety": 5, // Religion Emphasis + Protection of City-States
+			"Rationalism": 5, // Science Emphasis + Spaceship
+			"Freedom": 5, // Happiness Emphasis + Growth
+			"Autocracy": 9, // Boldness + Military Training Buildings Production
+			"Order": 7 // Production Emphasis
+	},
+	"uniques": [
+			"[+100]% weight to [KGL Light Infantry] for AI decisions",
+			"[+100]% weight to [KGL Line Infantry] for AI decisions"
+	]
   }
 ]
