@@ -1659,6 +1659,7 @@
     },
 	{
 		"name": "Hanover",
+		"style": "GermanLightIcon",
 		"leaderName": "Ernest Augustus",
 		"adjective": ["Hanoverian"],
         "startBias": ["Avoid [Coast]"],
