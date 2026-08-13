@@ -182,7 +182,7 @@
 				"name": "Iron Working",
 				"row": 10,
 				"prerequisites": ["Bronze Working"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
 			}
 		]
@@ -274,7 +274,7 @@
 				"name": "Steel",
 				"row": 10,
 				"prerequisites": ["Metal Casting"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
 			}
 		]
@@ -318,14 +318,14 @@
 				"name": "Heavy Edged Weapons",
 				"row": 9,
 				"prerequisites": ["Steel","Physics"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'Suddenly, as the the Italian pikemen began to approach, about 300 picked young men who are called the forlorn hope issued forth from each flank of the infantry body and with their great swords which they wielded with both hands began to chop up those enormous pikes with such boldness that nearly all those pikemen.' - Paolo Giovio"
 			},
 			{
 				"name": "Tech.Gunpowder",
 				"row": 10,
 				"prerequisites": ["Physics","Steel"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
 		]
@@ -361,14 +361,14 @@
 				"name": "Metallurgy",
 				"row": 8,
 				"prerequisites": ["Printing Press","Heavy Edged Weapons"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
 			},
 			{
 				"name": "Pike and Shot Tactic",
 				"row": 9,
 				"prerequisites": ["Tech.Gunpowder","Heavy Edged Weapons"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'That upon seeing you armed of fulminant rays, Alas Jupiter, your valorous right hand, think I that the giants have returned to this land..' - Francisco de Quevedo. To Phillipe III"
 			},
 			{
