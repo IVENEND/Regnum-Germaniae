@@ -1522,6 +1522,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "KGL Line Infantry",
+		"unitType": "Gunpowder",
+		"replaces": "Line Infantry",
+		"uniqueTo": "Hanover",
+		"movement": 2,
+		"strength": 30,
+		"cost": 185,
+		"promotions": ["[KGL Line Infantry] ability"],
+		"uniques": ["[+30]% Strength <vs [Mounted] units>"],
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Carolean",
 		"unitType": "Gunpowder",
 		"replaces": "Line Infantry",
@@ -1566,6 +1581,22 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Dynamite",
 		"attackSound": "shot"
+	},
+	{
+		"name": "KGL Light Infantry",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Skirmisher",
+		"uniqueTo": "Hanover",
+		"range": 1,
+		"movement": 3,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 185,
+		"requiredTech": "Flintlock",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Dynamite",
+		"attackSound": "shot",
+		"uniques": ["Can move after attacking"]
 	},
 	{
 		"name": "Hessian Jäger",

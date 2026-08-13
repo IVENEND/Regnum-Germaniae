@@ -808,6 +808,10 @@
 		"uniques": ["Gain [2] [Culture] <upon ending a turn in a [City center] tile>","[+2] Strength <when adjacent to a [Great General] unit>"]
 	},
 	{
+		"name": "[KGL Line Infantry] ability",
+		"uniques": ["[This Unit] heals [10] HP <upon ending a turn in a [Road] tile>","[This Unit] heals [15] HP <upon ending a turn in a [Railroad] tile>"]
+	},
+	{
 		"name": "[Hessian Grenadier] ability",
 		"uniques": ["[+20]% Strength <on foreign continents>"]
 	},
