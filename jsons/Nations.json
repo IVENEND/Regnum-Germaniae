@@ -1657,6 +1657,34 @@
 		"cities": ["Lübeck"],
         "spyNames": ["Hermann", "Johann", "Friederike", "Henriette", "Wilhelmine", "Störtebeker", "Anna", "Fredericka", "Augusta", "Maria Anna"]
     },
+	{
+		"name": "Hanover",
+		"leaderName": "Ernest Augustus",
+		"adjective": ["Hanoverian"],
+        "startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Elector Maximilian I",
+
+        "startIntroPart1": "Hail to the King of Hanover, Ernest Augustus. Ascending to the throne in 1837 during a time of radical change across Europe, your reign would oversee the lone path that Hanover was to tred. The great personal union with Britain had come to an end, and yours would be a kingship on the fringes of revolution and industrialization. Though controversial for your hardline conservatism, you nonetheless steered Hanover through the storms of change; ushering in industrial modernity and ensuring the safety of your kingdom against the tides of revolution sweeping across Europe.",
+        "startIntroPart2": "The noble House of Hanover is yours, Ernest Augustus, and with it is the charge of its ancient territories and peoples. The Hanoverian realm must not let the chance of industry pass it by. Can you lead this industrial revolution? Can you link your realm together through coal and rail? Can you build a civilization that stands the test of time?",
+
+        "declaringWar": "Come. Diplomacy has been exhausted. Only war shall reveal the path ahead.",
+		"attacked": "Outrageous!",
+		"defeated": "I was not fit for this throne. I was made for greater things. This loss here, today, is proof of that.",
+		"denounced": "Hmph. Anything else?",
+		"introduction": "Hail. I am Ernest Augustus, king of Hanover. Speak quickly in my presence, for I have other matters to which to attend. Other, more important matters.",
+		"neutralHello": "Hail.",
+		"hateHello": "Yes, what is it?",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [193, 159, 28],
+		"innerColor": [233, 228, 228],
+		"favoredReligion": "Lutheranism",
+		"uniqueName": "Reinheitsgebot",
+		"uniques": ["[+1 Happiness, +1 Culture] from every [Wheat]","Imperial Estate of the Holy Roman Empire"],
+		"cities": ["Hanover","Lüneburg","Osnabrück","Emden","Hildesheim","Göttingen","Celle","Clausthal","Goslar","Einbeck",
+			"Hamelin","Stade","Meppen","Zellerfeld","Lingen","Verden an der Aller","Aurich","Vienenburg","Wolfsburg","Salzgitter","Nienburg","Neustadt","Wennigsen","Langenhagen","Wunstorf","Nordhorn","Garbsen","Uetze"],
+        "spyNames": ["Charlotte", "Johann", "Edward", "Wilhelm", "Hinrich", "George", "Frederick", "William", "Adolph", "Marie"]
+    },
 
 
 	// City-States sorted by cityStateType, name
