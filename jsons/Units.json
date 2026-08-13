@@ -1190,7 +1190,10 @@
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
 		"promotions": ["[Gebirgsschützen] ability","Drill I"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Gebirgsschützen_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Pike and Shot",
