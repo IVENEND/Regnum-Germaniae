@@ -588,7 +588,7 @@
 				"name": "Replaceable Parts",
 				"row": 4,
 				"prerequisites": ["Electricity","Steam Power"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{
