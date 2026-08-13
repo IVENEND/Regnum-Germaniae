@@ -1534,7 +1534,10 @@
 		"requiredTech": "Flintlock",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/KGL Line Infantry_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Carolean",
@@ -1596,7 +1599,11 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Dynamite",
 		"attackSound": "shot",
-		"uniques": ["Can move after attacking"]
+		"uniques": ["Can move after attacking"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/KGL Light Infantry_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Hessian Jäger",
