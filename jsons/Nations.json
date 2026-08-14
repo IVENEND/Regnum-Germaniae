@@ -1681,7 +1681,7 @@
 		"innerColor": [193, 159, 28],
 		"favoredReligion": "Lutheranism",
 		"uniqueName": "Royal Crossways",
-		"uniques": ["[+1 Production] <in cities connected to the capital> <for every [Cities]>","Imperial Estate of the Holy Roman Empire"],
+		"uniques": ["[+1 Production] <in cities connected to the capital> <for every [[in all cities connected to capital] Cities]>","Imperial Estate of the Holy Roman Empire"],
 		"cities": ["Hanover","Lüneburg","Osnabrück","Emden","Hildesheim","Göttingen","Celle","Clausthal","Goslar","Einbeck",
 			"Hamelin","Stade","Meppen","Zellerfeld","Lingen","Verden an der Aller","Aurich","Vienenburg","Wolfsburg","Salzgitter","Nienburg","Neustadt","Wennigsen","Langenhagen","Wunstorf","Nordhorn","Garbsen","Uetze"],
         "spyNames": ["Charlotte", "Johann", "Edward", "Wilhelm", "Hinrich", "George", "Frederick", "William", "Adolph", "Marie"]
