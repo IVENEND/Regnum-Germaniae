@@ -42,6 +42,9 @@ Reskin generic units to fit in the theme of the mod.
 * Scotland
 * Westphalia
 * Poland
+* Hanover
+* Hanseatic League
+* National Assembly
 
 **Modified vanilla civilizations (WIP, partly done):**
 
@@ -56,9 +59,7 @@ Reskin generic units to fit in the theme of the mod.
 * Spain
 
 **Planned new and modified Civilizations (WIP, not promised!):**
-* Hanover
 * Holstein
-* Hanseatic League
 * Burgundy
 * Ottoman
 * Russia
@@ -81,8 +82,8 @@ World Congress/United Nation system will be modified into the Holy Roman Empire.
 
 # Credits:
 * GeneralWadaling: author of HexaRealm* Tileset, for bases of unit arts, and many icon arts.
-* Novert: sprites of Landship (A7V), Various Machine Gunner, Various Rifleman, GW Infantry, Infantry, Industrial era worker, GKL Line/Light Infantry.
-* Pjokolom: Wagenburg, Flailman, Galleon, Schwertbruder, Cruiser sprite
+* Novert: sprites of Landship (A7V), Various Machine Gunner, Various Riflemen, Various GW Infantries, Various Infantries, Industrial era worker, GKL Line/Light Infantry.
+* Pjokolom: sprites of Wagenburg, Flailman, Galleon, Schwertbruder, Cruiser.
 * RobLoach: Code of Poland and its UU, Personality. Part of code of Hanseatic League (From his Civ-V-Brave-New-World mod).
 * Tomatekh: author of Civ 5 mod "Historical Religions Remastered Add* On", for new religions and their icons.
 * JFD: author of following Civ 5 mods: The Papal States (Julius II), Denmark-Norway (Christian IV), Flanders (Robert III), Genoa (Simone Boccanegra), Bohemia (Vaclav II), Milan (Gian Galeazzo), Scotland (James VI), Malta (Jean Valette), Burgundy (Philip III), Prussia (Frederick II), Saxony (Frederick Augustus I), Hanover (Ernest Augustus). For texts.
