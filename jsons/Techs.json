@@ -416,14 +416,14 @@
 			{
 				"name": "Combined Arms",
 				"row": 8,
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"prerequisites": ["Metallurgy","Pike and Shot Tactic"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			},
 			{
 				"name": "Flintlock",
 				"row": 9,
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"prerequisites": ["Metallurgy","Pike and Shot Tactic","Chemistry"],
 				"quote": "'To be prepared for war is one of the most effectual means of preserving peace.' - George Washington"
 			}
@@ -516,7 +516,7 @@
 				"name": "Rifling",
 				"row": 7,
 				"prerequisites": ["Manufacturing","Tech.Fortification","Fertilizer"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[-10]% weight to this choice for AI decisions"],
 				"quote": "'It is well that war is so terrible, or we should grow too fond of it.' - Robert E. Lee"
 			},
 			{

@@ -20,11 +20,20 @@
         "movementType": "Land"
     },
     {
+        "name": "Marine Gunpowder",
+	    "uniques": ["Gunpowder"],
+        "movementType": "Land"
+    },
+    {
         "name": "Mixed Gunpowder",
         "movementType": "Land"
     },
     {
         "name": "Grenadier Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Anti-Aircraft",
         "movementType": "Land"
     },
     {

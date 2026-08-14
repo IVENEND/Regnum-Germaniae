@@ -1998,7 +1998,7 @@
 	},
 	{
 		"name": "Anti-Aircraft Gun",
-		"unitType": "Gunpowder",
+		"unitType": "Anti-Aircraft",
 		"movement": 2,
 		"interceptRange": 2,
 		"strength": 50,
@@ -2050,7 +2050,7 @@
 	},
 	{
 		"name": "Marine",
-		"unitType": "Gunpowder",
+		"unitType": "Marine Gunpowder",
 		"movement": 2,
 		"strength": 65,
 		"cost": 400,
@@ -2125,7 +2125,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 65,
-		"cost": 375,
+		"cost": 370,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
@@ -2203,7 +2203,7 @@
 	},
 	{
 		"name": "Mobile SAM",
-		"unitType": "Gunpowder",
+		"unitType": "Anti-Aircraft",
 		"movement": 3,
 		"interceptRange": 2,
 		"strength": 65,
