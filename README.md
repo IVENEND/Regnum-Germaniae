@@ -57,12 +57,12 @@ Reskin generic units to fit in the theme of the mod.
 * America
 * Englnad
 * Spain
+* Russia
 
 **Planned new and modified Civilizations (WIP, not promised!):**
 * Holstein
 * Burgundy
 * Ottoman
-* Russia
 * Papal State
 * Flanders
 * Milan
