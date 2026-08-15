@@ -214,30 +214,44 @@ OtherIcons/Rodeleros_pedia
   orig: 256, 256
   offset: 0, 0
   index: -1
-OtherIcons/Schwarze Reiter_pedia
+OtherIcons/Rynda_pedia
   rotate: false
   xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-OtherIcons/Schwertbruder_pedia
+OtherIcons/Schwarze Reiter_pedia
   rotate: false
   xy: 1060, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-OtherIcons/Victual Brother_pedia
+OtherIcons/Schwertbruder_pedia
   rotate: false
   xy: 1324, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-OtherIcons/Wagenburg_pedia
+OtherIcons/Streltsy_pedia
   rotate: false
   xy: 1588, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+OtherIcons/Victual Brother_pedia
+  rotate: false
+  xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+OtherIcons/Wagenburg_pedia
+  rotate: false
+  xy: 796, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0

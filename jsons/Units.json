@@ -264,22 +264,6 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Horse Archer",
-		"unitType": "Archery",
-		"uniqueTo": "The Huns",
-		"replaces": "Chariot Archer",
-		"movement": 4,
-		"strength": 7,
-		"rangedStrength": 10,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Will not be displayed in Civilopedia"],
-		"promotions": ["Accuracy I"],
-		"attackSound": "arrow"
-	},
-	{
 		"name": "War Elephant",
 		"unitType": "Archery",
 		"uniqueTo": "India",
@@ -1140,7 +1124,10 @@
 		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Rynda_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Musketman",
@@ -1169,7 +1156,10 @@
 		"requiredTech": "Tech.Gunpowder",
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Streltsy_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Hajduk",
@@ -1335,6 +1325,21 @@
 		"strength": 20,
 		"cost": 165,
 		"requiredTech": "Tech.Gunpowder",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Hussar",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Horse Archer",
+		"unitType": "Light Mounted",
+		"replaces": "Petronel",
+		"uniqueTo": "Russia",
+		"movement": 5,
+		"strength": 20,
+		"cost": 165,
+		"requiredTech": "Physics",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% to Flank Attack bonuses"],
 		"obsoleteTech": "Combined Arms",
