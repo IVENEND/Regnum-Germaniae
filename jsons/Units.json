@@ -1034,7 +1034,7 @@
 		"movement": 2,
 		"strength": 21,
 		"cost": 130,
-		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","Unavailable <for [Hungary] Civilizations>","Unavailable <for [Hanseatic League] Civilizations>"],
+		"uniques": ["[+25]% Strength <vs [Archery] units>","[+20]% Strength bonus for [Ranged Gunpowder] units within [1] tiles <when defending>","Unavailable <for [Hungary] Civilizations>","Unavailable <for [Hanseatic League] Civilizations>","Unavailable <for [Russia] Civilizations>"],
 		"requiredTech": "Heavy Edged Weapons",
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
