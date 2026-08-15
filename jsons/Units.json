@@ -625,6 +625,21 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Boyar",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Russia",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Cuirassier",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+3] Strength <after discovering [Metallurgy]>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Free Imperial Knight",
 		"unitType": "Mounted",
 		"replaces": "Knight",
@@ -1393,7 +1408,8 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit",
+			"Unavailable <for [Russia] Civilizations>"],
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"attackSound": "horse"
@@ -1887,22 +1903,6 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "cavalry"
-	},
-	{
-		"name": "Cossack",
-		"unitType": "Mounted",
-		"replaces": "Cavalry",
-		"uniqueTo": "Russia",
-		"movement": 4,
-		"strength": 31,
-		"cost": 225,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
-		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["[Cossack] ability"],
 		"attackSound": "cavalry"
 	},
 	{
