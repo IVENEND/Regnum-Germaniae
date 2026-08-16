@@ -544,7 +544,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <when adjacent to a [Russian Pikeman] unit> <after discovering [Heavy Edged Weapons]>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% Strength <vs [Mounted] units> <after discovering [Heavy Edged Weapons]>","[+4] Strength <when adjacent to a [Russian Pikeman] unit> <after discovering [Heavy Edged Weapons]>","Comment [Upgrades to Line Infantry]"],
 		"upgradesTo": "Line Infantry",
 		"obsoleteTech": "Flintlock",
 		"attackSound": "metalhit"
@@ -636,7 +636,7 @@
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Cuirassier",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+3] Strength <after discovering [Metallurgy]>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+3] Strength <after discovering [Metallurgy]>", "Never appears as a Barbarian unit","Comment [Upgrades to Cuirassier]"],
 		"attackSound": "horse"
 	},
 	{
@@ -1352,7 +1352,9 @@
 		"replaces": "Petronel",
 		"uniqueTo": "Russia",
 		"movement": 5,
-		"strength": 20,
+		"range": 1,
+		"strength": 17,
+		"rangedStrength": 19,
 		"cost": 165,
 		"requiredTech": "Physics",
 		"requiredResource": "Horses",
