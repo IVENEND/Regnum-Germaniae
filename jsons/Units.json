@@ -1069,7 +1069,10 @@
 		"upgradesTo": "Grenadier",
 		"obsoleteTech": "Flintlock",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Two-handed Swordsman_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Freischütze",
@@ -1207,7 +1210,10 @@
 		"requiredTech": "Tech.Gunpowder",
 		"upgradesTo": "Skirmisher",
 		"obsoleteTech": "Flintlock",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Musketeer_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Janissary",
@@ -1439,7 +1445,10 @@
 		],
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"attackSound": "horse"
+		"attackSound": "horse",
+		"civilopediaText": [
+			{"extraImage": "OtherIcons/Winged Hussar_pedia", "imageSize": 256}
+		]
 	},
 	{
 		"name": "Schwarze Reiter",
