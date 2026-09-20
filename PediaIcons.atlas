@@ -13,7 +13,7 @@ OtherIcons/Black Army_pedia
   index: -1
 OtherIcons/Black Brunswicker_pedia
   rotate: false
-  xy: 1324, 1060
+  xy: 1588, 1324
   size: 141, 256
   orig: 141, 256
   offset: 0, 0
@@ -27,86 +27,86 @@ OtherIcons/Bürgerwehr_pedia
   index: -1
 OtherIcons/Chevaulegers_pedia
   rotate: false
-  xy: 268, 1588
-  size: 256, 256
-  orig: 256, 256
+  xy: 1060, 796
+  size: 176, 256
+  orig: 176, 256
   offset: 0, 0
   index: -1
 OtherIcons/Cog_pedia
   rotate: false
-  xy: 4, 1060
+  xy: 268, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Doppelsöldner_pedia
   rotate: false
-  xy: 268, 1324
+  xy: 4, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Ducal Trabant_pedia
   rotate: false
-  xy: 1588, 1324
+  xy: 1852, 1588
   size: 141, 256
   orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Executioner_pedia
   rotate: false
-  xy: 532, 1588
+  xy: 268, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Free Imperial Knight_pedia
   rotate: false
-  xy: 4, 796
+  xy: 532, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Freischütze_pedia
   rotate: false
-  xy: 1060, 796
+  xy: 1324, 1060
   size: 176, 256
   orig: 176, 256
   offset: 0, 0
   index: -1
 OtherIcons/Gallowglass_pedia
   rotate: false
-  xy: 268, 1060
+  xy: 4, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Gebirgsschützen_pedia
   rotate: false
-  xy: 532, 1324
+  xy: 268, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Grenadiergarde_pedia
   rotate: false
-  xy: 796, 1588
+  xy: 532, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hajduk_pedia
   rotate: false
-  xy: 4, 532
+  xy: 796, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hessian Grenadier_pedia
   rotate: false
-  xy: 1852, 1588
-  size: 141, 256
-  orig: 141, 256
+  xy: 4, 532
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hessian Jäger_pedia
