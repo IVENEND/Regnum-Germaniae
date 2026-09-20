@@ -13,203 +13,203 @@ OtherIcons/Black Army_pedia
   index: -1
 OtherIcons/Black Brunswicker_pedia
   rotate: false
-  xy: 4, 1324
-  size: 256, 256
-  orig: 256, 256
+  xy: 1324, 1060
+  size: 141, 256
+  orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Bürgerwehr_pedia
   rotate: false
-  xy: 268, 1588
+  xy: 4, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Chevaulegers_pedia
   rotate: false
-  xy: 4, 1060
+  xy: 268, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Cog_pedia
   rotate: false
-  xy: 268, 1324
+  xy: 4, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Doppelsöldner_pedia
   rotate: false
-  xy: 532, 1588
+  xy: 268, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Ducal Trabant_pedia
   rotate: false
-  xy: 796, 268
+  xy: 1588, 1324
   size: 141, 256
   orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Executioner_pedia
   rotate: false
-  xy: 4, 796
+  xy: 532, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Free Imperial Knight_pedia
   rotate: false
-  xy: 268, 1060
+  xy: 4, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Freischütze_pedia
   rotate: false
-  xy: 1852, 1588
+  xy: 1060, 796
   size: 176, 256
   orig: 176, 256
   offset: 0, 0
   index: -1
 OtherIcons/Gallowglass_pedia
   rotate: false
-  xy: 532, 1324
+  xy: 268, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Gebirgsschützen_pedia
   rotate: false
-  xy: 796, 1588
+  xy: 532, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Grenadiergarde_pedia
   rotate: false
-  xy: 4, 532
+  xy: 796, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hajduk_pedia
   rotate: false
-  xy: 268, 796
+  xy: 4, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hessian Grenadier_pedia
   rotate: false
-  xy: 532, 1060
-  size: 256, 256
-  orig: 256, 256
+  xy: 1852, 1588
+  size: 141, 256
+  orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Hessian Jäger_pedia
   rotate: false
-  xy: 796, 1324
-  size: 256, 256
-  orig: 256, 256
+  xy: 532, 4
+  size: 141, 256
+  orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Huszár_pedia
   rotate: false
-  xy: 1060, 1588
+  xy: 268, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Imperial Tercio_pedia
   rotate: false
-  xy: 4, 268
+  xy: 532, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/KGL Light Infantry_pedia
   rotate: false
-  xy: 268, 532
+  xy: 796, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/KGL Line Infantry_pedia
   rotate: false
-  xy: 532, 796
+  xy: 1060, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Musketeer_pedia
   rotate: false
-  xy: 796, 1060
-  size: 256, 256
-  orig: 256, 256
+  xy: 796, 268
+  size: 141, 256
+  orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Needle Gunner_pedia
   rotate: false
-  xy: 1060, 1324
+  xy: 4, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Old Guard_pedia
   rotate: false
-  xy: 1324, 1588
+  xy: 268, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Pavisier_pedia
   rotate: false
-  xy: 4, 4
+  xy: 532, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Redcoat_pedia
   rotate: false
-  xy: 268, 268
+  xy: 796, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Reichsarmee Cuirassier_pedia
   rotate: false
-  xy: 532, 532
+  xy: 1060, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Reisige Armbrustschützen_pedia
   rotate: false
-  xy: 796, 796
+  xy: 1324, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Reisläufer_pedia
   rotate: false
-  xy: 1060, 1060
+  xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Rhenish Foot Knight_pedia
   rotate: false
-  xy: 1324, 1324
+  xy: 268, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Ritterbruder_pedia
   rotate: false
-  xy: 1588, 1588
+  xy: 532, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -223,56 +223,56 @@ OtherIcons/Rodeleros_pedia
   index: -1
 OtherIcons/Rynda_pedia
   rotate: false
-  xy: 268, 4
+  xy: 796, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Schwarze Reiter_pedia
   rotate: false
-  xy: 532, 268
+  xy: 1060, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Schwertbruder_pedia
   rotate: false
-  xy: 796, 532
+  xy: 1324, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Streltsy_pedia
   rotate: false
-  xy: 1060, 796
+  xy: 1588, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Two-handed Swordsman_pedia
   rotate: false
-  xy: 1324, 796
+  xy: 1244, 796
   size: 141, 256
   orig: 141, 256
   offset: 0, 0
   index: -1
 OtherIcons/Victual Brother_pedia
   rotate: false
-  xy: 1324, 1060
+  xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Wagenburg_pedia
   rotate: false
-  xy: 1588, 1324
+  xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 OtherIcons/Winged Hussar_pedia
   rotate: false
-  xy: 532, 4
+  xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
